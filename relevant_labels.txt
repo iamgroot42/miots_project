@@ -1,0 +1,15 @@
+Needs Hardware
+security v3
+Area: Debug Infrastructure
+security vulnerability
+triage: user protections
+security
+area/security
+critical bug
+Infrastructure
+infrastructure
+security fix
+Authentication
+embedded systems
+security findings
+critical security issue

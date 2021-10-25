@@ -1,0 +1,68 @@
+Target: Authentication
+Area-Server
+area/security
+Build system
+feature: :lock: end to end encryption
+code maintenance
+Crash/Data Corruption
+comp: border router
+Bug? False Alarm
+Priority-Critical
+Area: Build Infrastructure
+External tools
+Needs Hardware
+Hardware Feature
+critical
+security
+Build System
+has solution
+High Priority
+Infrastructure
+building-system
+security fix
+component:deployment
+needs testing
+Data corruption
+Area: Debug Infrastructure
+build system
+technical debt
+update dependencies
+security findings
+Technical debt
+status:unsupported client
+Triage
+component:build system
+Embedded systems/ARM
+triage: feature
+Tag: Infrastructure
+security v3
+critical security issue
+infrastructure
+priority:critical
+in triage
+priority: critical
+embedded systems
+Data Source Manager
+Authentication
+attestation
+Critical feature
+? - Needs Triage
+Needs more data
+TRACKING ISSUE
+Workaround exists
+high priority
+in:Build System
+triage
+security vulnerability
+critical bug
+Full Implementation Committee Decision
+Network
+triage: user protections
+needs investigation
+Need testing
+component:infrastructure
+0. Needs triage
+needs-triage
+Needs testing
+ArcGIS feature server data provider
+Data Provider

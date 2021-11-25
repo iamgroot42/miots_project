@@ -1,0 +1,5037 @@
+/actionless/pikaur/
+601	set()
+600	set()
+598	{'good first issue', 'enhancement'}
+596	{'need info'}
+584	{'need info'}
+568	{'enhancement'}
+557	{'discussion', 'feature'}
+554	{'help wanted', 'good first issue', 'feature'}
+546	{'question', 'help wanted'}
+544	{'good first issue', 'feature'}
+542	{'enhancement'}
+534	{'need info'}
+528	{'need info'}
+527	{'enhancement'}
+526	{'discussion', 'good first issue'}
+525	{'good first issue', 'bug'}
+519	{'help wanted', 'good first issue', 'enhancement'}
+500	{'need info'}
+496	{'good first issue', 'enhancement'}
+493	{'good first issue', 'enhancement'}
+491	{'need info'}
+483	{'good first issue', 'feature'}
+470	{'discussion', 'feature'}
+460	{'good first issue', 'enhancement'}
+448	{'help wanted', 'good first issue', 'bug'}
+441	{'discussion'}
+405	{'need info', 'bug'}
+382	{'discussion', 'enhancement'}
+371	{'good first issue', 'enhancement'}
+368	{'discussion', 'enhancement'}
+/AdguardTeam/AdguardFilters/
+101077	{'T: Annoyance', 'N: AdGuard for Windows', 'P2: High'}
+101076	{'T: Ads', 'P3: Medium', 'N: AdGuard Browser Extension'}
+101075	{'T: Annoyance', 'N: AdGuard Browser Extension', 'P2: High'}
+101074	{'N: AdGuard Browser Extension', 'P1: Critical', 'T: Anti Adblock Script'}
+101073	{'N: AdGuard for iOS', 'T: Anti Adblock Script', 'P4: Low'}
+101072	{'T: Ads', 'P3: Medium', 'N: AdGuard Browser Extension'}
+101071	{'T: Incorrect Blocking', 'P3: Medium', 'N: AdGuard Browser Extension'}
+101070	{'T: Ads', 'P3: Medium', 'N: AdGuard Browser Extension'}
+101069	{'N: AdGuard for Mac', 'T: Ads', 'P4: Low'}
+101068	{'N: AdGuard for Windows', 'T: Ads', 'P3: Medium'}
+101067	{'P1: Critical', 'T: Incorrect Blocking', 'N: AdGuard Browser Extension'}
+101066	{'N: AdGuard for Android', 'T: Incorrect Blocking', 'P1: Critical'}
+101064	{'N: AdGuard for Windows', 'T: Anti Adblock Script', 'P2: High'}
+101063	{'T: Incorrect Blocking', 'N: AdGuard Browser Extension', 'P4: Low'}
+101062	{'T: Ads', 'P3: Medium', 'N: AdGuard Browser Extension'}
+101061	{'T: Incorrect Blocking', 'N: AdGuard Browser Extension', 'P4: Low'}
+101060	{'T: Annoyance', 'N: AdGuard for iOS', 'P4: Low'}
+101059	{'N: AdGuard for Safari', 'T: Anti Adblock Script', 'P4: Low'}
+101058	{'T: Ads', 'N: AdGuard Browser Extension', 'P4: Low'}
+101057	{'Unsorted'}
+101056	{'Unsorted'}
+101055	{'Unsorted'}
+101054	{'Unsorted'}
+101053	{'Unsorted'}
+101052	{'Unsorted'}
+101051	{'Unsorted'}
+101050	{'Unsorted'}
+101049	{'Unsorted'}
+101048	{'Unsorted'}
+101047	{'Unsorted'}
+/ageitgey/face_recognition/
+1389	set()
+1388	{'dependencies'}
+1387	set()
+1386	set()
+1385	set()
+1384	set()
+1382	set()
+1380	set()
+1379	set()
+1378	set()
+1377	set()
+1376	set()
+1375	set()
+1374	set()
+1373	set()
+1371	set()
+1370	set()
+1369	set()
+1368	set()
+1367	set()
+1365	set()
+1364	set()
+1363	set()
+1362	set()
+1361	set()
+1360	set()
+1359	set()
+1358	set()
+1357	set()
+1356	set()
+/AICoE/frauddetection-producer-consumer/
+/aiidateam/aiida-core/
+5237	{'requires discussion', 'topic/documentation', 'priority/quality-of-life'}
+5236	set()
+5235	set()
+5234	set()
+5229	{'priority/nice-to-have', 'topic/calc-jobs', 'type/bug'}
+5227	{'topic/documentation'}
+5225	set()
+5224	{'type/feature request', 'topic/data-types', 'priority/nice-to-have'}
+5221	{'type/question'}
+5219	{'type/bug'}
+5214	{'topic/naming-issues', 'type/usability', 'priority/quality-of-life'}
+5213	{'topic/database-migrations', 'topic/database-sqlalchemy', 'topic/setup'}
+5209	set()
+5204	{'requires discussion'}
+5203	{'priority/important', 'topic/orm', 'type/bug'}
+5198	{'type/question', 'priority/critical-blocking', 'topic/orm'}
+5193	{'design-issue', 'topic/orm'}
+5192	set()
+5188	{'dependencies', 'topic/dependencies'}
+5178	{'topic/caching', 'type/bug'}
+5172	set()
+5166	set()
+5165	set()
+5160	set()
+5155	{'type/bug'}
+5153	set()
+5152	set()
+5146	{'topic/dependencies/constraint', 'topic/dependencies'}
+5145	set()
+5140	set()
+/airware/buzzard/
+53	set()
+51	set()
+13	{'raster.get_data enhancement'}
+/Aljutor/pai_bot/
+43	{'dependencies'}
+42	{'dependencies'}
+40	{'dependencies'}
+38	set()
+7	set()
+/ansible/ansible/
+76353	{'needs_triage', 'bug', 'core_review', 'affects_2.13', 'support:core', 'module'}
+76351	{'needs_triage', 'bug', 'affects_2.9', 'support:core', 'module'}
+76350	{'docs', 'needs_triage', 'docs_only', 'core_review', 'affects_2.13', 'has_issue', 'small_patch', 'support:core'}
+76349	{'needs_triage', 'bug', 'affects_2.13', 'core_review', 'support:core'}
+76348	{'affects_2.12', 'support:core', 'needs_triage', 'bug'}
+76347	{'needs_triage', 'bug', 'affects_2.10', 'core_review', 'backport', 'support:core'}
+76346	{'needs_triage', 'needs_revision', 'bug', 'backport', 'affects_2.9', 'support:core'}
+76345	{'needs_triage', 'bug', 'core_review', 'affects_2.13', 'has_issue', 'support:core', 'module'}
+76344	{'needs_triage', 'bug', 'affects_2.11', 'support:core', 'module'}
+76343	{'needs_triage', 'bug', 'affects_2.9', 'support:core', 'module'}
+76340	{'docs', 'needs_triage', 'bug', 'docs_only', 'core_review', 'affects_2.13', 'small_patch', 'support:core'}
+76339	{'support:core', 'affects_2.11', 'needs_triage', 'bug'}
+76337	{'affects_2.12', 'docs', 'docs_only', 'backport', 'core_review', 'support:core'}
+76336	{'needs_triage', 'bug', 'affects_2.11', 'has_pr', 'support:core', 'module'}
+76334	{'needs_triage', 'bug', 'affects_2.11', 'has_pr', 'support:core'}
+76332	{'docs', 'docsite', 'affects_2.13', 'test', 'WIP', 'support:core', 'feature'}
+76327	{'needs_triage', 'affects_2.13', 'core_review', 'support:core', 'feature'}
+76326	{'needs_triage', 'needs_revision', 'bug', 'affects_2.13', 'ci_verified', 'support:core'}
+76325	{'feature', 'needs_triage', 'affects_2.13', 'WIP', 'ci_verified', 'support:core', 'module'}
+76322	{'affects_2.12', 'support:core', 'needs_triage', 'bug'}
+76320	{'P3', 'bug', 'affects_2.10', 'easyfix', 'support:core'}
+76313	{'WIP', 'support:core', 'affects_2.13', 'feature'}
+76310	{'docs', 'new_contributor', 'affects_2.13', 'core_review', 'support:core'}
+76306	{'bug', 'core_review', 'affects_2.13', 'support:core', 'module'}
+76304	{'docs', 'docs_only', 'affects_2.13', 'WIP', 'small_patch', 'support:core'}
+76302	{'bug', 'affects_2.13', 'easyfix', 'support:core', 'module'}
+76301	{'docs', 'docs_only', 'affects_2.13', 'WIP', 'small_patch', 'support:core'}
+76300	{'needs_revision', 'bug', 'affects_2.13', 'test', 'small_patch', 'support:core', 'backport_request'}
+76298	{'affects_2.12', 'docs', 'needs_triage', 'docsite', 'core_review', 'backport', 'support:core', 'module'}
+76293	{'affects_2.13', 'inventory', 'support:core', 'waiting_on_contributor', 'feature'}
+/ansible/awx/
+11386	{'component:api', 'type:enhancement'}
+11385	{'component:api', 'type:bug'}
+11384	{'component:api', 'type:bug'}
+11383	set()
+11382	set()
+11380	{'component:awx_collection', 'state:needs_review', 'type:enhancement'}
+11379	{'component:api'}
+11377	{'component:ui', 'component:api', 'type:enhancement'}
+11376	{'component:api', 'type:bug'}
+11375	{'component:api', 'type:bug'}
+11373	{'component:api', 'type:bug'}
+11372	set()
+11370	{'component:ui'}
+11367	{'type:enhancement'}
+11366	{'component:api', 'type:enhancement'}
+11365	{'component:api'}
+11363	set()
+11362	set()
+11361	{'component:ui', 'type:bug'}
+11360	{'qe:e2e'}
+11358	{'component:api', 'component:ui', 'type:bug'}
+11357	set()
+11356	{'component:api'}
+11349	{'component:awx_collection', 'type:enhancement'}
+11347	{'component:ui', 'type:task', 'component:api'}
+11346	{'component:ui', 'type:task', 'priority:high', 'component:api'}
+11345	{'component:api', 'component:docs'}
+11342	{'qe:e2e'}
+11340	{'state:needs_info'}
+11339	{'component:ui', 'type:feature', 'component:api'}
+/apache/airflow/
+19797	{'kind:feature', 'good first issue'}
+19795	{'area:dev-tools'}
+19793	set()
+19792	{'area:UI', 'area:webserver', 'okay to merge'}
+19789	{'area:providers', 'okay to merge', 'provider:AWS'}
+19788	{'kind:meta'}
+19787	{'area:providers', 'provider:AWS'}
+19785	{'area:UI', 'reported_version:2.2', 'area:core', 'kind:bug'}
+19784	{'area:helm-chart'}
+19783	{'area:core', 'kind:bug'}
+19782	{'kind:feature'}
+19781	{'kind:feature'}
+19777	{'kind:documentation', 'provider:Apache', 'okay to merge', 'area:providers'}
+19776	{'area:dev-tools', 'use public runners', 'full tests needed'}
+19769	{'area:scheduler/executor'}
+19767	{'pending-response', 'area:core', 'kind:bug'}
+19764	{'area:core', 'kind:bug'}
+19761	{'kind:feature'}
+19760	set()
+19758	{'area:API'}
+19757	{'kind:feature'}
+19756	set()
+19755	set()
+19754	{'area:core', 'kind:bug'}
+19752	{'area:providers', 'kind:bug'}
+19749	{'area:helm-chart'}
+19747	{'area:scheduler/executor'}
+19743	{'pending-response', 'area:core', 'kind:bug'}
+19739	{'kind:feature', 'good first issue', 'area:providers'}
+19737	{'area:production-image', 'area:dev-tools'}
+/apache/buildstream/
+1537	set()
+1536	set()
+1527	set()
+1521	set()
+1495	set()
+1485	set()
+1484	set()
+1479	set()
+1477	set()
+1476	set()
+1475	set()
+1474	set()
+1473	set()
+1471	set()
+1465	set()
+1464	set()
+1461	set()
+1460	set()
+1455	set()
+1453	set()
+1448	set()
+1436	set()
+1432	set()
+1429	set()
+1428	set()
+1427	set()
+1425	set()
+1424	set()
+1423	set()
+1422	set()
+/apache/tvm/
+9570	{'type: bug'}
+9569	set()
+9568	set()
+9567	{'type: bug'}
+9566	set()
+9565	set()
+9564	set()
+9563	set()
+9562	set()
+9561	set()
+9560	set()
+9558	set()
+9557	set()
+9556	set()
+9554	set()
+9553	set()
+9550	set()
+9547	set()
+9546	set()
+9544	set()
+9543	set()
+9541	set()
+9539	set()
+9534	set()
+9533	set()
+9531	set()
+9529	set()
+9528	set()
+9527	set()
+9526	set()
+/AppScale/gts/
+3230	set()
+3229	set()
+3226	set()
+3220	set()
+3216	set()
+3204	set()
+3202	set()
+3190	set()
+3180	set()
+3137	set()
+3061	set()
+3049	set()
+3021	set()
+3018	set()
+3017	set()
+3016	set()
+3006	set()
+2982	set()
+2975	set()
+2954	set()
+2942	set()
+2941	set()
+2940	set()
+2939	set()
+2938	set()
+2929	set()
+2907	set()
+2896	set()
+2884	set()
+2875	set()
+/Artemis21/summer-code-jam-2020/
+/ASCIT/donut/
+239	set()
+238	set()
+237	set()
+232	set()
+227	set()
+221	set()
+219	set()
+208	set()
+201	set()
+199	set()
+193	set()
+189	set()
+186	set()
+173	set()
+170	set()
+149	set()
+4	set()
+/astropy/astropy/
+12526	{'io.fits', 'backport-v5.0.x', 'Bug'}
+12525	{'backport-v5.0.x', 'Bug', 'cosmology'}
+12524	{'no-changelog-entry-needed', 'Docs'}
+12523	{'backport-v5.0.x', 'modeling', 'Bug'}
+12521	{'no-changelog-entry-needed', 'Docs'}
+12520	{'no-changelog-entry-needed', 'Docs'}
+12518	{'Bug', 'cosmology'}
+12517	{'no-changelog-entry-needed', 'convolution', 'merge-when-ci-passes', 'testing'}
+12514	{'wcs', 'Enhancement', 'testing'}
+12510	{'numpy-dev', 'units', 'Bug'}
+12509	{'backport-v5.0.x', 'io.misc', 'Bug'}
+12505	{'io.fits', 'table', 'units', 'Bug'}
+12504	{'config', 'Performance', 'Bug'}
+12503	{'no-changelog-entry-needed', 'installation', 'Refactoring'}
+12501	{'coordinates', 'Enhancement'}
+12498	{'Feature Request', 'stats'}
+12497	{'units', 'Bug'}
+12495	{'Refactoring', 'visualization.wcsaxes', 'testing'}
+12494	{'io.fits', 'unified-io', 'units', 'Bug'}
+12493	{'Docs', 'Release'}
+12491	{'io.fits', 'unified-io', 'Performance', 'Bug'}
+12490	{'io.misc.asdf', 'needs-discussion', 'io.fits', 'table', 'Experimental', 'io.votable', 'installation', 'io.misc'}
+12486	{'units', 'Enhancement', 'merge-when-ci-passes'}
+12482	{'utils.masked', 'backport-v5.0.x', 'Bug'}
+12481	{'Bug', 'nddata'}
+12479	{'cosmology'}
+12475	{'modeling'}
+12472	{'question', 'units', 'Bug'}
+12470	{'Extra CI', 'no-changelog-entry-needed', 'Docs'}
+12464	{'no-changelog-entry-needed', 'cosmology', 'testing'}
+/aws/aws-parallelcluster/
+3527	set()
+3521	set()
+3517	{'dependencies'}
+3516	{'dependencies'}
+3515	{'dependencies'}
+3514	set()
+3505	set()
+3499	set()
+3495	{'enhancement'}
+3492	set()
+3488	set()
+3461	{'enhancement'}
+3425	{'enhancement'}
+3419	set()
+3359	{'2.x', 'bug'}
+3323	{'3.x', '2.x', 'bug'}
+3321	{'enhancement'}
+3319	set()
+3292	{'enhancement'}
+3279	{'2.x', 'question'}
+3278	{'2.x', 'question'}
+3238	{'enhancement'}
+3229	{'skip-changelog-update'}
+3191	{'2.x', 'pending release'}
+3158	{'skip-changelog-update'}
+3138	{'skip-changelog-update'}
+3114	{'enhancement'}
+3062	{'enhancement'}
+3057	{'dependencies', 'skip-changelog-update'}
+3056	{'dependencies', 'skip-changelog-update'}
+/Azure/azure-cli-extensions/
+4154	set()
+4153	set()
+4152	{'Quantum'}
+4151	{'extension/aks-preview', 'AKS', 'Service Attention'}
+4150	{'Service Attention', 'customer-reported', 'VM SSH'}
+4149	{'extension/ml', 'Service Attention', 'customer-reported', 'Machine Learning'}
+4148	{'customer-reported', 'Network'}
+4147	set()
+4146	{'customer-reported'}
+4145	{'Service Attention', 'customer-reported', 'Container Instances'}
+4144	{'Resource Graph', 'customer-reported', 'Service Attention'}
+4143	set()
+4142	{'Service Attention', 'customer-reported', 'Connected Kubernetes'}
+4141	set()
+4140	set()
+4138	{'customer-reported'}
+4137	{'customer-reported'}
+4136	{'customer-reported'}
+4135	{'customer-reported'}
+4131	set()
+4129	{'do-not-merge'}
+4126	{'extension/ml', 'Service Attention', 'customer-reported', 'Machine Learning'}
+4125	set()
+4123	{'customer-reported'}
+4120	{'Attestation', 'Service Attention', 'customer-reported'}
+4119	{'Service Attention', 'customer-reported', 'VM SSH'}
+4117	set()
+4116	{'extension/aks-preview', 'customer-reported', 'AKS', 'Service Attention'}
+4109	{'customer-reported', 'Compute'}
+4108	{'customer-reported', 'Compute'}
+/Azure/WALinuxAgent/
+2422	set()
+2420	set()
+2390	set()
+2368	set()
+2333	{'triaged'}
+2331	{'triaged'}
+2312	{'triaged', 'provisioning'}
+2286	{'triaged', 'provisioning'}
+2207	{'triaged'}
+2149	{'V3', 'triaged'}
+2119	{'triaged'}
+2110	{'triaged', 'provisioning'}
+1984	{'RDMA', 'triaged'}
+1971	{'triaged', 'provisioning'}
+1942	{'RDMA', 'triaged'}
+1938	{'triaged', 'provisioning'}
+1920	{'needs more information', 'provisioning'}
+1917	{'provisioning'}
+1905	{'V3', 'triaged'}
+1892	{'provisioning'}
+1890	{'provisioning'}
+1887	{'provisioning'}
+1877	{'provisioning'}
+1856	{'V3'}
+1845	{'V2'}
+1819	set()
+1807	{'provisioning'}
+1788	{'V3', 'triaged'}
+1787	{'provisioning'}
+1772	{'triaged', 'provisioning'}
+/b12io/orchestra/
+815	set()
+814	set()
+813	{'javascript', 'dependencies'}
+809	{'javascript', 'dependencies'}
+806	{'dependencies', 'python'}
+804	set()
+803	{'javascript', 'dependencies'}
+802	{'dependencies', 'python'}
+801	{'dependencies', 'python'}
+800	{'dependencies', 'python'}
+798	set()
+794	{'javascript', 'dependencies'}
+793	{'dependencies', 'python'}
+792	{'javascript', 'dependencies'}
+790	{'dependencies', 'python', 'security'}
+789	{'dependencies', 'python', 'security'}
+788	{'javascript', 'dependencies'}
+783	{'dependencies', 'python'}
+782	{'dependencies', 'python'}
+780	{'javascript', 'dependencies'}
+778	set()
+777	{'javascript', 'dependencies', 'security'}
+772	{'dependencies'}
+771	{'dependencies', 'python', 'security'}
+769	set()
+764	{'javascript', 'dependencies', 'security'}
+760	{'dependencies', 'python', 'security'}
+759	{'dependencies', 'python', 'security'}
+758	{'javascript', 'dependencies', 'security'}
+757	{'javascript', 'dependencies', 'security'}
+/bids-standard/bids-specification/
+935	set()
+930	{'diffusion MRI'}
+925	{'formatting', 'good first issue'}
+923	set()
+921	set()
+920	{'derivatives', 'formatting', 'good first issue'}
+919	set()
+918	set()
+914	{'discussion'}
+912	{'schema', 'enhancement'}
+911	set()
+905	set()
+904	{'schema', 'enhancement'}
+901	{'discussion'}
+900	{'schema', 'enhancement'}
+894	set()
+893	{'consistency', 'iEEG'}
+892	set()
+890	{'schema'}
+887	{'derivatives', 'BEP'}
+885	set()
+884	{'schema'}
+881	{'BEP'}
+880	{'BEP'}
+879	set()
+876	set()
+869	{'question', 'structural MRI', 'functional MRI'}
+867	set()
+850	{'BEP'}
+849	set()
+/biocore/microsetta-private-api/
+404	set()
+403	set()
+392	set()
+381	set()
+377	set()
+376	set()
+369	set()
+366	set()
+363	set()
+358	set()
+338	set()
+336	set()
+334	set()
+327	set()
+326	set()
+309	set()
+306	set()
+305	set()
+304	set()
+294	set()
+282	set()
+264	{'enhancement'}
+262	set()
+217	{'minimalInterface'}
+195	{'minimalInterface'}
+194	{'minimalInterface'}
+160	{'minimalInterface'}
+132	set()
+122	set()
+115	{'enhancement'}
+/biocore/qiime/
+2228	set()
+2227	set()
+2225	set()
+2224	set()
+2223	set()
+2222	set()
+2221	set()
+2220	set()
+2219	set()
+2217	set()
+2215	set()
+2214	set()
+2211	set()
+2210	set()
+2209	set()
+2207	set()
+2203	{'bug'}
+2197	set()
+2195	{'bug'}
+2193	set()
+2183	set()
+2180	set()
+2177	set()
+2172	{'documentation error', 'quick fix', 'website'}
+2168	set()
+2161	set()
+2156	set()
+2155	set()
+2153	{'bug'}
+2152	set()
+/biocore/scikit-bio/
+1788	set()
+1783	set()
+1782	set()
+1781	set()
+1780	set()
+1779	set()
+1776	set()
+1775	set()
+1774	set()
+1771	set()
+1769	set()
+1767	set()
+1766	set()
+1765	set()
+1764	set()
+1761	set()
+1759	set()
+1757	set()
+1746	set()
+1745	set()
+1743	set()
+1742	set()
+1741	set()
+1740	set()
+1739	set()
+1738	set()
+1737	set()
+1735	set()
+1734	set()
+1733	set()
+/blueboxgroup/ursula/
+3005	set()
+3002	set()
+2996	set()
+2995	set()
+2987	set()
+2982	set()
+2936	set()
+2331	set()
+2144	set()
+1880	set()
+1532	set()
+1498	set()
+1434	set()
+1433	set()
+1393	set()
+1372	set()
+1365	set()
+1345	set()
+1344	set()
+1318	set()
+1166	set()
+846	set()
+615	set()
+605	set()
+591	set()
+589	set()
+587	set()
+585	set()
+584	set()
+562	set()
+/bluelabsio/records-mover/
+166	set()
+161	set()
+160	{'redshift', 'enhancement'}
+157	set()
+156	set()
+141	set()
+140	set()
+139	set()
+138	set()
+132	set()
+119	set()
+110	set()
+104	{'enhancement'}
+97	set()
+95	set()
+94	set()
+93	set()
+92	set()
+91	set()
+90	set()
+89	set()
+88	set()
+87	set()
+86	set()
+85	set()
+84	set()
+83	set()
+82	set()
+81	set()
+80	set()
+/brainiak/brainiak/
+505	{'dev'}
+501	{'bug'}
+500	set()
+499	set()
+498	set()
+495	set()
+490	set()
+489	set()
+488	set()
+487	set()
+486	set()
+478	set()
+472	set()
+471	set()
+466	set()
+462	{'dev', 'enhancement'}
+459	set()
+438	set()
+424	set()
+413	set()
+412	{'enhancement'}
+411	set()
+407	set()
+406	{'bug'}
+402	set()
+394	{'easy', 'low priority', 'help wanted', 'good first issue'}
+393	{'dev'}
+391	{'dev'}
+388	{'docs'}
+376	{'enhancement'}
+/buildstream-migration/bst-staging/
+1433	set()
+1432	set()
+1431	set()
+1430	set()
+1429	set()
+1428	set()
+1427	set()
+1426	set()
+1425	set()
+1424	set()
+1423	set()
+1422	set()
+1421	set()
+1420	set()
+1419	set()
+1418	set()
+1417	set()
+1416	set()
+1415	set()
+1414	set()
+1413	set()
+1412	set()
+1411	{'benchmark_prio-1'}
+1410	set()
+1409	set()
+1408	set()
+1407	set()
+1406	set()
+1405	set()
+1404	set()
+/CCI-MOC/m2/
+196	set()
+195	set()
+194	set()
+192	set()
+191	set()
+189	set()
+188	set()
+186	set()
+182	set()
+181	set()
+177	set()
+176	set()
+175	set()
+173	set()
+168	set()
+163	{'Discussions'}
+161	set()
+155	set()
+154	set()
+142	set()
+141	set()
+136	set()
+131	{'Discussions'}
+130	{'Discussions'}
+128	{'easy', 'documentation'}
+120	set()
+111	set()
+108	set()
+107	set()
+105	set()
+/CenterForOpenScience/osf.io/
+9837	set()
+9834	set()
+9833	set()
+9825	set()
+9822	set()
+9820	set()
+9810	set()
+9809	{'feature'}
+9788	set()
+9765	{'technical question'}
+9737	set()
+9736	{'technical question'}
+9730	set()
+9727	set()
+9723	{'feature'}
+9722	set()
+9720	{'bug'}
+9681	{'feature'}
+9661	set()
+9654	set()
+9646	{'bug'}
+9628	{'technical question'}
+9614	set()
+9613	set()
+9605	set()
+9599	set()
+9594	{'feature'}
+9591	set()
+9590	{'technical question'}
+9585	{'feature'}
+/chaen/DIRAC/
+20	set()
+19	set()
+/Clinical-Genomics/cg/
+1327	set()
+1323	set()
+1321	set()
+1319	set()
+1314	{'Urgency M', 'Gain L', 'Effort S', 'Enhancement'}
+1313	set()
+1311	set()
+1310	{'Effort M', 'Urgency L', 'Gain L', 'cg', 'Bug'}
+1309	set()
+1307	{'Effort M', 'Gain M'}
+1303	set()
+1302	set()
+1290	set()
+1287	set()
+1286	set()
+1283	{'Gain L', 'Effort S', 'Urgency L'}
+1281	set()
+1276	set()
+1268	{'Balsamic', 'Urgency L', 'cancer-in-weekly-production', 'Gain L'}
+1264	{'Urgency M', 'Gain L', 'Effort S', 'Bug'}
+1260	set()
+1259	set()
+1248	set()
+1243	set()
+1239	{'Urgency M', 'Balsamic', 'Effort M', 'Gain L'}
+1238	{'Good first issue', 'Effort M', 'Gain M', 'Urgency M', 'Balsamic'}
+1235	{'production', 'cg', 'Enhancement'}
+1220	set()
+1207	set()
+1187	{'discuss'}
+/clinton-hall/nzbToMedia/
+1862	set()
+1859	set()
+1858	set()
+1857	set()
+1855	set()
+1852	set()
+1845	set()
+1843	set()
+1838	set()
+1836	set()
+1835	set()
+1831	set()
+1830	set()
+1829	set()
+1827	set()
+1826	set()
+1825	set()
+1823	set()
+1821	set()
+1819	set()
+1818	set()
+1816	set()
+1806	set()
+1804	set()
+1803	{'enhancement'}
+1802	set()
+1798	set()
+1795	set()
+1790	set()
+1785	set()
+/coala/coala/
+6175	set()
+6174	set()
+6171	set()
+6170	set()
+6169	set()
+6168	set()
+6132	set()
+6130	set()
+6129	set()
+6126	{'process/wip'}
+6124	{'status/blocked'}
+6118	set()
+6109	{'process/needs rebase'}
+6108	set()
+6104	{'status/needs info'}
+6100	set()
+6099	set()
+6094	set()
+6091	set()
+6089	set()
+6086	set()
+6085	set()
+6083	set()
+6077	set()
+6074	set()
+6073	set()
+6071	{'process/pending review'}
+6069	set()
+6068	set()
+6067	set()
+/coala/coala-bears/
+2998	set()
+2995	set()
+2993	{'importance/critical', 'dependencies', 'area/ci'}
+2992	set()
+2991	set()
+2990	{'dependencies', 'python'}
+2989	set()
+2987	set()
+2983	set()
+2982	{'area/lintbears', 'type/feature', 'difficulty/high'}
+2979	set()
+2978	set()
+2977	set()
+2976	set()
+2974	set()
+2973	set()
+2971	set()
+2970	set()
+2969	set()
+2968	set()
+2967	set()
+2965	set()
+2972	set()
+2962	{'dependencies'}
+2960	set()
+2955	set()
+2954	{'area/genericbears', 'area/bears', 'area/tests', 'upstream'}
+2952	{'area/genericbears', 'type/feature'}
+2950	{'difficulty/low', 'importance/low', 'area/genericbears', 'type/bug', 'upstream'}
+2948	set()
+/ComplianceAsCode/content/
+7915	{'usability', 'Highlight', 'Infrastructure', 'do-not-merge/work-in-progress'}
+7914	{'needs-ok-to-test'}
+7913	{'ok-to-test'}
+7912	{'needs-ok-to-test'}
+7911	set()
+7910	{'Update Rule', 'bugfix'}
+7909	{'Update Rule', 'Documentation'}
+7908	{'needs-ok-to-test'}
+7904	{'Infrastructure'}
+7891	{'ok-to-test'}
+7890	set()
+7889	set()
+7888	set()
+7882	set()
+7878	set()
+7875	{'bugfix'}
+7874	{'productization-issue'}
+7866	{'productization-issue'}
+7848	set()
+7847	set()
+7846	set()
+7844	set()
+7839	{'Bash'}
+7833	{'productization-issue'}
+7832	{'do-not-merge/work-in-progress'}
+7828	set()
+7827	{'ok-to-test'}
+7826	{'Infrastructure'}
+7795	{'Infrastructure'}
+7791	{'ok-to-test'}
+/ComputationalCryoEM/ASPIRE-Python/
+523	{'cleanup', 'enhancement'}
+522	set()
+521	{'enhancement'}
+520	{'enhancement'}
+519	{'cleanup'}
+517	{'cleanup'}
+516	{'cleanup', 'enhancement', 'bug'}
+515	{'cleanup'}
+513	{'cleanup', 'bug'}
+511	{'CI', 'extern'}
+508	{'Optimization', 'cleanup', 'enhancement'}
+506	set()
+505	{'CLI', 'cleanup', 'enhancement'}
+504	set()
+503	{'CI', 'extern'}
+502	{'enhancement'}
+501	set()
+499	{'enhancement'}
+494	{'enhancement'}
+491	{'enhancement'}
+489	{'enhancement'}
+480	{'CI', 'bug'}
+477	{'documentation', 'enhancement'}
+476	{'cleanup', 'enhancement'}
+473	{'documentation', 'enhancement'}
+472	{'cleanup', 'good first issue', 'enhancement'}
+468	{'cleanup', 'enhancement', 'bug'}
+464	{'cleanup'}
+446	{'cleanup', 'documentation'}
+441	{'cleanup', 'enhancement'}
+/confluentinc/confluent-kafka-python/
+1240	set()
+1239	set()
+1238	set()
+1237	set()
+1236	set()
+1235	set()
+1234	set()
+1233	set()
+1232	set()
+1231	set()
+1230	set()
+1229	set()
+1228	set()
+1227	set()
+1225	set()
+1224	set()
+1223	set()
+1222	set()
+1221	set()
+1219	set()
+1218	set()
+1217	set()
+1216	set()
+1215	set()
+1214	set()
+1213	set()
+1212	set()
+1211	set()
+1210	set()
+1209	set()
+/ct-Open-Source/tuya-convert/
+1005	set()
+999	set()
+998	set()
+995	set()
+989	set()
+984	set()
+981	set()
+975	set()
+971	set()
+966	set()
+962	set()
+956	set()
+952	set()
+949	set()
+948	set()
+946	set()
+944	set()
+940	set()
+937	set()
+934	set()
+932	set()
+926	set()
+923	set()
+922	set()
+921	set()
+920	set()
+919	set()
+918	set()
+916	set()
+912	set()
+/CUNYSuite/CunyFirstAPI/
+47	{'dependencies'}
+44	set()
+41	set()
+20	set()
+18	set()
+17	set()
+16	set()
+15	set()
+14	set()
+13	set()
+12	set()
+11	set()
+10	set()
+9	set()
+8	set()
+7	set()
+/cyclus/cyclus.github.com/
+324	set()
+323	set()
+322	set()
+320	set()
+317	set()
+316	set()
+315	set()
+310	set()
+308	set()
+307	{'0 - Backlog'}
+306	set()
+296	set()
+294	set()
+291	set()
+289	set()
+288	set()
+287	set()
+286	set()
+285	set()
+284	set()
+280	set()
+278	set()
+277	set()
+275	set()
+274	set()
+267	set()
+266	set()
+265	set()
+263	set()
+259	set()
+/DataBiosphere/azul/
+3667	{'orange'}
+3666	{'orange'}
+3665	{'test', 'debt', 'orange', 'bug'}
+3663	{'infra', 'orange', 'bug'}
+3662	{'test', 'debt', 'orange', 'bug'}
+3661	{'infra', 'enh', 'orange', 'indexer'}
+3660	{'indexer', 'orange', 'bug'}
+3659	{'indexer', 'orange', 'bug'}
+3658	{'orange', 'enh', 'debt', 'indexer'}
+3657	{'service', 'enh', 'orange'}
+3656	{'task', 'infra', 'no demo', 'orange'}
+3655	{'spike:1', 'orange'}
+3654	{'orange'}
+3653	{'no demo', 'orange'}
+3652	{'orange', 'infra', 'enh', 'debt'}
+3651	{'orange'}
+3650	{'API', 'service', 'enh', 'debt', 'orange'}
+3649	{'debt', 'orange', 'doc', 'bug'}
+3648	{'infra', 'enh', 'debt', 'orange', 'doc'}
+3646	{'orange'}
+3644	{'enh', 'indexer', 'debt', 'perf', 'orange'}
+3643	{'orange', 'enh', 'debt', 'code'}
+3642	{'bug', 'service', 'easy', 'orange', 'doc'}
+3641	{'dependencies', 'orange'}
+3639	{'infra', 'orange', 'bug'}
+3636	{'enh', 'orange', 'code'}
+3635	{'orange', 'infra', 'enh', 'debt'}
+3634	{'infra', 'enh', 'orange'}
+3633	{'code', 'orange', 'bug'}
+3632	{'service', 'enh', 'orange'}
+/databricks/databricks-cli/
+402	set()
+390	set()
+388	set()
+387	set()
+386	set()
+385	set()
+383	set()
+379	set()
+378	set()
+377	set()
+376	set()
+373	set()
+369	set()
+366	set()
+359	set()
+358	set()
+356	set()
+354	set()
+352	set()
+351	set()
+349	set()
+348	set()
+346	set()
+341	set()
+340	set()
+339	set()
+338	set()
+337	set()
+335	set()
+332	set()
+/DataDog/integrations-core/
+10719	{'changelog/no-changelog', 'documentation', 'integration/ecs_fargate'}
+10717	{'integration/sqlserver', 'changelog/Fixed'}
+10716	{'integration/hyperv', 'changelog/Added'}
+10713	{'dev/testing', 'integration/sqlserver', 'category/bugfix', 'changelog/Fixed'}
+10710	{'changelog/no-changelog', 'documentation', 'integration/mesos_master'}
+10709	{'integration/kube_scheduler', 'documentation', 'changelog/Changed'}
+10708	{'changelog/Changed', 'integration/kube_controller_manager'}
+10707	{'changelog/no-changelog', 'documentation', 'integration/vault'}
+10706	{'changelog/Changed', 'integration/kube_controller_manager', 'integration/openmetrics', 'integration/datadog_checks_base'}
+10705	{'integration/nginx_ingress_controller', 'changelog/no-changelog', 'documentation'}
+10704	{'changelog/no-changelog', 'documentation'}
+10702	{'integration/istio', 'documentation', 'changelog/Added'}
+10697	{'changelog/no-changelog', 'integration/container'}
+10695	{'integration/sap_hana'}
+10692	{'dev/testing', 'integration/datadog_checks_dev', 'changelog/Added', 'integration/snmp'}
+10691	{'changelog/no-changelog', 'documentation'}
+10690	{'integration/amazon_eks', 'changelog/no-changelog', 'documentation'}
+10689	set()
+10688	{'changelog/Added', 'integration/sqlserver', 'documentation', 'do-not-merge/HOLD'}
+10687	{'integration/mysql', 'documentation', 'changelog/Added', 'do-not-merge/HOLD'}
+10686	{'changelog/no-changelog', 'integration/singlestore', 'documentation'}
+10682	{'changelog/Added', 'integration/postgres', 'documentation', 'do-not-merge/HOLD'}
+10679	{'dev/testing', 'dev/tooling', 'integration/datadog_checks_dev', 'integration/all', 'integration/datadog_checks_base'}
+10678	{'dev/testing', 'changelog/no-changelog'}
+10677	set()
+10675	set()
+10674	set()
+10672	{'changelog/no-changelog', 'documentation', 'integration/hudi'}
+10668	{'documentation', 'changelog/Changed', 'integration/kube_proxy', 'integration/kube_dns', 'integration/kube_metrics_server'}
+10667	{'dev/testing', 'integration/datadog_checks_dev', 'changelog/Added', 'integration/snmp'}
+/dataiku/dss-plugin-nlp-preparation/
+13	{'bug'}
+/dcos/dcos/
+7885	{'Work In Progress'}
+7884	{'Work In Progress'}
+7883	{'Work In Progress'}
+7881	{'Work In Progress'}
+7880	{'Work In Progress'}
+7879	{'Work In Progress'}
+5878	{'Holding'}
+/demisto/content/
+15944	set()
+15942	{'Contribution'}
+15941	{'Contribution'}
+15939	set()
+15938	{'Contribution'}
+15937	{'Contribution', 'Contribution Form Filled', 'Partner'}
+15936	set()
+15935	set()
+15934	set()
+15932	set()
+15930	set()
+15929	{'Contribution', 'docs-approved'}
+15926	set()
+15923	{'Contribution', 'Contribution Form Filled', 'Partner'}
+15921	{'release-notes-only', 'docs-approved'}
+15920	{'Contribution', 'Contribution Form Filled', 'Partner'}
+15918	{'docker', 'docs-approved'}
+15915	set()
+15914	set()
+15913	{'Contribution'}
+15912	set()
+15911	{'docs-approved'}
+15910	{'Contribution'}
+15907	{'release-notes-only', 'docs-approved', 'bug'}
+15906	set()
+15904	{'Contribution'}
+15903	set()
+15901	set()
+15900	{'Contribution'}
+15898	{'Contribution', 'Community', 'Contribution Form Filled'}
+/devicons/devicon/
+917	{'bot:peek', 'feature:icon'}
+916	{'bot:peek', 'feature:icon'}
+915	{'request:icon'}
+913	{'discussion', 'enhancement'}
+912	{'bot:peek', 'feature:icon'}
+910	{'request:icon'}
+907	{'bug'}
+906	{'bot:peek', 'feature:icon'}
+905	{'discussion', 'enhancement'}
+903	{'request:icon'}
+900	{'bug'}
+899	{'bot:peek', 'feature:icon'}
+898	{'request:icon'}
+897	{'request:icon'}
+896	{'request:icon'}
+894	{'request:icon'}
+891	{'request:icon'}
+890	{'request:icon'}
+888	{'request:icon'}
+885	{'request:icon'}
+879	{'request:icon'}
+877	{'request:icon'}
+876	{'enhancement'}
+872	{'request:icon'}
+870	{'request:icon'}
+869	{'request:icon'}
+868	{'request:icon'}
+867	{'request:icon'}
+866	{'request:icon'}
+865	{'request:icon'}
+/devitocodes/devito/
+1801	{'WIP', 'GPU'}
+1800	{'WIP', 'compiler', 'testing'}
+1799	set()
+1798	{'compiler'}
+1797	{'WIP', 'installation'}
+1792	set()
+1771	{'bug-C'}
+1763	set()
+1753	{'bug-py'}
+1739	{'compiler'}
+1738	{'examples', 'benchmarking'}
+1728	{'bug-performance-gpu'}
+1717	{'bug-py-minor'}
+1715	{'benchmarking'}
+1714	set()
+1700	{'arch', 'compiler', 'bug-C'}
+1697	{'WIP', 'bug-C-minor', 'bug-py-minor', 'testing'}
+1696	{'bug-C'}
+1695	{'bug-C'}
+1692	{'dependencies'}
+1668	{'dependencies'}
+1665	set()
+1662	{'GPU', 'testing'}
+1644	{'WIP', 'API'}
+1599	set()
+1598	{'WIP', 'bug-py'}
+1589	{'bug-py'}
+1579	{'API'}
+1578	{'bug-py'}
+1577	{'bug-py'}
+/dimagi/commcare-hq/
+30764	{'product/feature-flag'}
+30763	{'product/invisible'}
+30761	{'Open for review: do not merge', 'Risk: High', 'product/feature-flag'}
+30759	{'product/all-users-all-environments'}
+30758	{'product/invisible', 'reindex/migration'}
+30755	{'reindex/migration'}
+30751	{'Open for review: do not merge', 'product/feature-flag', 'reindex/migration'}
+30742	{'product/all-users-all-environments'}
+30740	{'product/invisible'}
+30737	{'product/invisible', 'dependencies'}
+30730	{'product/invisible'}
+30727	{'product/invisible', 'dependencies'}
+30724	{'CEP'}
+30718	{'product/invisible'}
+30692	{'product/invisible', 'reindex/migration'}
+30691	{'product/invisible'}
+30690	{'product/invisible', 'dependencies', 'dependencies/javascript'}
+30683	{'product/invisible'}
+30670	{'product/invisible', 'Risk: Medium', 'Risk: High'}
+30668	{'product/invisible', 'dependencies', 'awaiting QA', 'dependencies/javascript'}
+30658	{'awaiting QA', 'product/all-users-all-environments'}
+30655	{'product/invisible', 'awaiting QA'}
+30646	{'product/invisible', 'dependencies', 'dependencies/javascript'}
+30644	{'Risk: Medium', 'dependencies', 'Risk: High'}
+30633	{'product/invisible', 'dependencies', 'dependencies/javascript'}
+30628	{'Open for review: do not merge', 'product/invisible'}
+30612	{'Open for review: do not merge', 'product/invisible', 'dependencies'}
+30607	{'product/invisible', 'awaiting QA'}
+30591	{'product/invisible', 'Risk: High'}
+30573	{'product/invisible', 'dependencies'}
+/dipy/dipy/
+2482	{'type:Enhancement'}
+2477	{'type:Maintenance'}
+2474	{'type:New feature'}
+2473	{':notebook:type:Documentation  :notebook:'}
+2469	{'type:Bug Fix', 'type:Enhancement'}
+2462	set()
+2456	{'type:Maintenance'}
+2452	{'type:Maintenance', 'state: needs to check'}
+2451	{'type:Enhancement', 'state: needs to check'}
+2450	set()
+2449	{'type:Maintenance', 'type:Enhancement'}
+2448	{'type:Enhancement'}
+2445	{'type:New feature'}
+2440	{'type:Enhancement'}
+2439	{'type:New feature', ':grey_question: type:Question :grey_question:'}
+2437	{':grey_question: type:Question :grey_question:'}
+2428	set()
+2427	{':notebook:type:Documentation  :notebook:'}
+2425	set()
+2424	{':grey_question: type:Question :grey_question:'}
+2423	set()
+2422	{':notebook:type:Documentation  :notebook:'}
+2421	{'type:Bug Fix'}
+2420	{':notebook:type:Documentation  :notebook:'}
+2414	set()
+2402	{'type:Bug Fix'}
+2401	{'type:New feature', 'state: work-in-progress', 'type:Enhancement'}
+2400	{'type:Maintenance', 'type:Bug Fix', 'state: needs PR'}
+2399	{':grey_question: type:Question :grey_question:'}
+2394	{':notebook:type:Documentation  :notebook:'}
+/DIRACGrid/DIRAC/
+5634	set()
+5633	set()
+5632	{'alsoTargeting:integration'}
+5631	{'alsoTargeting:integration'}
+5627	set()
+5623	set()
+5622	{'alsoTargeting:integration'}
+5621	set()
+5620	{'Core', 'Bug'}
+5617	set()
+5588	{'alsoTargeting:rel-v7r3'}
+5587	set()
+5582	set()
+5581	set()
+5575	{'Bug'}
+5562	{'sweep:failed'}
+5548	set()
+5547	{'alsoTargeting:integration'}
+5545	{'wait for decision', 'Core'}
+5542	{'alsoTargeting:rel-v7r3'}
+5399	set()
+5397	set()
+5371	{'alsoTargeting:rel-v7r3'}
+5357	{'alsoTargeting:rel-v7r3'}
+5355	{'TS', 'Bug'}
+5330	{'alsoTargeting:integration'}
+5320	{'ElasticSearch', 'Bug'}
+5302	{'alsoTargeting:integration'}
+5287	set()
+5282	{'WMS'}
+/distributed-system-analysis/pbench/
+2558	{'API', 'Server', 'bug', 'Installation', 'Code Infrastructure'}
+2557	set()
+2556	{'packaging', 'Agent'}
+2553	{'Server', 'Agent', 'bug', 'Unit tests', 'Functional Testing', 'enhancement'}
+2551	{'Server', 'Agent', 'Unit tests', 'Functional Testing', 'Code Infrastructure'}
+2549	set()
+2546	{'API', 'Server', 'Agent', 'enhancement'}
+2542	{'Agent', 'enhancement', 'tools', 'fio', 'uperf'}
+2541	{'uperf', 'fio', 'Agent', 'enhancement'}
+2540	{'API', 'Server', 'Code Infrastructure', 'enhancement'}
+2537	{'Installation', 'packaging', 'Agent', 'enhancement'}
+2530	{'API', 'Server', 'Audit', 'New Data Store', 'Code Infrastructure', 'enhancement'}
+2529	{'API', 'Server', 'Backlog', 'Code Infrastructure', 'enhancement'}
+2521	{'Installation', 'help wanted', 'Server'}
+2516	{'API', 'Server', 'Backlog', 'Code Infrastructure', 'enhancement'}
+2512	{'Pbench Dashboard', 'API', 'Server', 'enhancement'}
+2511	{'help wanted', 'run-benchmark', 'Agent', 'packaging', 'tools', 'Installation'}
+2507	{'API', 'Server', 'enhancement'}
+2506	{'API', 'Server', 'enhancement'}
+2505	{'API', 'Backlog', 'Server'}
+2503	{'tools', 'fio', 'Agent', 'bug'}
+2501	{'Agent', 'Backlog', 'tools', 'Functional Testing', 'enhancement'}
+2499	{'Tool Meister', 'Unit tests', 'Agent', 'bug'}
+2491	{'API', 'Server'}
+2489	{'Server', 'Agent'}
+2488	{'Server', 'Agent'}
+2487	{'Installation', 'Server'}
+2481	{'Installation', 'Backlog', 'Server', 'packaging'}
+2480	{'Server', 'Functional Testing', 'packaging', 'Backlog', 'Installation'}
+2473	{'tools', 'Agent', 'bug'}
+/django/django/
+15120	set()
+15116	set()
+15114	set()
+15112	set()
+15111	set()
+15110	set()
+15106	set()
+15102	set()
+15098	set()
+15096	set()
+15072	set()
+15069	set()
+15036	set()
+15031	set()
+15025	set()
+15022	set()
+14995	set()
+14984	set()
+14958	set()
+14956	set()
+14955	set()
+14939	set()
+14932	set()
+14905	set()
+14899	set()
+14849	set()
+14847	set()
+14843	set()
+14825	set()
+14824	set()
+/dmwm/DBS/
+660	set()
+657	set()
+656	set()
+654	set()
+652	set()
+651	set()
+650	set()
+649	set()
+648	set()
+647	set()
+646	set()
+644	set()
+643	set()
+618	set()
+614	set()
+613	set()
+610	set()
+607	set()
+606	set()
+600	set()
+599	set()
+317	set()
+293	set()
+152	{'C: DBS', 'T: defect', 'P: someday'}
+114	{'C: DBS', 'T: task', 'P: someday'}
+100	{'C: DBS', 'P: someday', 'T: enhancement'}
+78	{'C: DBS', 'T: task', 'P: someday'}
+/druids/django-GDPR/
+10	set()
+1	set()
+/easybuilders/easybuild-framework/
+3902	{'bug report'}
+3901	set()
+3900	{'bug fix'}
+3898	{'feature request'}
+3897	{'feature request'}
+3896	{'problem report'}
+3895	{'bug report'}
+3891	{'feature request'}
+3869	{'bug report'}
+3863	{'enhancement'}
+3888	{'bug report'}
+3858	{'feature request'}
+3857	{'enhancement'}
+3847	{'problem report'}
+3845	{'enhancement'}
+3842	{'change'}
+3839	set()
+3838	{'bug report'}
+3834	{'bug report'}
+3831	{'problem report'}
+3827	{'enhancement'}
+3824	{'bug report'}
+3818	{'change request', 'enhancement'}
+3811	{'bug fix'}
+3809	{'change'}
+3801	{'enhancement'}
+3797	{'enhancement'}
+3794	{'enhancement'}
+3793	{'enhancement'}
+3792	{'bug fix'}
+/edx/configuration/
+6617	set()
+6614	{'dependencies'}
+6610	set()
+6609	{'changes requested', 'open-source-contribution'}
+6603	set()
+6594	set()
+6586	{'waiting on author', 'open-source-contribution'}
+6584	{'hacktoberfest-accepted'}
+6577	set()
+6570	{'waiting on author', 'open-source-contribution'}
+6556	{'dependencies'}
+6523	set()
+6513	set()
+6504	set()
+6498	set()
+6460	set()
+6448	set()
+6440	{'waiting on author', 'open-source-contribution'}
+6428	{'dependencies'}
+6419	set()
+6417	set()
+6399	set()
+6389	set()
+6387	set()
+6372	set()
+6365	{'dependencies'}
+6335	{'dependencies'}
+6334	{'dependencies'}
+6331	{'dependencies'}
+6330	{'dependencies'}
+/edx/edx-platform/
+29415	set()
+29414	set()
+29413	{'core committer', 'waiting on author', 'open-source-contribution'}
+29411	set()
+29410	set()
+29406	set()
+29403	{'needs triage', 'open-source-contribution'}
+29402	set()
+29401	set()
+29400	set()
+29399	set()
+29398	{'needs triage', 'blended'}
+29397	set()
+29395	set()
+29394	set()
+29393	set()
+29392	set()
+29391	{'needs triage', 'open-source-contribution'}
+29385	set()
+29384	set()
+29383	set()
+29382	set()
+29381	set()
+29380	set()
+29379	set()
+29378	set()
+29377	set()
+29376	{'needs triage', 'open-source-contribution'}
+29375	{'needs triage', 'blended'}
+29373	set()
+/edx/edx-proctoring/
+1005	set()
+1004	set()
+999	set()
+882	set()
+822	set()
+722	set()
+710	set()
+707	set()
+686	set()
+620	set()
+599	set()
+385	set()
+/eJourn-al/eJournal/
+1263	set()
+1259	set()
+1258	set()
+1254	set()
+1253	set()
+1246	set()
+1245	set()
+1243	set()
+1240	set()
+1231	set()
+1209	set()
+1177	set()
+1123	set()
+/enthought/pyface/
+1037	set()
+1032	{'component: test suite'}
+1030	{'difficulty: easy', 'component: documentation'}
+1029	set()
+1028	set()
+1024	{'type: bug'}
+1023	{'type: enhancement', 'Feature: Table/Tree Editor'}
+1022	set()
+1021	set()
+1017	set()
+1015	set()
+1014	{'component: documentation'}
+1010	{'type: enhancement'}
+1009	{'difficulty: easy', 'component: documentation'}
+1006	{'component: documentation'}
+999	{'type: cleanup'}
+996	{'type: cleanup'}
+995	set()
+989	set()
+987	set()
+981	{'component: test suite', 'type: cleanup', 'difficulty: easy'}
+979	set()
+978	set()
+974	{'type: enhancement'}
+971	{'difficulty: easy', 'toolkit: Qt', 'type: cleanup'}
+968	set()
+957	set()
+940	{'difficulty: easy', 'Good First Issue'}
+937	{'component: test suite'}
+934	set()
+/equinor/xun/
+162	set()
+159	set()
+155	set()
+152	set()
+151	set()
+149	set()
+133	set()
+132	set()
+131	set()
+116	set()
+115	set()
+106	set()
+92	set()
+78	set()
+70	set()
+66	set()
+55	{'feature'}
+52	{'feature'}
+39	{'feature'}
+28	{'feature'}
+15	{'processing', 'Backlog'}
+14	{'processing', 'Backlog'}
+13	{'processing', 'Backlog'}
+12	{'processing', 'Backlog'}
+11	{'processing', 'Backlog'}
+8	{'processing'}
+7	{'processing'}
+6	{'processing'}
+5	{'processing'}
+/features/
+/fedspendingtransparency/usaspending-api/
+3295	set()
+3288	set()
+3287	set()
+3280	set()
+3269	set()
+3267	set()
+3256	set()
+3241	set()
+3235	{'do not merge'}
+3234	set()
+3227	set()
+3218	set()
+3197	set()
+3185	set()
+3154	set()
+3103	set()
+3013	set()
+2985	set()
+2872	set()
+2724	{'question'}
+2565	set()
+2485	set()
+2470	set()
+2209	set()
+2171	set()
+2017	set()
+2000	set()
+1939	set()
+1937	set()
+1935	set()
+/fetchai/agents-aea/
+2670	{'go', 'dependencies', 'minor'}
+2669	{'go', 'dependencies', 'minor'}
+2668	{'go', 'dependencies', 'minor'}
+2667	set()
+2666	set()
+2665	set()
+2660	set()
+2652	set()
+2649	set()
+2648	set()
+2647	set()
+2646	set()
+2643	{'core', 'enhancement'}
+2642	set()
+2638	set()
+2634	set()
+2631	set()
+2630	set()
+2626	set()
+2618	set()
+2617	set()
+2615	set()
+2607	{'bug'}
+2606	{'documentation', 'enhancement'}
+2605	set()
+2599	{'core', 'enhancement'}
+2448	{'core', 'enhancement'}
+2139	{'core', 'enhancement'}
+2095	{'package', 'enhancement'}
+2009	{'question'}
+/firedrakeproject/firedrake/
+2282	set()
+2276	set()
+2266	set()
+2265	{'enhancement'}
+2264	set()
+2263	{'straightforward'}
+2262	{'enhancement'}
+2258	set()
+2250	set()
+2248	set()
+2245	set()
+2243	set()
+2238	set()
+2236	set()
+2230	set()
+2224	set()
+2223	set()
+2221	set()
+2219	set()
+2216	set()
+2209	set()
+2200	set()
+2198	set()
+2197	set()
+2191	set()
+2185	set()
+2179	{'firedrake-adjoint'}
+2178	set()
+2172	set()
+2169	set()
+/galatea-associates/fuse-test-data-gen/
+246	{'dependencies'}
+245	{'dependencies'}
+243	{'dependencies'}
+242	{'dependencies'}
+241	{'dependencies'}
+239	{'dependencies'}
+228	set()
+219	set()
+218	set()
+216	set()
+214	set()
+213	set()
+212	set()
+211	set()
+210	set()
+199	set()
+196	set()
+143	{'18-Pager-Change'}
+142	{'18-Pager-Change'}
+141	{'18-Pager-Change'}
+140	{'18-Pager-Change'}
+139	{'18-Pager-Change'}
+138	{'18-Pager-Change'}
+137	{'18-Pager-Change'}
+136	{'18-Pager-Change'}
+135	{'18-Pager-Change'}
+134	{'18-Pager-Change'}
+133	{'18-Pager-Change'}
+132	{'18-Pager-Change'}
+131	{'18-Pager-Change'}
+/genialis/resolwe/
+893	set()
+881	set()
+832	set()
+/ghc-proposals/ghc-proposals/
+460	set()
+458	{'reminder'}
+454	set()
+453	set()
+452	{'Pending shepherd recommendation'}
+451	{'Pending shepherd recommendation'}
+448	set()
+446	set()
+445	set()
+442	set()
+441	set()
+438	set()
+437	set()
+436	set()
+435	set()
+434	set()
+433	{'Needs revision'}
+426	set()
+425	{'Pending shepherd recommendation'}
+420	set()
+417	{'Out-of-scope'}
+412	{'Needs revision'}
+408	set()
+401	set()
+400	{'Needs revision'}
+392	{'Pending committee review'}
+391	set()
+390	{'Needs revision'}
+388	set()
+386	set()
+/glotzerlab/signac-flow/
+590	{'documentation', 'good first issue'}
+589	set()
+588	set()
+583	{'cluster submission', 'bug'}
+571	set()
+566	{'bug'}
+559	{'bug'}
+555	{'bug'}
+547	{'cluster submission', 'groups'}
+543	{'cluster submission', 'enhancement'}
+523	set()
+513	{'documentation'}
+508	{'hooks', 'enhancement'}
+506	{'proposal'}
+504	set()
+499	set()
+497	{'cluster submission', 'bug'}
+485	{'documentation'}
+469	{'enhancement'}
+468	{'documentation'}
+437	{'bug'}
+429	set()
+428	set()
+404	set()
+399	{'enhancement'}
+370	set()
+347	{'enhancement'}
+341	{'enhancement'}
+281	{'refactor', 'enhancement'}
+277	{'documentation', 'quickfix'}
+/golasze/sd-xbmc/
+136	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+92	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+91	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+68	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+/golemfactory/concent/
+1169	{'sentry', 'bug'}
+1163	set()
+1162	{'sentry', 'bug'}
+1131	{'not in pivotal', 'from-client', 'bug'}
+1122	{'not in pivotal', 'bug'}
+1111	{'chore', 'not in pivotal'}
+1109	set()
+1108	{'chore'}
+1096	{'not in pivotal', 'feature'}
+1069	{'admin', 'feature'}
+1044	{'admin', 'payment use case', 'feature'}
+1026	{'chore', 'icebox', 'tests'}
+1025	{'chore', 'icebox', 'tests'}
+996	{'bankster', 'payment use case', 'blueprint'}
+939	{'bankster', 'verification use case', 'sync with deployment', 'feature'}
+920	{'chore'}
+918	set()
+872	{'bankster', 'not in pivotal', 'feature'}
+865	{'report use case', 'verification use case', 'payment use case', 'sync with deployment', 'acceptance use case', 'not in pivotal', 'result transfer use case', 'feature'}
+857	{'blueprint'}
+847	{'question'}
+826	{'bankster', 'chore', 'icebox'}
+825	{'chore', 'icebox'}
+822	{'verification use case', 'icebox', 'sync with deployment', 'feature'}
+821	{'bankster', 'chore', 'icebox', 'compatibility hack'}
+819	{'chore', 'verification use case', 'icebox'}
+818	{'chore', 'payment use case', 'icebox'}
+817	{'chore', 'icebox'}
+816	{'acceptance use case', 'chore', 'icebox'}
+815	{'chore', 'icebox', 'result transfer use case'}
+/googleads/google-ads-python/
+532	{'triage', 'bug'}
+522	set()
+498	{'triage', 'bug'}
+34	{'P3', 'enhancement'}
+6	{'P3', 'enhancement'}
+/googleapis/google-cloud-python/
+10605	{'type: feature request'}
+10604	{'type: feature request'}
+10585	{'type: feature request'}
+10584	{'type: process'}
+10578	{'type: process'}
+10566	{'type: process'}
+10543	{'type: docs'}
+10540	{'type: feature request'}
+10528	{'type: process'}
+10521	{'type: process'}
+10516	{'type: cleanup'}
+10511	{'type: process'}
+10507	{'type: feature request'}
+10472	{'type: question'}
+10442	{'type: process'}
+10177	{'api: docs', 'type: docs'}
+10104	{'type: feature request'}
+9457	{'type: feature request', 'api: core', 'api: bigquerydatatransfer'}
+5448	{'api: cloudasset', 'api: redis', 'api: monitoring', 'type: docs', 'codegen'}
+5348	{'type: feature request', 'api: core'}
+5027	{'type: docs'}
+4890	{'api: core', 'type: process'}
+10300	{'api: bigtable', 'api: storage', 'type: process', 'api: core', 'api: datastore', 'api: pubsub'}
+2131	{'type: process'}
+/googleapis/oauth2client/
+753	{'type: process'}
+752	{'cla: yes', 'dependencies'}
+/GoogleCloudPlatform/python-docs-samples/
+7157	{'cla: yes', 'samples'}
+7155	{'cla: yes', 'samples'}
+7153	{'samples', 'priority: p2', 'type: cleanup'}
+7152	{'type: bug', 'priority: p2', 'api: firestore', 'flakybot: flaky', 'flakybot: issue', 'samples'}
+7148	{'type: bug', 'flakybot: flaky', 'flakybot: issue', 'samples', 'api: datastore', 'priority: p1'}
+7141	{'samples', 'api: compute', 'type: process'}
+7136	{'type: bug', 'flakybot: flaky', 'flakybot: issue', 'api: run', 'samples', 'priority: p1'}
+7135	{'type: bug', 'flakybot: flaky', 'flakybot: issue', 'samples', 'api: monitoring', 'priority: p1'}
+7121	{'cla: yes', 'samples'}
+7120	{'cla: yes', 'samples'}
+7118	{'cla: yes', 'samples'}
+7101	{'cla: yes', 'samples'}
+7091	{'cla: yes', 'samples'}
+7085	{'cla: yes', 'samples'}
+7082	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'api: run', 'samples', 'priority: p1'}
+7075	{'cla: yes', 'samples'}
+7069	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'api: run', 'samples', 'priority: p1'}
+7039	{'api: bigquery', 'samples', 'type: cleanup'}
+7037	{'api: bigquery', 'samples', 'type: process'}
+7031	{'cla: yes', 'samples'}
+7024	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'api: automl', 'priority: p1'}
+7019	{'samples', 'cla: no'}
+7010	{'type: feature request', 'samples', 'good first issue'}
+7003	{'cla: yes', 'samples'}
+7001	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'api: mediatranslation', 'priority: p1'}
+7000	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'priority: p1', 'api: cloudiot'}
+6999	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'priority: p1', 'api: cloudiot'}
+6998	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'priority: p1', 'api: cloudiot'}
+6997	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'priority: p1', 'api: cloudiot'}
+6996	{'type: bug', ':rotating_light:', 'flakybot: flaky', 'flakybot: issue', 'samples', 'priority: p1', 'api: cloudiot'}
+/googleinterns/ellipsis-step-internship/
+46	{'backend', 'enhancement'}
+45	{'frontend', 'bug'}
+44	{'enhancement'}
+41	{'frontend', 'bug'}
+40	{'backend', 'enhancement'}
+/gratipay/gratipay.com/
+/guardicore/monkey/
+1627	set()
+1625	set()
+1624	{'Help wanted', 'Beginner friendly', 'Complexity: Medium', 'Impact: Low', 'DevOps'}
+1622	{'Complexity: Low', 'Impact: Low', 'Bug', 'MITRE ATT&CK'}
+1621	{'Complexity: Low', 'Impact: High', 'UI', 'Bug'}
+1614	{'Bug'}
+1613	{'Refactor', 'Impact: High', 'sp/3', 'Complexity: High'}
+1612	{'Impact: High', 'sp/3', 'Refactor', 'Complexity: Medium'}
+1611	{'sp/13', 'Refactor', 'Impact: High', 'Complexity: High'}
+1610	{'sp/2', 'Impact: High', 'Refactor', 'Complexity: Medium'}
+1609	{'sp/13', 'Refactor', 'Impact: High', 'Complexity: High'}
+1608	{'sp/13', 'Refactor', 'Impact: High', 'Complexity: High'}
+1607	{'sp/5', 'Impact: High', 'Refactor', 'Complexity: Medium'}
+1606	{'sp/2', 'Impact: High', 'Complexity: Low', 'Refactor'}
+1605	{'sp/5', 'Refactor', 'Impact: High', 'Complexity: High'}
+1604	{'sp/5', 'Impact: High', 'Refactor', 'Complexity: Medium'}
+1603	{'Refactor', 'Impact: Low', 'sp/3', 'Complexity: Medium'}
+1602	{'sp/2', 'Impact: High', 'Complexity: Low', 'Refactor'}
+1601	{'Impact: High', 'sp/3', 'Refactor', 'Complexity: Medium'}
+1599	{'Refactor', 'Code Quality', 'sp/3', 'Complexity: Medium', 'Impact: Low'}
+1598	{'sp/5', 'Impact: High', 'Refactor', 'Complexity: Medium'}
+1597	{'sp/13', 'Refactor', 'Impact: High', 'Complexity: High'}
+1595	{'sp/8', 'Impact: High', 'Refactor', 'Complexity: Medium'}
+1594	{'Refactor', 'Impact: Medium', 'sp/3', 'Complexity: Medium'}
+1593	{'Refactor', 'Impact: High', 'Feature', 'sp/2', 'Complexity: Low'}
+1583	{'Spike', 'Impact: Medium', 'Complexity: High'}
+1576	{'Refactor', 'UX', 'Complexity: Medium', 'sp/5', 'Impact: Medium'}
+1573	{'Feature'}
+1572	{'Bug'}
+1571	{'MITRE ATT&CK', 'Impact: Medium', 'Bug', 'Complexity: Medium'}
+/hadaev8/HumanFallenEmpires/
+/hellohaptik/chatbot_ner/
+444	{'security vulnerability'}
+443	{'bug-fixes', 'dependencies', 'security fix', 'on-hold', 'No lint errors'}
+370	{'help wanted'}
+275	set()
+234	{'enhancement'}
+54	{'enhancement'}
+/home-assistant/core/
+60256	{'bugfix', 'cla-signed', 'small-pr'}
+60255	{'integration: atag'}
+60253	{'code-quality', 'integration: aprs', 'small-pr', 'has-tests', 'cla-signed'}
+60252	{'integration: metoffice', 'code-quality', 'cla-signed', 'small-pr'}
+60251	{'integration: tuya'}
+60250	set()
+60248	{'by-code-owner', 'integration: wled', 'cla-signed', 'small-pr'}
+60247	{'integration: flux_led', 'cla-signed'}
+60246	{'integration: samsungtv', 'cla-signed', 'small-pr'}
+60245	{'code-quality', 'cla-signed', 'small-pr', 'has-tests', 'by-code-owner', 'integration: samsungtv'}
+60244	{'integration: unifi'}
+60243	{'small-pr', 'integration: wirelesstag', 'new-feature', 'by-code-owner', 'cla-signed'}
+60242	{'integration: kostal_plenticore'}
+60240	{'smash', 'code-quality', 'small-pr', 'integration: uptime', 'cla-signed'}
+60239	{'code-quality', 'has-tests', 'integration: config', 'core', 'cla-signed'}
+60238	{'integration: zwave_js'}
+60231	{'bugfix', 'core', 'cla-signed', 'small-pr'}
+60227	{'cla-signed', 'small-pr'}
+60225	{'integration: modbus'}
+60222	{'integration: cast'}
+60220	{'small-pr', 'has-tests', 'waiting-for-upstream', 'integration: homekit', 'cla-signed'}
+60218	{'new-feature', 'core', 'cla-signed', 'small-pr'}
+60216	{'has-tests', 'by-code-owner', 'new-feature', 'cla-signed', 'integration: brother'}
+60211	{'smash', 'new-feature', 'core', 'cla-signed'}
+60209	{'new-feature', 'core', 'cla-signed', 'small-pr'}
+60203	{'integration: homekit'}
+60200	{'integration: buienradar'}
+60193	{'small-pr', 'has-tests', 'integration: binary_sensor', 'core', 'cla-signed'}
+60190	{'dependency', 'cla-signed'}
+60186	{'integration: tuya'}
+/horovod/horovod/
+3288	set()
+3286	{'enhancement'}
+3275	{'bug'}
+3272	set()
+3261	set()
+3260	{'bug'}
+3256	{'bug'}
+3247	{'question'}
+3240	{'bug'}
+3236	{'bug'}
+3233	set()
+3229	{'bug'}
+3228	{'enhancement'}
+3224	{'bug'}
+3221	{'bug'}
+3208	set()
+3203	set()
+3189	set()
+3187	{'bug'}
+3181	set()
+3179	set()
+3178	set()
+3177	set()
+3170	{'bug'}
+3166	{'bug'}
+3165	{'bug'}
+3163	{'question'}
+3162	{'bug'}
+3157	set()
+3150	{'bug'}
+/hpe-storage/nimble-ansible-modules/
+38	set()
+https://docs.github.com/articles/searching-
+/ikalchev/HAP-python/
+392	set()
+391	set()
+390	set()
+389	set()
+344	set()
+341	set()
+340	set()
+338	set()
+327	set()
+295	set()
+294	set()
+293	set()
+286	set()
+284	set()
+282	set()
+280	set()
+277	set()
+275	set()
+248	set()
+227	set()
+219	set()
+213	set()
+211	set()
+208	set()
+201	set()
+200	set()
+199	set()
+196	set()
+193	set()
+190	set()
+/illinois-ceesd/mirgecom/
+557	set()
+556	{'Lazy-eval'}
+555	set()
+553	set()
+551	set()
+549	set()
+540	set()
+536	set()
+535	set()
+532	set()
+531	set()
+525	set()
+524	{'y1'}
+523	set()
+522	set()
+520	set()
+516	{'enhancement'}
+514	set()
+509	set()
+508	set()
+504	set()
+502	set()
+501	set()
+486	set()
+485	set()
+483	set()
+482	set()
+478	set()
+471	{'refactor', 'enhancement'}
+469	set()
+/inspirehep/inspire-next/
+4115	set()
+4114	set()
+4028	{'Type: Bug'}
+3815	set()
+3792	{'Type: Bug'}
+3685	set()
+3675	set()
+3648	set()
+3618	set()
+3604	set()
+3603	set()
+3601	set()
+3600	set()
+3598	{'Type: Bug'}
+3597	set()
+3596	set()
+3575	set()
+3570	set()
+3560	{'Type: Bug'}
+3555	set()
+3546	set()
+3540	set()
+3539	set()
+3537	set()
+3528	set()
+3518	{'Review: WIP'}
+3504	{'Priority: medium'}
+3500	set()
+3496	set()
+3495	set()
+/iocage/iocage/
+1273	set()
+1272	set()
+1271	set()
+1267	set()
+1257	set()
+1251	set()
+1250	set()
+1248	set()
+1247	set()
+1246	set()
+1245	set()
+1243	set()
+1240	set()
+1236	set()
+1235	set()
+1234	set()
+1233	set()
+1231	set()
+1230	set()
+1229	set()
+1228	set()
+1227	set()
+1225	set()
+1224	set()
+1223	set()
+1222	set()
+1221	set()
+1217	set()
+1216	set()
+1215	set()
+/iterative/dvc/
+7035	set()
+7034	{'awaiting response'}
+7027	set()
+7025	{'feature request', 'p3-nice-to-have', 'ui'}
+7023	{':bug: bug', 'p1-important', 'fs: s3'}
+7021	{'A: plots', ':bug: bug'}
+7018	{'discussion', 'ui'}
+7016	{'build'}
+7008	set()
+7007	{'A: plots', 'skip-changelog', 'external-product'}
+7005	{'testing'}
+7004	set()
+7001	{'A: diff/show', ':bug: bug', 'A: experiments'}
+6997	set()
+6995	{'awaiting response'}
+6993	set()
+6992	{'research', 'awaiting response'}
+6991	{'feature request', 'testing'}
+6989	{':bug: bug', 'A: templating'}
+6988	{'feature request', 'A: diff/show', 'ui', 'A: experiments'}
+6986	{'build', 'skip-changelog'}
+6978	{'awaiting response'}
+6975	{'build'}
+6974	{'A: experiments', 'ui', 'enhancement'}
+6970	{'p2-medium', 'A: cli', 'A: object-storage'}
+6968	{'A: diff/show', ':bug: bug', 'ui', 'A: experiments'}
+6965	{'discussion', ':bug: bug', 'P: windows', 'awaiting response'}
+6964	{'awaiting response'}
+6956	{':bug: bug', 'research', 'p0-critical'}
+6952	{'discussion', 'git'}
+/JamesKirkAndSpock/Hirola/
+155	{'dependencies', 'python'}
+154	{'dependencies', 'python'}
+152	{'dependencies', 'python'}
+151	{'dependencies', 'python'}
+150	{'dependencies', 'python'}
+146	set()
+143	set()
+141	set()
+137	{'dependencies'}
+136	{'dependencies'}
+132	set()
+129	set()
+/jamielennox/sandbox/
+14	set()
+10	set()
+9	set()
+8	set()
+7	set()
+4	set()
+/jmfrancklab/proc_scripts/
+64	set()
+58	set()
+46	set()
+44	set()
+31	set()
+28	set()
+25	set()
+24	set()
+23	set()
+20	set()
+18	set()
+17	set()
+9	set()
+/joblib/joblib/
+1240	set()
+1237	set()
+1236	set()
+1235	set()
+1234	set()
+1233	set()
+1232	set()
+1231	set()
+1230	set()
+1228	set()
+1223	set()
+1222	set()
+1221	set()
+1220	set()
+1219	set()
+1216	set()
+1215	set()
+1213	set()
+1212	set()
+1211	set()
+1208	set()
+1207	set()
+1206	set()
+1205	set()
+1204	set()
+1201	{'dask backend', 'bug'}
+1200	set()
+1198	set()
+1197	set()
+1196	set()
+/kbaseapps/kb_Metrics/
+11	set()
+/keras-team/keras/
+15696	{'cla: yes', 'size:S'}
+15695	{'cla: yes', 'size:L'}
+15694	{'cla: yes', 'size:XL'}
+15693	{'cla: yes', 'size:M'}
+15692	{'type:support'}
+15690	{'cla: yes', 'size:M'}
+15689	{'type:support'}
+15688	{'cla: yes', 'size:L'}
+15685	{'cla: yes', 'size:S', 'keras-team-review-pending', 'awaiting review'}
+15684	{'type:support'}
+15683	{'cla: yes', 'size:XS', 'awaiting review'}
+15682	{'type:support'}
+15681	{'type:support'}
+15680	{'cla: yes', 'size:XL'}
+15678	{'type:bug/performance', 'stat:awaiting response'}
+15677	{'type:bug/performance', 'stat:awaiting response'}
+15676	{'stat:awaiting response', 'type:support'}
+15670	{'stat:awaiting response', 'type:support'}
+15669	{'type:support'}
+15668	{'type:support'}
+15667	{'type:bug/performance'}
+15666	{'type:docs', 'type:support'}
+15665	{'type:docs', 'type:support'}
+15664	{'stat:awaiting response', 'type:support'}
+15663	{'stat:awaiting response', 'type:support'}
+15661	{'cla: yes', 'size:S', 'keras-team-review-pending', 'awaiting review'}
+15659	{'type:bug/performance'}
+15658	{'stat:awaiting response', 'type:support'}
+15655	{'type:bug/performance'}
+15654	{'type:docs'}
+/KevDevPython/GUIdo/
+22	set()
+/kevinlekiller/mkvrg/
+7	set()
+4	set()
+/kizniche/Mycodo/
+1113	set()
+1112	set()
+1107	set()
+1102	set()
+1101	{'bug'}
+1096	{'Fixed and Committed', 'bug'}
+1095	{'Fixed and Committed', 'bug'}
+1089	{'Implemented', 'enhancement'}
+1087	{'Pinned', 'Information'}
+1053	set()
+1050	{'enhancement'}
+1036	set()
+1035	set()
+1021	set()
+997	set()
+983	{'enhancement'}
+974	{'Pinned', 'Information'}
+965	{'Information'}
+932	{'enhancement'}
+910	set()
+897	{'enhancement'}
+834	set()
+812	{'enhancement'}
+798	{'Information'}
+728	{'enhancement'}
+726	{'enhancement'}
+680	{'Pinned'}
+637	{'Working On'}
+581	{'enhancement'}
+269	{'enhancement'}
+/Kodi-vStream/venom-xbmc-addons/
+3414	set()
+3413	set()
+3412	set()
+3410	set()
+3409	set()
+3408	set()
+3406	set()
+3405	set()
+3404	set()
+3403	set()
+3397	{'A lire important', 'Information'}
+3393	set()
+3386	set()
+3385	set()
+3384	set()
+3381	set()
+3377	set()
+3370	set()
+3366	{'not a bug'}
+3360	set()
+3358	set()
+3348	set()
+3339	set()
+3322	set()
+3317	set()
+3315	set()
+3312	{'Evolution'}
+3295	set()
+3291	set()
+3288	set()
+/Komodo/KomodoEdit/
+3943	set()
+3941	set()
+3940	set()
+3939	set()
+3935	set()
+3933	set()
+3930	set()
+3929	set()
+3928	set()
+3927	{'Component: CodeIntel'}
+3926	set()
+3925	{'Minor: PRs-Welcome'}
+3924	set()
+3923	{'Component: Debugging'}
+3922	{'Minor: PRs-Welcome'}
+3921	set()
+3920	{'Minor: PRs-Welcome'}
+3919	set()
+3918	{'Component: Debugging'}
+3914	set()
+3911	set()
+3909	set()
+3908	set()
+3907	{'Minor: PRs-Welcome'}
+3905	set()
+3904	set()
+3903	set()
+3902	{'Minor: PRs-Welcome'}
+3901	{'Limited to: IDE', 'Minor: PRs-Welcome'}
+3897	{'Minor: PRs-Welcome'}
+/kubeflow/pipelines/
+6951	{'dependencies', 'cla: yes', 'javascript', 'needs-ok-to-test', 'size/XS'}
+6949	{'kind/bug'}
+6945	{'cla: yes', 'size/XS'}
+6944	{'needs-ok-to-test', 'cla: no', 'size/S'}
+6942	{'cla: yes', 'needs-ok-to-test', 'size/L'}
+6940	{'kind/feature'}
+6938	{'needs-ok-to-test', 'cla: no', 'size/XL'}
+6936	{'kind/feature'}
+6935	{'kind/feature', 'area/frontend'}
+6934	{'cla: yes', 'size/L'}
+6931	set()
+6930	set()
+6927	{'area/testing', 'area/sdk'}
+6926	{'kind/bug'}
+6925	{'kind/feature'}
+6924	{'cla: yes', 'needs-ok-to-test', 'size/M'}
+6920	{'cla: yes', 'ok-to-test', 'size/XXL'}
+6916	{'area/backend', 'kind/feature'}
+6915	set()
+6914	{'cla: yes', 'needs-ok-to-test', 'size/XS'}
+6913	{'area/sdk', 'kind/bug'}
+6912	{'area/frontend', 'kind/bug'}
+6910	{'cla: yes', 'size/XXL'}
+6908	{'cla: yes', 'needs-ok-to-test', 'size/XS'}
+6902	{'cla: yes', 'do-not-merge/work-in-progress', 'size/S'}
+6901	{'area/backend', 'area/frontend', 'kind/bug'}
+6900	{'kind/feature', 'area/components'}
+6899	{'area/sdk', 'kind/bug'}
+6897	{'cla: yes', 'needs-ok-to-test', 'size/XS'}
+6895	{'area/sdk', 'kind/bug'}
+/Kubeinit/kubeinit/
+555	set()
+480	{'keep'}
+391	{'keep'}
+390	{'keep'}
+331	{'keep'}
+/kuriringohankamehameha/stockBot/
+6	{'dependencies'}
+3	set()
+/KwanLab/Autometa/
+200	set()
+198	{'enhancement'}
+196	set()
+195	set()
+194	{'bug'}
+193	{'good first issue', 'enhancement'}
+192	{'nextflow'}
+191	{'continuous integration', 'enhancement'}
+189	{'documentation'}
+187	{'nextflow', 'enhancement'}
+186	{'nextflow', 'enhancement'}
+185	{'nextflow', 'good first issue', 'enhancement'}
+184	set()
+182	{'python', 'enhancement'}
+178	{'python', 'enhancement'}
+177	{'nextflow', 'good first issue'}
+175	{'documentation', 'good first issue'}
+173	{'nextflow', 'good first issue', 'enhancement'}
+172	{'stretch', 'documentation'}
+171	{'nextflow', 'good first issue', 'enhancement'}
+170	{'python', 'nextflow', 'enhancement'}
+167	{'nextflow', 'good first issue', 'enhancement'}
+163	{'nextflow', 'enhancement'}
+162	{'nextflow', 'enhancement'}
+160	{'python', 'nextflow', 'good first issue', 'enhancement'}
+159	{'documentation', 'nextflow'}
+152	{'good first issue', 'enhancement'}
+151	{'nextflow', 'good first issue', 'bug'}
+149	{'good first issue'}
+147	{'nextflow', 'bug'}
+/kymatio/kymatio/
+787	set()
+786	{'1D', 'help wanted', 'API', 'enhancement'}
+785	set()
+783	set()
+781	set()
+779	set()
+775	set()
+774	set()
+772	set()
+771	set()
+770	set()
+767	{'doc', 'enhancement'}
+766	set()
+765	set()
+764	set()
+763	set()
+762	set()
+761	set()
+760	set()
+758	set()
+757	set()
+750	set()
+747	set()
+746	set()
+745	set()
+742	set()
+740	set()
+739	set()
+738	set()
+737	set()
+/leapcode/leap_mail/
+/lightkurve/lightkurve/
+1163	set()
+1162	set()
+1161	set()
+1160	set()
+1159	set()
+1158	set()
+1155	set()
+1153	set()
+1152	set()
+1151	set()
+1148	set()
+1147	set()
+1146	set()
+1144	set()
+1142	set()
+1138	set()
+1137	set()
+1136	set()
+1134	set()
+1133	set()
+1130	set()
+1129	set()
+1125	set()
+1123	set()
+1118	set()
+1114	set()
+1109	set()
+1107	set()
+1106	set()
+1105	set()
+/lightning/bolts/
+939	set()
+938	set()
+937	set()
+936	set()
+935	set()
+934	set()
+933	set()
+932	set()
+921	set()
+919	set()
+918	set()
+917	set()
+912	set()
+911	set()
+910	set()
+906	set()
+904	set()
+903	set()
+899	set()
+895	set()
+892	set()
+891	set()
+884	set()
+881	set()
+878	set()
+873	set()
+869	set()
+868	set()
+867	set()
+865	set()
+/MarshalX/yandex-music-api/
+485	{'feature'}
+484	{'feature'}
+483	{'feature'}
+482	{'feature'}
+481	{'feature'}
+480	{'feature'}
+479	{'dependencies'}
+478	{'feature'}
+477	{'feature'}
+476	{'feature'}
+475	{'feature'}
+474	{'feature'}
+473	{'feature'}
+470	{'feature'}
+469	{'feature'}
+467	{'feature'}
+466	{'feature'}
+465	{'feature'}
+464	{'feature'}
+463	{'feature'}
+462	{'feature'}
+458	set()
+455	{'feature'}
+454	{'feature'}
+453	{'feature'}
+452	{'feature'}
+451	{'feature'}
+450	{'feature'}
+449	{'feature'}
+448	{'feature'}
+/MaslowCNC/GroundControl/
+822	set()
+820	set()
+818	set()
+815	set()
+813	set()
+811	set()
+799	set()
+791	set()
+787	set()
+785	set()
+784	set()
+771	set()
+768	set()
+767	{'bug'}
+763	set()
+762	{'bug'}
+761	set()
+760	set()
+759	set()
+738	{'enhancement'}
+728	{'question', 'enhancement'}
+722	{'question'}
+720	{'bug'}
+718	{'question'}
+717	{'question', 'enhancement'}
+711	set()
+708	{'question', 'bug'}
+706	set()
+699	{'enhancement'}
+696	set()
+/mathematicalmichael/BET/
+33	set()
+19	set()
+/matrix-org/matrix-doc/
+3525	set()
+3524	set()
+3523	{'blocked', 'client-server', 'kind:feature', 'proposal-in-review', 'needs-implementation', 'proposal'}
+3522	set()
+3520	{'improvement'}
+3519	{'clarification'}
+3518	{'clarification'}
+3517	{'proposal-in-review', 'needs-implementation', 'proposal', 'push', 'kind:maintenance'}
+3516	{'improvement'}
+3515	{'aesthetic'}
+3513	set()
+3510	{'client-server', 'room-vNext', 's2s', 'proposal-in-review', 'needs-implementation', 'unassigned-room-version', 'proposal', 'feature'}
+3508	set()
+3507	set()
+3506	set()
+3498	set()
+3496	{'improvement'}
+3494	{'improvement'}
+3489	{'proposal'}
+3488	{'proposal'}
+3490	{'push'}
+3484	{'aesthetic'}
+3483	{'spec-bug'}
+3480	{'e2e', 'proposal', 'needs-implementation', 'kind:maintenance'}
+3478	{'wart', 'application services', 'security'}
+3475	{'meta'}
+3474	{'clarification'}
+3473	{'clarification'}
+3472	{'improvement'}
+3470	{'clarification'}
+/Mellanox/switchdev-utils/
+/metoppv/improver/
+1623	set()
+1622	{'Type:Documentation'}
+1621	{'Type:TechnicalDebt'}
+1617	set()
+1612	set()
+1608	set()
+1606	set()
+1605	set()
+1596	{'FY21/22 Technical Debt'}
+1589	{'MO review required', 'BoM review required'}
+1553	set()
+1523	set()
+1522	set()
+1514	set()
+1511	set()
+1506	set()
+1464	set()
+1453	set()
+1452	set()
+1430	set()
+1396	set()
+1339	{'green_team'}
+1276	{'green_team'}
+1275	{'green_team'}
+1274	{'green_team'}
+1261	{'blue_team', 'green_team'}
+1218	{'blue_team', 'green_team'}
+1216	set()
+1214	{'good first issue'}
+1213	{'good first issue'}
+/mirko/SonOTA/
+186	set()
+185	set()
+184	set()
+183	set()
+181	set()
+180	set()
+178	set()
+176	set()
+175	set()
+174	set()
+173	set()
+172	set()
+171	set()
+170	set()
+169	set()
+164	set()
+162	set()
+161	set()
+160	set()
+159	set()
+158	set()
+155	set()
+141	set()
+133	set()
+131	set()
+128	set()
+124	set()
+121	set()
+119	set()
+116	set()
+/m-labs/artiq/
+1782	set()
+1780	set()
+1779	set()
+1778	set()
+1775	set()
+1768	set()
+1759	set()
+1758	set()
+1753	set()
+1748	set()
+1747	set()
+1745	set()
+1743	set()
+1742	set()
+1739	set()
+1738	set()
+1736	set()
+1731	set()
+1728	{'area:compiler'}
+1726	set()
+1717	set()
+1712	{'area:compiler'}
+1703	set()
+1697	set()
+1696	set()
+1692	set()
+1691	set()
+1688	set()
+1686	set()
+1685	set()
+/mne-tools/mne-python/
+10032	{'BUG'}
+10031	set()
+10028	{'ENH'}
+10024	set()
+10023	{'BUG'}
+10022	{'BUG'}
+10019	set()
+10016	{'ENH'}
+10015	set()
+10011	{'BUG'}
+10010	{'BUG'}
+10006	{'BUG'}
+10000	{'DOC'}
+9997	{'ENH'}
+9989	{'ENH'}
+9985	{'ENH'}
+9974	{'BUG'}
+9969	set()
+9967	set()
+9961	{'BUG'}
+9960	set()
+9953	{'BUG'}
+9927	{'VIZ'}
+9923	{'BUG'}
+9916	set()
+9894	{'ENH', 'code-health'}
+9883	{'BUG'}
+9853	{'DOC'}
+9852	{'BUG'}
+9846	{'ENH', 'ICA'}
+/mne-tools/mne-sandbox/
+30	set()
+28	set()
+27	set()
+10	set()
+8	set()
+4	set()
+/modin-project/modin/
+3729	{'Flaky Test'}
+3728	{'Flaky Test'}
+3727	{'Flaky Test'}
+3726	set()
+3725	{'Performance 🚀'}
+3724	set()
+3722	{'bug 🦗', 'Testing 📈', 'P0'}
+3721	set()
+3720	{'External', 'Ready for review'}
+3719	{'P1', 'documentation 📜'}
+3718	set()
+3717	set()
+3716	set()
+3715	set()
+3714	set()
+3711	set()
+3710	{'Benchmarking 🏁', 'OmniSci'}
+3709	set()
+3708	set()
+3707	set()
+3706	{'Flaky Test'}
+3705	set()
+3702	{'bug 🦗'}
+3701	{'bug 🦗'}
+3700	set()
+3699	set()
+3694	set()
+3693	set()
+3692	{'documentation 📜'}
+3691	set()
+/monero-project/meta/
+633	set()
+632	set()
+631	set()
+630	set()
+629	set()
+628	set()
+623	set()
+608	set()
+603	set()
+581	set()
+580	set()
+575	set()
+552	set()
+549	set()
+519	set()
+412	set()
+384	set()
+376	set()
+310	set()
+281	set()
+237	set()
+232	set()
+198	set()
+191	set()
+164	set()
+136	set()
+103	set()
+90	{'task'}
+89	set()
+78	set()
+/mongodb/specifications/
+1105	set()
+1103	set()
+1102	set()
+1100	set()
+1075	set()
+1040	set()
+1001	set()
+960	set()
+959	set()
+883	set()
+881	set()
+861	set()
+842	set()
+682	set()
+655	set()
+516	set()
+410	set()
+372	set()
+290	set()
+258	set()
+/mozilla/addons-server/
+18387	set()
+18386	set()
+18383	set()
+18380	{'component: reviewer tools', 'priority: p3'}
+18379	{'dependencies', 'python'}
+18378	{'dependencies', 'python'}
+18377	set()
+18374	{'dependencies', 'python'}
+18373	{'dependencies', 'python'}
+18371	{'priority: p3', 'component: api'}
+18370	set()
+18367	{'priority: p3', 'component: api'}
+18365	{'dependencies', 'python'}
+18363	{'dependencies', 'python'}
+18361	{'priority: p4'}
+18360	{'component: code quality', 'priority: p4'}
+18358	{'dependencies', 'python'}
+18354	{'dependencies', 'python'}
+18353	{'dependencies', 'python'}
+18352	{'dependencies', 'python'}
+18351	{'dependencies', 'python'}
+18345	{'state: do not merge', 'dependencies', 'python'}
+18340	{'state: do not merge', 'dependencies', 'python'}
+18336	{'component: devhub'}
+18331	{'priority: p3', 'component: admin tools'}
+18330	{'priority: p3'}
+18329	{'component: devhub', 'priority: p3'}
+18316	{'dependencies', 'python'}
+18291	{'component: code quality', 'priority: p4'}
+18280	{'priority: p3'}
+/mozilla-conduit/phabricator-emails/
+/mozilla/moztrap/
+104	set()
+103	set()
+79	set()
+/MultiAgentLearning/playground/
+244	{'dependencies'}
+243	{'dependencies'}
+240	{'dependencies'}
+239	{'dependencies'}
+231	set()
+226	{'dependencies'}
+225	{'dependencies'}
+224	{'dependencies'}
+220	set()
+202	{'help wanted', 'enhancement'}
+174	set()
+169	set()
+152	set()
+108	{'help wanted'}
+103	{'help wanted', 'enhancement'}
+69	{'enhancement'}
+/nansencenter/django-geo-spaas-harvesting/
+94	set()
+92	{'bug'}
+78	set()
+56	{'Low priority', 'enhancement'}
+48	{'enhancement'}
+8	{'enhancement'}
+/napari/napari/
+3687	{'qt', 'tests'}
+3686	{'bug'}
+3685	{'task'}
+3680	{'bug'}
+3679	set()
+3677	{'tests', 'performance'}
+3674	{'tests'}
+3671	{'task', 'tests'}
+3669	{'feature'}
+3654	{'documentation'}
+3653	{'feature'}
+3652	{'bug'}
+3651	{'documentation'}
+3650	{'task'}
+3647	{'tests'}
+3646	{'bug'}
+3642	{'bug'}
+3658	{'documentation'}
+3637	{'qt', 'tests'}
+3636	{'task'}
+3633	set()
+3632	{'bundle', 'feature'}
+3631	{'bundle', 'feature'}
+3630	{'bug'}
+3629	{'qt', 'tests', 'design', 'task'}
+3625	set()
+3623	{'bug'}
+3622	{'task'}
+3620	{'bug'}
+3611	{'qt', 'tests'}
+/netket/netket/
+990	set()
+988	set()
+968	set()
+964	set()
+954	set()
+953	set()
+952	set()
+950	{'contributor welcome', 'enhancement'}
+949	{'contributor welcome'}
+926	set()
+919	set()
+918	set()
+917	{'bug'}
+915	set()
+912	set()
+911	set()
+903	{'enhancement'}
+898	{'contributor welcome', 'enhancement'}
+887	{'contributor welcome', 'enhancement'}
+885	set()
+880	set()
+878	{'enhancement', 'bug'}
+875	{'fix proposed', 'contributor welcome', 'bug'}
+873	set()
+863	set()
+853	{'enhancement'}
+839	set()
+824	set()
+802	set()
+799	set()
+/nilearn/nilearn/
+3072	{'Enhancement'}
+3070	set()
+3068	{'Enhancement'}
+3066	set()
+3065	set()
+3063	{'Bug'}
+3058	{'effort: low', 'GLM', 'Bug', 'impact: low', 'priority: medium'}
+3049	set()
+3045	{'Enhancement'}
+3040	{'GLM', 'Bug'}
+3038	{'Documentation'}
+3036	set()
+3030	set()
+3029	{'Bug'}
+3020	{'Bug'}
+3014	{'Discussion', 'Infrastructure', 'impact: high', 'User Experience'}
+3001	set()
+2991	set()
+2981	{'priority: low', 'Good first issue', 'impact: low', 'Bug'}
+2971	{'Documentation'}
+2964	{'Bug'}
+2953	set()
+2950	{'priority: low', 'Infrastructure', 'effort: high', 'Discussion', 'impact: low'}
+2949	{'Enhancement', 'priority: low', 'New feature', 'Discussion', 'impact: medium', 'effort: medium'}
+2948	{'New feature', 'Enhancement'}
+2947	{'Enhancement', 'priority: low', 'Infrastructure', 'impact: low', 'Installation', 'effort: medium'}
+2922	{'Bug'}
+2914	set()
+2913	{'Documentation'}
+2899	set()
+/nipy/nibabel/
+1068	set()
+1066	set()
+1065	{'enhancement'}
+1061	set()
+1060	set()
+1058	set()
+1057	set()
+1056	set()
+1053	set()
+1046	set()
+1045	set()
+1042	set()
+1041	set()
+1037	set()
+1036	set()
+1033	set()
+1031	set()
+1030	set()
+1029	set()
+1027	set()
+1026	set()
+1014	set()
+1001	{'documentation', 'good-hackathon-project'}
+1000	set()
+995	set()
+993	set()
+987	set()
+986	set()
+979	{'good-hackathon-project', 'enhancement'}
+977	set()
+/nodejs/node-gyp/
+2552	{'Windows'}
+2547	set()
+2544	set()
+2543	{'Windows'}
+2541	{'Windows'}
+2539	set()
+2538	{'Windows', 'ERR! node-gyp -v <= v5.1.0'}
+2535	{'ERR! node-gyp -v <= v5.1.0'}
+2534	set()
+2531	{'Windows', 'ERR! node-gyp -v <= v5.1.0'}
+2530	set()
+2519	set()
+2517	set()
+2512	{'Windows'}
+2510	set()
+2507	{'Windows'}
+2505	set()
+2500	set()
+2498	{'macOS'}
+2495	set()
+2492	{'Windows'}
+2489	set()
+2484	{'Windows'}
+2482	set()
+2475	set()
+2467	{'Windows', 'Node Sass --> Dart Sass'}
+2460	set()
+2459	{'macOS'}
+2458	set()
+2455	set()
+/nortikin/sverchok/
+4380	{'bug'}
+4378	set()
+4376	set()
+4374	set()
+4373	{'OSX'}
+4368	set()
+4367	set()
+4364	{'Discussion'}
+4362	set()
+4354	{'Proposal'}
+4353	{'bug'}
+4352	{'bug'}
+4345	{'bug'}
+4323	{'core', 'Performance'}
+4322	{'Proposal'}
+4316	{'bug'}
+4312	set()
+4299	{'core'}
+4288	{'bug'}
+4285	{'Proposal'}
+4283	{'Proposal'}
+4281	set()
+4275	{'Proposal', 'good first issue'}
+4272	{'documentation'}
+4260	{'bug'}
+4253	set()
+4242	{'Proposal', 'good first issue'}
+4239	{'bug'}
+4238	{'bug'}
+4237	{'good first issue', 'bug'}
+/numba/numba/
+7593	{'2 - In Progress'}
+7592	{'bug - incorrect behavior'}
+7591	{'3 - Ready for Review', 'doc', 'CUDA'}
+7590	{'Task'}
+7589	{'needtriage'}
+7586	{'3 - Ready for Review'}
+7585	{'feature_request'}
+7584	{'3 - Ready for Review'}
+7582	{'2 - In Progress'}
+7581	{'4 - Waiting on reviewer', 'Effort - short'}
+7579	{'bug - failure to compile'}
+7578	{'ParallelAccelerator', 'bug - incorrect behavior'}
+7577	{'bug - incorrect behavior', 'bug - miscompile'}
+7576	{'needtriage'}
+7575	{'caching', 'needtriage'}
+7574	{'feature_request', 'stencil'}
+7573	{'bug - failure to compile', 'bug - regression'}
+7572	{'bug - incorrect behavior', 'needtriage'}
+7571	{'doc', 'needtriage', 'CUDA'}
+7569	{'bug - failure to compile'}
+7568	{'discussion'}
+7566	{'bug - incorrect behavior', 'bug - typing'}
+7565	{'feature_request'}
+7564	{'2 - In Progress'}
+7563	{'2 - In Progress'}
+7562	{'feature_request'}
+7560	{'Effort - long', '2 - In Progress'}
+7558	{'bug - incorrect behavior', 'CUDA'}
+7557	{'Effort - long', '4 - Waiting on author'}
+7556	{'3 - Ready for Review', 'CUDA'}
+/numenta/nupic/
+3898	set()
+3897	set()
+3896	set()
+3895	{'dependencies'}
+3894	set()
+3893	set()
+3892	set()
+3891	{'dependencies'}
+3890	set()
+3889	set()
+3888	set()
+3887	set()
+3886	set()
+3885	set()
+3883	set()
+3880	set()
+3879	set()
+3878	set()
+3875	{'type:bug'}
+3870	set()
+3869	{'under-review', 'subject:encoders', 'type:bug'}
+3865	set()
+3860	set()
+3856	set()
+3851	set()
+3849	set()
+3845	set()
+3837	{'priority:3', 'type:bug'}
+3824	{'priority:3', 'subject:algorithms', 'type:bug'}
+3805	set()
+/numpy/numpy/
+20444	set()
+20443	set()
+20442	{'00 - Bug'}
+20441	{'04 - Documentation'}
+20438	{'04 - Documentation'}
+20428	{'00 - Bug'}
+20423	{'component: numpy.lib'}
+20422	{'00 - Bug'}
+20418	{'00 - Bug'}
+20417	{'36 - Build'}
+20416	{'01 - Enhancement', 'component: numpy.distutils'}
+20407	{'component: numpy.ma', '04 - Documentation'}
+20401	{'00 - Bug', 'component: numpy.ma'}
+20397	set()
+20391	set()
+20389	{'00 - Bug', 'component: numpy.lib', '03 - Maintenance'}
+20385	{'component: numpy.f2py'}
+20384	{'00 - Bug'}
+20380	{'04 - Documentation', 'component: numpy.random'}
+20377	{'component: numpy.ma', '04 - Documentation'}
+20376	{'00 - Bug', '09 - Backport-Candidate', 'component: numpy.datetime64'}
+20375	{'component: numpy.ma', '04 - Documentation'}
+20371	{'00 - Bug'}
+20363	{'component: SIMD'}
+20362	{'00 - Bug'}
+20359	{'17 - Task', '14 - Release'}
+20358	{'01 - Enhancement'}
+20355	{'00 - Bug'}
+20351	{'04 - Documentation'}
+20346	{'00 - Bug', '37 - Gitpod'}
+/OCA/contract/
+749	{'bug'}
+748	{'bug'}
+744	set()
+743	set()
+741	set()
+739	set()
+738	set()
+736	set()
+732	{'help wanted', 'work in progress'}
+724	{'needs review', 'enhancement'}
+722	set()
+718	set()
+712	set()
+711	set()
+710	set()
+707	set()
+706	set()
+703	set()
+701	set()
+698	set()
+697	set()
+695	set()
+691	set()
+687	set()
+685	set()
+681	set()
+676	set()
+675	set()
+672	{'bot is merging ⏳', 'ready to merge', 'approved'}
+667	set()
+/OCA/l10n-spain/
+1912	{'approved'}
+1911	set()
+1909	set()
+1907	set()
+1906	set()
+1901	set()
+1896	set()
+1895	set()
+1893	{'bug'}
+1889	set()
+1888	set()
+1881	set()
+1879	set()
+1878	set()
+1876	set()
+1873	set()
+1866	{'help wanted', 'work in progress'}
+1864	set()
+1862	set()
+1855	set()
+1848	set()
+1809	set()
+1808	set()
+1793	set()
+1791	set()
+1770	set()
+1766	set()
+1763	set()
+1762	set()
+1756	set()
+/OCA/website-cms/
+125	{'help wanted', 'work in progress'}
+120	{'stale'}
+119	{'stale', 'help wanted', 'work in progress'}
+106	{'stale', 'help wanted', 'work in progress'}
+102	{'needs review', 'stale'}
+94	{'stale', 'help wanted', 'work in progress'}
+93	{'stale', 'work in progress'}
+92	{'stale', 'work in progress'}
+89	{'stale', 'bug'}
+87	{'stale', 'work in progress'}
+69	{'stale'}
+41	{'needs review', 'stale'}
+34	{'stale'}
+18	{'stale'}
+17	{'stale'}
+/odlgroup/odl/
+1613	set()
+1611	set()
+1610	set()
+1608	set()
+1607	set()
+1606	set()
+1605	set()
+1602	set()
+1600	set()
+1599	set()
+1598	set()
+1597	set()
+1595	set()
+1591	set()
+1590	set()
+1589	set()
+1588	set()
+1586	set()
+1584	set()
+1578	{'status: review needed', 'type: new feature', 'area: tomo'}
+1574	set()
+1569	set()
+1568	set()
+1565	{'topic: distribution', 'type: reference', 'status: discussion'}
+1562	{'topic: documentation', 'type: deficiency'}
+1560	{'status: discussion', 'type: new feature', 'area: tomo'}
+1559	{'topic: documentation', 'type: upstream issue'}
+1558	set()
+1557	{'type: upstream issue', 'type: deficiency', 'area: core'}
+1555	{'topic: distribution', 'type: enhancement'}
+/oe-alliance/enigma2-plugins/
+449	set()
+438	set()
+435	set()
+431	set()
+430	set()
+418	set()
+416	set()
+406	{'bug'}
+398	set()
+345	set()
+339	set()
+338	set()
+337	set()
+308	set()
+307	set()
+175	{'enhancement'}
+/onicagroup/runway/
+1056	{'github_actions', 'maintenance'}
+1055	{'changelog:minor', 'python', 'feature'}
+1053	{'maintenance', 'javascript', 'changelog:skip'}
+1052	{'poetry', 'dependencies', 'python'}
+1051	{'poetry', 'dependencies', 'python'}
+1049	{'poetry', 'dependencies', 'python'}
+1033	{'priority:medium', 'feature'}
+969	{'status:accepted', 'feature', 'priority:low'}
+966	{'question', 'priority:low'}
+962	{'feature', 'status:review_needed', 'priority:low'}
+920	{'feature', 'priority:low'}
+919	{'feature', 'priority:low'}
+918	{'feature'}
+917	{'feature', 'priority:low'}
+916	{'feature', 'priority:low'}
+904	{'maintenance'}
+903	{'maintenance'}
+844	{'maintenance', 'priority:medium'}
+703	{'feature'}
+592	{'priority:medium', 'feature'}
+590	{'feature', 'priority:low'}
+515	{'feature'}
+510	{'question', 'status:review_needed', 'priority:low'}
+509	{'priority:low', 'bug'}
+487	{'feature', 'status:review_needed', 'priority:low'}
+459	{'feature', 'priority:low'}
+456	{'feature', 'status:review_needed', 'priority:low'}
+438	{'feature', 'priority:low'}
+426	{'feature', 'priority:low'}
+352	{'feature', 'status:review_needed', 'priority:low'}
+/ONSdigital/eq-questionnaire-runner/
+724	set()
+722	set()
+718	set()
+716	set()
+700	{'dont merge'}
+177	set()
+/openmc-dev/openmc/
+1916	set()
+1915	set()
+1914	set()
+1910	set()
+1906	set()
+1902	set()
+1891	set()
+1887	set()
+1881	set()
+1880	set()
+1876	set()
+1874	set()
+1842	set()
+1840	set()
+1831	set()
+1829	{'bounty', 'help wanted'}
+1815	set()
+1813	set()
+1796	{'Data'}
+1779	set()
+1778	set()
+1753	set()
+1734	set()
+1731	{'Test Suite'}
+1730	{'Other Enhancement'}
+1703	set()
+1702	{'Other Enhancement'}
+1700	{'MGXS'}
+1699	{'Bugs'}
+1698	{'Bugs'}
+/openml/openml-python/
+1123	{'bug'}
+1122	set()
+1120	set()
+1115	{'Hacktoberfest', 'Feature request', 'enhancement'}
+1111	{'enhancement'}
+1109	{'Feature request'}
+1108	set()
+1107	set()
+1106	set()
+1105	{'bug'}
+1104	{'Hacktoberfest', 'Documentation'}
+1103	{'Feature request'}
+1102	{'serverside', 'bug'}
+1100	{'Hacktoberfest', 'bug'}
+1099	set()
+1098	set()
+1097	set()
+1096	set()
+1093	{'serverside'}
+1092	set()
+1091	set()
+1089	set()
+1083	set()
+1081	{'enhancement'}
+1078	set()
+1074	{'Hacktoberfest'}
+1073	set()
+1070	set()
+1069	{'Documentation'}
+1066	{'Documentation'}
+/openshift/kuryr-kubernetes/
+602	{'bugzilla/severity-medium', 'approved', 'bugzilla/invalid-bug'}
+599	{'bugzilla/severity-high', 'bugzilla/invalid-bug'}
+589	{'do-not-merge/hold'}
+4	{'lifecycle/rotten', 'tide/merge-blocker'}
+/openshift/openshift-ansible/
+12359	set()
+12356	set()
+12030	{'tide/merge-blocker', 'lifecycle/frozen'}
+11697	{'lifecycle/frozen'}
+10538	{'lifecycle/frozen'}
+10283	{'lifecycle/frozen'}
+/OpenTTD/team/
+268	{'request_access'}
+212	set()
+/openyou/emokit/
+295	set()
+294	set()
+293	set()
+292	set()
+291	set()
+289	set()
+288	set()
+286	set()
+285	set()
+284	set()
+282	set()
+281	set()
+280	set()
+278	set()
+277	set()
+275	set()
+274	set()
+273	set()
+270	set()
+269	set()
+268	set()
+267	set()
+266	set()
+265	set()
+264	set()
+257	set()
+256	set()
+252	{'Bug'}
+230	{'Feature', 'Performance'}
+228	set()
+/oppia/oppia/
+14306	set()
+14305	set()
+14304	set()
+14303	{'PR CHANGELOG: Python Migration -- @brianrodri'}
+14302	{'PR CHANGELOG: Typing -- @vojtechjelinek'}
+14301	{'PR CHANGELOG: Python Migration -- @brianrodri'}
+14300	set()
+14299	{'PR CHANGELOG: Python Migration -- @brianrodri'}
+14298	set()
+14296	{'PR CHANGELOG: Data handling -- @vojtechjelinek'}
+14295	{"PR: don't merge - STALE BUILD"}
+14294	{'PR CHANGELOG: Learner/Creator Pages -- @aks681'}
+14293	set()
+14292	{'PR CHANGELOG: Learner/Creator Pages -- @aks681', "PR: don't merge - STALE BUILD"}
+14291	{'PR: for current release', "PR: don't merge - STALE BUILD", 'PR CHANGELOG: Angular Migration -- @srijanreddy98'}
+14290	set()
+14289	{'PR CHANGELOG: Learner/Creator Pages -- @aks681', 'PR: for current release'}
+14288	set()
+14287	{'PR CHANGELOG: Angular Migration -- @srijanreddy98'}
+14285	set()
+14284	{'PR CHANGELOG: Python Migration -- @brianrodri'}
+14282	set()
+14281	{"PR: don't merge - STALE BUILD", 'REVIEWERS: Please add changelog label'}
+14280	set()
+14279	{'PR CHANGELOG: Python Migration -- @brianrodri'}
+14278	{'PR CHANGELOG: Angular Migration -- @srijanreddy98'}
+14277	set()
+14276	set()
+14274	{'PR CHANGELOG: Typing -- @vojtechjelinek'}
+14271	set()
+/packit/hello-world/
+545	set()
+537	set()
+535	set()
+521	set()
+516	set()
+495	set()
+494	set()
+491	set()
+483	set()
+443	set()
+442	set()
+416	set()
+396	set()
+378	set()
+376	set()
+314	set()
+312	set()
+311	set()
+310	set()
+308	set()
+297	set()
+296	set()
+293	set()
+292	set()
+164	set()
+158	set()
+155	{'label1', 'label2'}
+154	{'label1', 'label2'}
+153	set()
+144	set()
+/PaddlePaddle/models/
+5375	set()
+5368	set()
+5366	set()
+5365	set()
+5363	set()
+5362	set()
+5361	set()
+5360	set()
+5357	set()
+5353	set()
+5351	set()
+5350	set()
+5349	set()
+5348	set()
+5346	set()
+5344	set()
+5343	set()
+5341	set()
+5339	set()
+5336	set()
+5332	set()
+5329	set()
+5327	set()
+5323	set()
+5321	set()
+5320	set()
+5318	set()
+5317	set()
+5316	set()
+5310	set()
+/PaddlePaddle/Paddle/
+37490	set()
+37489	set()
+37488	set()
+37487	set()
+37486	set()
+37485	set()
+37484	set()
+37483	set()
+37482	set()
+37481	set()
+37480	set()
+37479	set()
+37478	set()
+37476	set()
+37475	set()
+37474	set()
+37472	set()
+37471	set()
+37469	set()
+37468	set()
+37466	set()
+37463	set()
+37460	set()
+37458	set()
+37456	set()
+37452	set()
+37450	set()
+37449	set()
+37448	set()
+37444	set()
+/pandas-dev/pandas/
+44595	set()
+44594	{'Performance'}
+44593	set()
+44591	{'Testing'}
+44590	set()
+44589	{'Needs Triage', 'Enhancement'}
+44588	set()
+44587	set()
+44586	set()
+44585	set()
+44584	{'CI'}
+44582	set()
+44581	set()
+44580	{'Reduction Operations', 'Deprecate'}
+44579	{'Reduction Operations'}
+44578	set()
+44576	{'Frequency', 'Enhancement'}
+44575	{'Needs Triage', 'Bug'}
+44574	{'Frequency', 'Enhancement'}
+44569	set()
+44568	{'IO CSV', 'Enhancement'}
+44567	{'Docs'}
+44564	set()
+44562	{'ArrayManager'}
+44559	{'ArrayManager', 'Performance'}
+44554	{'IO Data', 'Enhancement', 'Arrow'}
+44551	set()
+44550	{'Testing'}
+44549	{'NA - MaskedArrays', 'Refactor'}
+44547	{'NA - MaskedArrays', 'Numeric Operations', 'Typing'}
+/PennyLaneAI/pennylane/
+1931	set()
+1929	set()
+1928	{'bug :bug:'}
+1927	set()
+1925	{'bug :bug:', 'enhancement :sparkles:', 'good first issue'}
+1921	set()
+1919	set()
+1915	set()
+1911	set()
+1906	set()
+1905	{'bug :bug:'}
+1894	set()
+1890	set()
+1887	set()
+1885	{'WIP :construction:'}
+1884	set()
+1883	set()
+1881	{'enhancement :sparkles:'}
+1880	{'enhancement :sparkles:'}
+1877	{'enhancement :sparkles:', 'good first issue'}
+1876	{'enhancement :sparkles:', 'good first issue'}
+1874	{'enhancement :sparkles:'}
+1871	set()
+1869	set()
+1867	{'qchem :atom_symbol:'}
+1866	set()
+1865	{'enhancement :sparkles:'}
+1843	{'enhancement :sparkles:'}
+1828	set()
+1820	{'enhancement :sparkles:'}
+/pints-team/pints/
+1417	set()
+1416	set()
+1415	set()
+1414	set()
+1413	set()
+1412	{'feature'}
+1411	set()
+1410	{'feature'}
+1409	set()
+1408	{'feature'}
+1407	{'code and design'}
+1406	{'code and design'}
+1405	set()
+1404	{'feature'}
+1403	{'feature'}
+1402	{'bug'}
+1401	set()
+1400	set()
+1399	{'code and design'}
+1397	set()
+1396	set()
+1393	set()
+1391	{'code and design'}
+1382	{'new method', 'feature'}
+1378	set()
+1376	set()
+1374	{'documentation', 'priority'}
+1372	{'question', 'code and design'}
+1371	{'infrastructure'}
+1364	{'infrastructure', 'code and design'}
+/pioneers/PieCentral/
+754	{'DevOps'}
+745	{'documentation', 'python', 'Runtime', 'pri:high', 'style', 'perf', 'enhancement'}
+733	set()
+729	{'frontend', 'Shepherd'}
+728	{'frontend', 'Shepherd'}
+727	{'backend', 'documentation', 'Shepherd'}
+726	{'networking', 'backend', 'Shepherd'}
+725	{'backend', 'Shepherd'}
+724	{'hardware', 'backend', 'Shepherd'}
+723	{'backend', 'Shepherd'}
+722	{'frontend', 'Shepherd'}
+720	{'networking', 'backend', 'Shepherd'}
+717	{'pri:high', 'perf', 'Dawn'}
+716	{'DevOps', 'pri:low', 'bug'}
+715	{'Runtime', 'perf'}
+714	{'Runtime', 'documentation'}
+712	{'Runtime', 'style', 'enhancement'}
+710	{'Shepherd'}
+709	{'DevOps', 'bug'}
+708	{'DevOps', 'bug'}
+707	{'DevOps', 'bug'}
+703	{'Runtime', 'DevOps', 'Dawn', 'Shepherd'}
+702	{'Dawn'}
+700	{'pri:low', 'Dawn', 'enhancement'}
+699	{'pri:high', 'Dawn', 'enhancement'}
+697	{'pri:low', 'Dawn', 'enhancement'}
+696	{'good first issue', 'pri:low', 'Dawn', 'enhancement'}
+685	{'pri:high', 'Shepherd'}
+679	{'usability', 'Dawn', 'pri:low'}
+673	{'usability', 'Hibike'}
+/PKUDeleted/Holes/
+12732	set()
+12731	set()
+12730	set()
+12729	set()
+12728	set()
+12727	set()
+12726	set()
+12725	set()
+12724	set()
+12723	set()
+12722	set()
+12721	set()
+12720	set()
+12719	set()
+12718	set()
+12717	set()
+12716	set()
+12715	set()
+12714	set()
+12713	set()
+12712	set()
+12711	set()
+12710	set()
+12709	set()
+12708	set()
+12707	set()
+12706	set()
+12705	set()
+12704	set()
+12703	set()
+/pmelchior/scarlet/
+257	set()
+256	set()
+255	set()
+254	set()
+253	set()
+252	set()
+246	{'performance'}
+243	{'feature'}
+241	{'architecture'}
+238	set()
+236	{'feature'}
+235	{'idea', 'feature'}
+225	set()
+224	{'performance'}
+223	{'feature'}
+222	set()
+214	set()
+212	{'architecture'}
+211	{'feature'}
+207	{'feature'}
+198	{'docs'}
+196	set()
+188	set()
+187	{'docs'}
+175	{'note', 'feature'}
+174	set()
+169	set()
+152	set()
+151	{'feature'}
+150	{'docs'}
+/poblabs/weewx-belchertown/
+731	set()
+729	{'bug'}
+727	{'bug'}
+726	{'bug'}
+723	{'bug'}
+721	{'bug'}
+719	{'bug'}
+711	{'enhancement'}
+705	{'stale', 'bug'}
+703	{'enhancement'}
+685	{'bug'}
+481	{'Pull Request Needed', 'help wanted', 'enhancement'}
+/postlund/pyatv/
+1474	{'bug'}
+1473	{'dependencies'}
+1472	{'dependencies'}
+1471	{'raop', '3rd party', 'bug'}
+1470	{'dependencies'}
+1469	{'feature'}
+1468	{'mrp', 'bug'}
+1467	{'dependencies'}
+1466	{'companion', 'bug'}
+1464	{'dependencies'}
+1462	{'dependencies'}
+1461	{'companion', 'bug'}
+1458	{'bug'}
+1457	{'scanning', '3rd party', 'bug'}
+1455	{'question', '3rd party'}
+1454	{'bug'}
+1453	{'bug'}
+1452	{'bug'}
+1451	{'question'}
+1446	{'bug'}
+1438	{'airplay', 'question', 'bug'}
+1435	{'question', '3rd party'}
+1431	{'3rd party', 'bug'}
+1423	{'test', 'airplay', 'feature'}
+1421	{'dmap', 'bug'}
+1420	{'feature'}
+1419	{'dmap', 'bug'}
+1418	{'bug'}
+1415	{'core', 'enhancement'}
+1412	{'3rd party', 'bug'}
+/pr-omethe-us/PyKED/
+131	set()
+130	{'documentation'}
+128	set()
+127	{'discussion'}
+126	set()
+125	set()
+122	set()
+121	set()
+120	set()
+119	set()
+118	set()
+116	set()
+115	set()
+114	set()
+106	set()
+105	set()
+103	{'discussion'}
+94	set()
+89	set()
+82	set()
+78	set()
+69	set()
+67	set()
+63	set()
+60	set()
+58	{'question', 'enhancement'}
+55	{'question', 'enhancement'}
+39	{'enhancement'}
+23	{'enhancement'}
+22	{'enhancement'}
+/pvlib/pvlib-python/
+1338	{'bug'}
+1333	set()
+1332	{'good first issue', 'documentation', 'help wanted'}
+1329	set()
+1323	{'documentation', 'enhancement'}
+1322	{'good first issue', 'easy', 'documentation', 'help wanted'}
+1316	set()
+1313	set()
+1309	set()
+1306	{'testing'}
+1302	{'installation', 'bug'}
+1300	{'documentation'}
+1296	set()
+1295	set()
+1293	{'io'}
+1290	{'io', 'help wanted', 'good first issue', 'enhancement'}
+1284	{'documentation'}
+1278	set()
+1275	{'help wanted', 'good first issue', 'bug'}
+1274	{'io', 'enhancement'}
+1269	{'easy', 'help wanted', 'enhancement'}
+1264	{'io', 'enhancement'}
+1263	{'documentation'}
+1260	{'documentation'}
+1253	{'documentation'}
+1251	{'enhancement'}
+1249	set()
+1246	{'help wanted', 'good first issue', 'enhancement'}
+1236	set()
+1235	set()
+/pydata/xarray/
+6019	set()
+6016	{'CI'}
+6015	set()
+6013	set()
+6007	set()
+6003	set()
+6000	set()
+5996	set()
+5995	set()
+5994	set()
+5992	set()
+5985	{'API design', 'good first issue'}
+5984	set()
+5983	set()
+5981	set()
+5976	set()
+5975	set()
+5972	set()
+5970	{'topic-arrays', 'enhancement'}
+5969	{'topic-zarr', 'bug'}
+5962	{'topic-testing'}
+5961	{'topic-internals'}
+5954	{'API design', 'topic-backends'}
+5953	{'topic-indexing', 'bug'}
+5950	{'needs review'}
+5945	set()
+5940	{'Automation'}
+5939	{'usage question'}
+5938	{'enhancement'}
+5937	set()
+/PyFilesystem/pyfilesystem/
+281	set()
+280	set()
+278	set()
+274	set()
+271	set()
+270	set()
+269	set()
+268	set()
+263	{'bug'}
+262	set()
+256	set()
+253	set()
+252	set()
+251	set()
+249	set()
+244	set()
+243	set()
+240	set()
+238	set()
+237	{'enhancement'}
+232	set()
+225	set()
+223	{'enhancement'}
+220	{'bug'}
+216	set()
+214	set()
+213	set()
+208	set()
+207	set()
+206	set()
+/pyinstaller/pyinstaller/
+6381	{'state:need info'}
+6379	{'area:tests/ci/pyup'}
+6373	{'feature'}
+6371	{'triage'}
+6362	{'triage', 'feature'}
+6354	{'bug'}
+6334	set()
+6327	{'bug'}
+6320	{'Version 5', 'feature'}
+6308	{'area:documentation'}
+6301	{'area:cpython', 'bug'}
+6296	{'feature'}
+6294	{'bug'}
+6290	{'feature'}
+6284	{'bug'}
+6271	set()
+6257	{'triage'}
+6198	set()
+6153	{'area:documentation'}
+6094	{'Version 5', 'feature'}
+6088	{'triage', 'feature'}
+6051	{'bug'}
+5996	set()
+5991	set()
+5841	set()
+5812	{'feature'}
+5808	set()
+5710	{'bug'}
+5666	{'feature'}
+5632	{'area:documentation'}
+/pyload/pyload/
+4038	{'pyLoad Next', 'bug'}
+4037	{'pyLoad Next', 'bug'}
+4036	{'pyLoad Stable', 'plugin bug', 'account wanted'}
+4034	{'feature request', 'pyLoad Next'}
+4030	set()
+4027	{'pyLoad Next', 'bug'}
+4026	{'question'}
+4025	{'pyLoad Stable', 'bug'}
+4022	{'pyLoad Stable', 'plugin bug'}
+4021	{'question'}
+4013	{'pyLoad Next', 'bug'}
+3998	{'feature request', 'pyLoad Next'}
+3997	{'feature request', 'pyLoad Next'}
+3993	{'question'}
+3991	{'pyLoad Next', 'question'}
+3967	{'pyLoad Next', 'bug'}
+3966	{'pyLoad Stable', 'outdated', 'bug'}
+3961	{'account wanted', 'pyLoad Stable', 'bug'}
+3955	{'pyLoad Next', 'bug'}
+3933	{'pyLoad Stable', 'feedback wanted', 'bug'}
+3928	{'outdated'}
+3927	{'pyLoad Stable', 'outdated', 'bug'}
+3923	{'pyLoad Next', 'bug'}
+3922	{'pyLoad Next', 'bug'}
+3921	{'pyLoad Stable', 'plugin bug'}
+3907	{'pyLoad Stable', 'bug'}
+3900	{'pyLoad Next', 'bug'}
+3899	{'feature request', 'pyLoad Next'}
+3860	{'pyLoad Next', 'bug'}
+3859	{'pyLoad Stable', 'outdated', 'bug'}
+/pypa/cibuildwheel/
+934	set()
+933	set()
+930	set()
+929	set()
+926	set()
+920	set()
+909	set()
+908	set()
+906	set()
+904	set()
+901	set()
+897	set()
+882	set()
+879	set()
+873	set()
+871	set()
+840	set()
+804	set()
+766	set()
+761	{'discussion'}
+735	set()
+734	set()
+732	set()
+730	set()
+715	set()
+708	set()
+705	set()
+696	set()
+676	set()
+672	set()
+/pypeit/PypeIt/
+1297	set()
+1293	set()
+1291	set()
+1288	set()
+1287	set()
+1286	set()
+1276	set()
+1275	set()
+1273	set()
+1269	set()
+1263	set()
+1262	set()
+1261	set()
+1257	set()
+1251	{'enhancement'}
+1250	set()
+1241	{'enhancement'}
+1238	set()
+1232	set()
+1228	set()
+1224	set()
+1207	set()
+1206	set()
+1188	set()
+1186	set()
+1183	set()
+1178	set()
+1171	set()
+1170	set()
+1167	set()
+/PySimpleGUI/PySimpleGUI/
+4976	set()
+4975	set()
+4972	{'Demo Programs', 'enhancement'}
+4959	{'Bug'}
+4957	set()
+4956	{'Web', 'Bug'}
+4946	set()
+4935	{'enhancement'}
+4880	{'documentation'}
+4877	{'Web', 'Bug'}
+4843	{'Demo Programs', 'documentation', 'enhancement'}
+4796	{'workaround available', 'Bug', 'Qt'}
+4786	{'Bug'}
+4752	{'workaround available', 'enhancement'}
+4725	{'Bug'}
+4721	{'Demo Programs'}
+4714	{'Bug'}
+4705	{'Bug'}
+4673	set()
+4641	{'question', 'Qt'}
+4636	{'Done - Download from GitHub', 'Bug'}
+4634	set()
+4627	{'documentation', 'In progress'}
+4622	{'Qt'}
+4614	{'question', 'Bug', 'Wx'}
+4607	set()
+4598	{'Demo Programs', 'documentation'}
+4586	set()
+4585	{'Bug'}
+4566	set()
+/python-discord/bot/
+1976	set()
+1975	set()
+1964	{'a: frontend', 't: feature', 'p: 1 - high', 'status: approved', 'a: utility'}
+1963	{'p: 2 - normal', 'a: utility', 't: bug', 'good first issue'}
+1961	{'a: moderation', 't: feature', 'p: 1 - high'}
+1960	{'t: enhancement', 'a: help channels', 's: planning'}
+1957	{'a: tags', 's: planning'}
+1952	{'t: enhancement', 'p: 3 - low', 'review: do not merge', 'a: tags'}
+1951	{'p: 3 - low', 'a: API', 's: needs review', 'review: do not merge', 'a: backend', 'a: moderation', 't: enhancement'}
+1948	set()
+1943	{'p: 3 - low', 's: needs review', 'review: do not merge', 'a: backend', 'a: tags'}
+1941	{'s: needs review', 'a: backend', 'p: 2 - normal', 'a: help channels', 't: enhancement'}
+1940	{'s: needs review', 'a: backend', 'p: 2 - normal', 'a: help channels', 't: enhancement'}
+1939	{'p: 3 - low', 's: needs review', 'a: frontend', 't: feature', 'a: information'}
+1938	set()
+1936	{'s: needs review', 'a: backend', 'p: 2 - normal', 'a: help channels', 't: enhancement'}
+1933	{'a: moderation', 't: feature', 'status: approved', 'p: 1 - high'}
+1931	{'t: bug', 'a: help channels'}
+1930	{'p: 3 - low', 'a: backend', 'a: fun', 't: bug', 'status: approved'}
+1929	{'t: enhancement', 'p: 3 - low', 's: needs review', 'a: backend'}
+1928	{'a: recruitment', 's: needs review', 'a: backend', 't: feature', 'p: 2 - normal'}
+1925	set()
+1924	{'p: 3 - low', 'a: backend', 's: planning', 't: enhancement', 'a: utility'}
+1919	{'a: utility', 't: bug', 'a: backend', 'p: 1 - high'}
+1917	{'a: backend', 't: feature', 's: waiting for author', 'a: information', 'p: 2 - normal'}
+1916	{'a: backend', 'p: 1 - high', 't: bug', 'status: approved', 'a: utility'}
+1911	set()
+1903	{'a: backend', 'p: 2 - normal', 'a: help channels', 'status: approved', 't: enhancement'}
+1898	set()
+1892	{'a: filters', 'p: 2 - normal', 's: needs review', 'a: moderation'}
+/pywbem/pywbem/
+2737	{'waiting'}
+2697	{'roll back/forward done', 'type: bug', 'area: docs', 'resolution: workaround', 'resolution: elsewhere'}
+2696	{'type: enhancement', 'area: code'}
+2688	{'release definition'}
+2687	{'type: enhancement', 'area: code'}
+2675	{'resolution: elsewhere'}
+2674	{'resolution: elsewhere'}
+2673	{'resolution: elsewhere'}
+2672	{'resolution: elsewhere'}
+2669	{'type: enhancement', 'area: docs'}
+2668	{'type: enhancement', 'area: docs'}
+2667	{'type: cleanup', 'area: code'}
+2662	{'type: enhancement', 'area: code'}
+2605	{'type: enhancement', 'area: code'}
+2434	{'type: enhancement', 'under work', 'area: setup'}
+2409	{'type: enhancement', 'area: code'}
+2340	{'type: enhancement', 'type: standards compliance', 'area: code'}
+2305	{'type: enhancement', 'area: code'}
+2217	{'type: enhancement', 'area: code'}
+2197	{'type: enhancement', 'area: docs'}
+2181	{'type: enhancement', 'area: test'}
+2180	{'type: enhancement', 'area: test'}
+2178	{'type: enhancement', 'area: test'}
+2122	{'type: cleanup', 'area: code'}
+2121	{'type: cleanup', 'area: code'}
+2109	{'type: enhancement', 'area: code'}
+2053	{'type: standards compliance', 'area: code'}
+2038	{'type: enhancement', 'area: test'}
+2036	{'type: enhancement', 'area: code'}
+1801	{'type: enhancement', 'area: code'}
+/qiita-spots/qiita/
+3166	set()
+3165	set()
+3164	set()
+3160	set()
+3158	set()
+3151	set()
+3150	set()
+3149	set()
+3119	set()
+3112	set()
+3105	set()
+3091	set()
+3088	{'Discussion'}
+3087	{'Discussion'}
+3071	set()
+3059	set()
+3058	set()
+3037	set()
+3011	set()
+3002	set()
+3001	set()
+2964	set()
+2950	set()
+2947	{'group input', 'enhancement'}
+2939	set()
+2935	set()
+2914	set()
+2903	set()
+2895	set()
+2893	set()
+/Qiskit/qiskit-aqua/
+1637	{'priority: high', 'type: ci'}
+1461	set()
+1457	set()
+1434	set()
+1433	set()
+1401	set()
+1186	set()
+890	set()
+828	{'type: enhancement'}
+701	set()
+677	set()
+/QubesOS/qubes-core-qrexec/
+82	set()
+81	set()
+79	set()
+77	set()
+71	set()
+/RaRe-Technologies/gensim/
+3269	{'difficulty easy', 'bug'}
+3264	set()
+3263	set()
+3262	set()
+3261	set()
+3260	set()
+3258	set()
+3257	set()
+3256	set()
+3247	{'hacktoberfest-accepted'}
+3246	set()
+3244	set()
+3242	set()
+3234	{'documentation', 'housekeeping'}
+3231	set()
+3228	set()
+3225	set()
+3224	{'reach MEDIUM', 'impact HIGH', 'bug'}
+3223	set()
+3222	set()
+3221	{'housekeeping'}
+3220	set()
+3218	set()
+3213	{'documentation'}
+3206	set()
+3202	set()
+3201	{'documentation', 'bug'}
+3197	set()
+3196	set()
+3195	set()
+/RasaHQ/rasa/
+10366	set()
+10365	{'type:dependencies'}
+10364	{'type:dependencies'}
+10363	set()
+10358	{'area:rasa-oss/performance', 'research:tensorflow-related', 'area:rasa-oss :ferris_wheel:', 'type:enhancement :sparkles:'}
+10354	{'3.0.0rc-QA-issue', 'type:enhancement :sparkles:'}
+10353	{'3.0.0rc-QA-issue', 'type:enhancement :sparkles:', 'type:docs :book:'}
+10342	{'area:rasa-oss :ferris_wheel:', 'type:enhancement :sparkles:', 'type:docs :book:'}
+10297	{'area:rasa-oss :ferris_wheel:', 'type:bug :bug:'}
+10295	set()
+10294	{'area:rasa-oss :ferris_wheel:', 'type:enhancement :sparkles:'}
+10293	{'priority:normal', '3.0.0rc-QA-issue', 'feature:rasa-3.0/architecture'}
+10292	{'area:rasa-oss :ferris_wheel:', 'type:bug :bug:'}
+10291	{'priority:normal', 'area:rasa-oss/forms', 'area:rasa-oss :ferris_wheel:', 'feature:3.0/slot-mappings', '3.0.0rc-QA-issue', 'type:docs :book:'}
+10287	set()
+10286	{'area:rasa-oss :ferris_wheel:', 'type:enhancement :sparkles:'}
+10281	{'feature:3.0/slot-mappings', '3.0.0rc-QA-issue', 'area:rasa-oss/forms'}
+10280	{'type:dependencies'}
+10279	{'type:dependencies'}
+10278	{'type:dependencies'}
+10277	{'type:dependencies'}
+10276	{'area:rasa-oss/success-markers', 'priority:high'}
+10275	{'type:release-branch-port', 'status:ready-to-merge'}
+10271	set()
+10270	{'priority:normal', 'area:rasa-oss :ferris_wheel:', 'type:bug :bug:', 'feature:3.0/slot-mappings', '3.0.0rc-QA-issue'}
+10267	{'area:rasa-oss/forms', 'area:rasa-oss :ferris_wheel:'}
+10264	{'3.0.0rc-QA-issue', 'area:rasa-oss/tracker-stores', 'area:rasa-oss :ferris_wheel:', 'type:bug :bug:'}
+10263	set()
+10260	{'feature:3.0/slot-mappings', '3.0.0rc-QA-issue', 'area:rasa-oss/forms'}
+10257	{'area:rasa-oss :ferris_wheel:', 'type:bug :bug:'}
+/ray-project/ray/
+20688	set()
+20687	set()
+20686	{'tune', 'P0', 'bug'}
+20685	{'tune', 'P0', 'bug'}
+20684	{'release-blocker', 'triage', 'P0', 'bug'}
+20683	set()
+20682	{'triage', 'bug'}
+20681	{'triage', 'bug'}
+20679	set()
+20677	set()
+20675	{'serve'}
+20674	set()
+20673	set()
+20672	{'triage', 'bug'}
+20671	set()
+20669	set()
+20667	{'enhancement'}
+20666	set()
+20665	{'triage', 'bug'}
+20664	set()
+20663	set()
+20660	set()
+20659	{'triage', 'serve', 'bug'}
+20658	{'train'}
+20657	set()
+20656	set()
+20650	{'triage', 'serve', 'bug'}
+20649	set()
+20648	{'train'}
+20647	{'train'}
+/ReactionMechanismGenerator/ARC/
+479	{'Type: Bug'}
+478	{'Module: Plotter'}
+477	{'Type: Bug'}
+476	{'Module: Conformers'}
+475	{'Type: Risk of Error'}
+462	set()
+461	{'Good first issue', 'Type: Feature'}
+460	{'Type: Feature'}
+459	{'Type: Feature'}
+457	{'Type: Feature'}
+443	set()
+439	{'Type: Bug'}
+436	set()
+435	{'Type: Bug'}
+433	{'Type: Bug'}
+431	set()
+428	{'Type: Bug'}
+413	{'Priority: Critical', 'Type: Bug', 'Topic: Arkane', 'Topic: Thermo'}
+405	set()
+400	{'Type: Question', 'Topic: Rotors'}
+395	{'Type: Bug', 'Topic: Arkane'}
+394	{'Type: Bug', 'Type: Feature'}
+393	{'Module: Processor', 'Type: Feature', 'Module: Main'}
+391	{'Type: Question'}
+390	{'Type: Risk of Error', 'Module: Job', 'Module: SSH', 'Topic: Server'}
+381	{'Type: Bug'}
+371	{'Type: Feature'}
+363	{'Type: Feature'}
+358	{'Topic: Restart', 'Type: Bug'}
+356	{'Module: Conformers', 'Good first issue', 'Type: Feature'}
+/rembo10/headphones/
+3280	set()
+3279	set()
+3278	set()
+3275	set()
+3274	set()
+3271	set()
+3267	set()
+3266	set()
+3263	set()
+3262	set()
+3260	set()
+3259	set()
+3254	set()
+3253	set()
+3252	set()
+3251	set()
+3250	set()
+3249	set()
+3248	set()
+3247	set()
+3246	set()
+3245	set()
+3244	set()
+3243	set()
+3242	set()
+3241	set()
+3240	set()
+3239	set()
+3238	set()
+3237	{'Develop Branch'}
+/rhinstaller/python-simpleline/
+97	{'enhancement'}
+83	{'enhancement'}
+/rigetti/pyquil/
+1409	set()
+1407	{'bug :bug:'}
+1405	{'bug :bug:'}
+1403	{'enhancement :sparkles:'}
+1402	{'bug :bug:'}
+1399	{'enhancement :sparkles:'}
+1397	set()
+1396	{'bug :bug:'}
+1394	{'bug :bug:', 'released on @rc'}
+1393	{'bug :bug:'}
+1392	{'bug :bug:'}
+1390	{'bug :bug:'}
+1386	{'bug :bug:'}
+1383	{'enhancement :sparkles:', 'released on @rc'}
+1381	{'enhancement :sparkles:'}
+1380	{'bug :bug:'}
+1379	{'enhancement :sparkles:'}
+1378	{'enhancement :sparkles:'}
+1377	{'enhancement :sparkles:'}
+1376	{'bug :bug:'}
+1375	{'enhancement :sparkles:'}
+1374	{'bug :bug:'}
+1373	{'bug :bug:'}
+1372	{'bug :bug:'}
+1371	set()
+1370	{'enhancement :sparkles:'}
+1368	set()
+1363	{'bug :bug:'}
+1346	{'bug :bug:'}
+1343	{'enhancement :sparkles:'}
+/rlworkgroup/garage/
+2310	set()
+2309	set()
+2307	{'packaging', 'bug'}
+2303	{'pytorch', 'algos', 'bug'}
+2302	set()
+2300	set()
+2299	set()
+2298	set()
+2297	set()
+2293	set()
+2290	set()
+2287	set()
+2286	set()
+2285	set()
+2283	set()
+2282	set()
+2279	set()
+2277	set()
+2276	set()
+2275	set()
+2270	set()
+2269	set()
+2262	set()
+2261	set()
+2257	{'ready-to-merge'}
+2249	{'ready-to-merge'}
+2248	set()
+2246	set()
+2245	set()
+2243	set()
+/RocketMap/RocketMap/
+2552	set()
+2551	set()
+2549	{'to be checked'}
+2548	{'pending changes', 'minor', 'enhancement'}
+2547	{'bug', 'minor', 'pending changes'}
+2545	{'front-end', 'new feature', 'awaiting review'}
+2542	{'help wanted', 'confirmed'}
+2538	{'awaiting review', 'enhancement'}
+2532	{'to be checked'}
+2530	{'help wanted', 'confirmed'}
+2524	{'to be discussed'}
+2515	{'help wanted', 'confirmed'}
+2514	{'to be discussed'}
+2500	{'db migration', 'pending changes', 'breaking change', 'enhancement'}
+2499	{'to be checked'}
+2498	{'new feature', 'awaiting review'}
+2496	{'on hold', 'front-end', 'enhancement'}
+2495	{'to be discussed'}
+2489	{'front-end', 'bug', 'awaiting review'}
+2487	{'front-end', 'awaiting review', 'minor', 'enhancement'}
+2483	{'to be checked'}
+2476	{'front-end', 'help wanted', 'pending changes'}
+2475	{'front-end', 'help wanted', 'pending changes'}
+2470	{'confirmed', 'has pr', 'bug'}
+2469	{'help wanted', 'confirmed', 'enhancement'}
+2468	{'help wanted', 'confirmed'}
+2458	{'help wanted', 'confirmed', 'bug'}
+2448	{'help wanted', 'confirmed', 'bug'}
+2447	{'help wanted', 'confirmed', 'bug'}
+2424	{'db migration', 'breaking change', 'new feature', 'awaiting review'}
+/rpm-software-management/dnf/
+1795	set()
+1794	set()
+1778	set()
+1769	set()
+1751	set()
+1733	set()
+1707	set()
+1688	{'ready for review'}
+1618	set()
+1582	set()
+1533	{'blocked'}
+1467	{'blocked'}
+1441	{'blocked'}
+1426	{'work in progress'}
+1414	{'blocked'}
+1380	set()
+1313	set()
+1100	{'work in progress'}
+/Sagebrew/com.sagebrew.web/
+1132	set()
+358	set()
+/Samsung/ONE/
+8048	set()
+8047	set()
+8045	{'PR/NO MERGE', 'PR/NO TEST'}
+8044	set()
+8043	{'PR/NO MERGE'}
+8042	set()
+8041	set()
+8040	set()
+8039	set()
+8038	set()
+8037	set()
+8036	set()
+8035	set()
+8034	set()
+8033	set()
+8032	set()
+8031	set()
+8030	set()
+8015	set()
+8009	{'type/announcement'}
+8005	set()
+8001	{'type/announcement'}
+7987	{'PR/ready for review'}
+7962	{'type/issue'}
+7942	set()
+7939	set()
+7909	set()
+7907	set()
+7906	set()
+7904	set()
+/sauron-demo/sauron-demo/
+29431	set()
+29420	set()
+29402	set()
+29401	set()
+29394	set()
+29390	set()
+29386	set()
+29376	{'SAURON-BOT: Merge It!'}
+29373	set()
+29369	{'SAURON-BOT: Merge It!'}
+29355	set()
+29347	set()
+29346	set()
+29331	set()
+29303	set()
+29300	set()
+29297	set()
+29289	set()
+29268	set()
+29263	{'QA Required', 'UI QA Required'}
+29257	set()
+29249	set()
+29214	set()
+29207	set()
+29202	set()
+29178	set()
+29163	set()
+29160	set()
+29128	set()
+29117	set()
+/scikit-image/scikit-image/
+6058	{'type: documentation'}
+6057	{'type: maintenance'}
+6056	{'type: maintenance'}
+6054	set()
+6053	{'type: enhancement'}
+6048	{'type: infrastructure'}
+6046	{'type: enhancement'}
+6045	{'type: maintenance'}
+6036	{'type: enhancement'}
+6033	set()
+6028	{'type: perfomance'}
+6024	{'type: bug'}
+6023	set()
+6018	{'type: documentation', 'type: bug'}
+6016	set()
+6015	{'type: documentation'}
+6011	{'type: documentation'}
+6009	{'type: infrastructure'}
+6005	{'type: enhancement'}
+5995	{'type: maintenance'}
+5994	{'type: maintenance'}
+5980	{'type: bug fix', 'type: enhancement'}
+5952	{'type: maintenance', 'good first issue'}
+5599	{'type: bug'}
+5598	{'action: needs info', 'type: support'}
+5587	{'type: bug fix'}
+5586	{'type: documentation'}
+5581	{'type: enhancement'}
+5573	set()
+5571	set()
+/scikit-learn/scikit-learn/
+21772	set()
+21771	set()
+21768	set()
+21767	{'module:linear_model'}
+21765	{'help wanted', 'Enhancement'}
+21764	{'module:neighbors', 'module:mixture', 'module:preprocessing'}
+21763	{'module:decomposition'}
+21762	{'module:ensemble'}
+21760	{'module:datasets', 'Documentation'}
+21757	{'module:metrics', 'Documentation'}
+21755	set()
+21754	{'module:preprocessing'}
+21752	set()
+21749	{'Bug: triage'}
+21748	set()
+21746	{'module:decomposition'}
+21743	{'Bug'}
+21742	set()
+21738	set()
+21737	set()
+21736	set()
+21735	{'module:cluster'}
+21734	{'New Feature'}
+21731	set()
+21730	set()
+21729	{'Performance'}
+21728	set()
+21726	set()
+21725	set()
+21724	{'cython', 'module:linear_model'}
+/scipy-conference/scipy_proceedings/
+668	set()
+667	set()
+648	set()
+572	{'docs'}
+546	set()
+524	set()
+523	{'bug'}
+511	set()
+483	{'docs'}
+429	set()
+428	{'bug'}
+419	set()
+414	set()
+412	set()
+361	set()
+355	set()
+350	{'bug'}
+349	{'bug'}
+347	{'bug'}
+341	set()
+340	set()
+339	set()
+338	set()
+322	set()
+321	set()
+315	{'bug'}
+313	{'bug'}
+312	{'docs'}
+311	{'docs'}
+310	{'docs'}
+/scipy/scipy/
+15090	{'scipy.integrate', 'maintenance'}
+15089	set()
+15088	{'maintenance'}
+15087	{'defect'}
+15085	{'scipy.signal', 'enhancement'}
+15083	{'scipy.stats', 'maintenance'}
+15082	{'scipy.stats', 'Documentation'}
+15079	{'maintenance', 'scipy.linalg', 'enhancement'}
+15077	{'defect'}
+15073	{'maintenance', 'scipy.spatial'}
+15072	{'defect'}
+15071	{'defect'}
+15069	{'scipy.sparse', 'needs-decision'}
+15065	{'enhancement'}
+15060	{'scipy.signal', 'enhancement'}
+15059	{'defect'}
+15058	{'defect'}
+15055	set()
+15050	{'Official binaries', 'defect'}
+15049	{'defect'}
+15047	{'query'}
+15046	{'scipy.optimize', 'enhancement'}
+15045	{'Documentation'}
+15044	{'defect'}
+15042	{'enhancement'}
+15039	{'scipy.sparse', 'defect'}
+15036	{'defect'}
+15026	{'scipy.optimize', 'enhancement'}
+15021	{'scipy.linalg'}
+15017	{'defect'}
+/scrapinghub/dateparser/
+1021	{'Type: Bug'}
+1020	set()
+1019	set()
+1016	{'Type: Documentation', 'Type: Enhancement'}
+1015	{'Type: Bug - Language'}
+1014	{'language', 'Type: Enhancement'}
+1013	{'cleanup'}
+1012	set()
+1011	{'Type: Bug', 'search_dates'}
+1010	{'Type: Bug'}
+1009	set()
+1008	set()
+1007	{'Type: Bug - Language'}
+1006	set()
+1005	set()
+1004	{'upstream'}
+1003	set()
+1002	set()
+1001	{'Type: Bug'}
+1000	{'Type: Bug', 'search_dates'}
+998	set()
+996	set()
+993	{'Type: Bug', 'Status: Bug confirmed', 'search_dates'}
+990	{'Type: Documentation', 'Type: Enhancement'}
+987	set()
+986	set()
+985	{'Type: Enhancement'}
+983	{'discussion'}
+979	{'language', 'Type: Enhancement'}
+978	{'Type: Bug', 'good first issue'}
+/search?l=&amp;q=language%3APython+state%3Aclosed&amp;type=
+/serhii73/oppia/
+446	{':arrow_heading_down: pull'}
+150	set()
+/Sheile/example-turtlebot3/
+/shotgunsoftware/python-api/
+254	set()
+253	set()
+252	set()
+247	set()
+246	set()
+241	set()
+240	set()
+239	set()
+238	set()
+234	set()
+233	set()
+226	{'Logged'}
+222	set()
+218	set()
+217	set()
+199	set()
+198	{'Logged'}
+197	{'Logged'}
+195	set()
+192	set()
+191	set()
+185	set()
+184	set()
+183	set()
+175	set()
+164	set()
+162	set()
+160	set()
+155	set()
+154	set()
+/shotgunsoftware/tk-core/
+816	set()
+815	set()
+813	set()
+812	set()
+807	set()
+804	set()
+803	set()
+797	set()
+791	set()
+783	set()
+770	set()
+768	set()
+765	set()
+758	{'Logged'}
+721	{'Logged'}
+706	set()
+699	set()
+698	set()
+697	set()
+687	set()
+682	set()
+671	set()
+659	set()
+657	{'DO NOT MERGE'}
+633	set()
+592	set()
+492	set()
+488	set()
+350	set()
+317	set()
+/shotgunsoftware/tk-desktop2/
+/SickChill/SickChill/
+7706	{'javascript', 'dependencies'}
+7705	{'javascript', 'dependencies'}
+7703	{'javascript', 'dependencies'}
+7702	{'dependencies', 'python'}
+7701	{'dependencies', 'python'}
+7700	set()
+7694	{'Synology'}
+7686	set()
+7672	{'Synology'}
+7606	set()
+7390	set()
+7118	{'Bug / Issue'}
+/signetlabdei/ns3-802.11ad/
+33	{'bug'}
+13	{'warning'}
+12	{'warning'}
+9	{'help wanted'}
+8	{'warning'}
+7	{'warning', 'wontfix'}
+6	set()
+5	{'warning'}
+3	{'warning'}
+2	{'bug'}
+/smileyhatzz/sd-xbmc/
+312	{'Priority-Medium', 'Type-Review', 'auto-migrated'}
+305	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+256	{'Type-Enhancement', 'Priority-Medium', 'auto-migrated'}
+250	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+206	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+198	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+192	{'Type-Enhancement', 'Priority-Low', 'auto-migrated'}
+189	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+185	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+184	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+136	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+92	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+91	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+68	{'Priority-Medium', 'Type-Defect', 'auto-migrated'}
+/spack/spack/
+27624	{'new-variant', 'conflicts', 'dependencies', 'update-package'}
+27623	{'dependencies', 'new-version', 'update-package'}
+27622	{'triage', 'bug'}
+27621	{'dependencies', 'new-version', 'update-package', 'patch'}
+27620	set()
+27619	{'maintainers', 'update-package', 'new-version'}
+27618	{'tests'}
+27617	{'feature'}
+27614	{'update-package', 'new-version'}
+27613	{'update-package', 'new-version'}
+27611	{'triage', 'bug'}
+27610	{'tests', 'workflow'}
+27608	{'update-package', 'new-version'}
+27607	{'update-package', 'new-version', 'patch'}
+27605	{'new-package', 'maintainers', 'dependencies', 'new-version'}
+27604	{'update-package', 'new-version', 'workflow', 'patch'}
+27603	{'new-package', 'maintainers', 'dependencies', 'new-version'}
+27602	set()
+27601	{'build-error'}
+27599	{'new-package', 'dependencies', 'new-version', 'python'}
+27598	{'documentation'}
+27597	{'stand-alone-tests', 'update-package', 'ecp', 'e4s'}
+27596	{'update-package', 'new-version', 'python'}
+27594	{'new-version'}
+27593	{'new-package', 'dependencies', 'new-version', 'python'}
+27592	{'new-package', 'dependencies', 'new-variant', 'maintainers', 'new-version'}
+27590	{'new-variant', 'update-package'}
+27589	set()
+27588	set()
+27587	{'build-error'}
+/Spine-project/Spine-Toolbox/
+1610	{'Feature', 'Engine'}
+1609	{'bug'}
+1608	{'Project items', 'Feature'}
+1606	{'Spine database editor', 'Feature'}
+1605	set()
+1604	{'Engine', 'enhancement'}
+1603	{'Spine database editor', 'bug'}
+1602	{'Spine database editor', 'Data import/export'}
+1600	{'Project items', 'bug'}
+1599	{'Spine database editor', 'Feature'}
+1598	{'Spine database editor', 'Feature'}
+1597	{'Engine', 'bug'}
+1596	{'Spine database editor', 'Feature', 'GraphView'}
+1595	set()
+1593	set()
+1589	{'Project items', 'bug'}
+1586	{'Consoles'}
+1585	{'Feature', 'GraphView'}
+1584	set()
+1582	{'Discussion', 'Feature'}
+1581	{'Headless mode', 'Feature'}
+1579	set()
+1578	set()
+1576	{'Spine database editor', 'bug'}
+1572	set()
+1569	{'Spine database editor', 'Feature'}
+1565	set()
+1564	{'Spine database editor', 'Feature'}
+1563	set()
+1561	set()
+/spyder-ide/spyder/
+16887	{'status:Awaiting Followup'}
+16886	{'status:Awaiting Followup'}
+16885	{'status:Awaiting Followup'}
+16884	{'status:Awaiting Followup'}
+16881	{'status:Awaiting Followup'}
+16876	{'status:Awaiting Followup'}
+16871	{'status:Awaiting Followup'}
+16870	{'status:Awaiting Followup'}
+16865	{'component:Editor', 'type:Enhancement'}
+16864	set()
+16862	{'status:Awaiting Followup'}
+16860	{'status:Awaiting Followup'}
+16857	set()
+16854	{'component:Variable Explorer', 'component:IPython Console', 'type:Bug'}
+16853	{'component:Code Completion', 'status:Awaiting Followup', 'type:Question'}
+16852	{'status:Reproduced', 'component:File Explorer', 'type:Bug'}
+16851	{'status:Awaiting Followup'}
+16848	{'type:Enhancement'}
+16844	{'status:Awaiting Followup'}
+16842	{'status:Awaiting Followup'}
+16841	{'status:Awaiting Followup'}
+16840	{'status:Awaiting Followup'}
+16838	{'status:Awaiting Followup'}
+16837	{'status:Awaiting Followup'}
+16835	{'component:Editor', 'type:Enhancement', 'component:Find and Replace'}
+16834	{'component:Projects', 'type:Bug'}
+16832	{'status:Awaiting Followup'}
+16830	{'status:Awaiting Followup'}
+16827	{'status:Awaiting Followup'}
+16826	{'component:Main Window', 'type:Bug'}
+/Stanford-Online/edx-platform/
+39	{'CAT-3'}
+/statsmodels/statsmodels/
+7900	{'comp-othermod', 'type-enh', 'comp-discrete', 'comp-base', 'topic-predict'}
+7899	{'type-enh', 'comp-discrete', 'comp-genmod', 'comp-base', 'topic-predict'}
+7897	{'type-enh', 'comp-othermod', 'topic-diagnostic', 'comp-discrete'}
+7896	set()
+7894	{'type-enh', 'FAQ', 'comp-discrete', 'comp-stats'}
+7893	set()
+7892	{'type-enh', 'topic-diagnostic', 'comp-discrete'}
+7891	{'type-enh', 'topic-diagnostic', 'comp-discrete', 'comp-stats'}
+7888	{'type-enh', 'topic-diagnostic', 'topic-predict', 'comp-discrete'}
+7887	set()
+7884	set()
+7883	set()
+7873	{'comp-othermod', 'type-enh', 'comp-discrete', 'comp-genmod', 'topic-predict'}
+7869	{'type-enh', 'topic-penalization', 'comp-base', 'comp-discrete'}
+7867	{'type-enh', 'type-bug', 'topic-penalization', 'comp-discrete'}
+7866	set()
+7864	{'comp-genmod', 'type-refactor'}
+7863	{'type-enh', 'comp-regression', 'type-refactor'}
+7862	{'type-enh', 'comp-robust', 'comp-genmod', 'topic-diagnostic'}
+7861	{'type-enh', 'comp-base', 'topic-covtype', 'comp-stats'}
+7841	{'type-enh', 'comp-genmod', 'comp-base', 'comp-discrete'}
+7840	{'type-bug', 'type-bug-wrong', 'comp-genmod', 'prio-elev'}
+7838	set()
+7836	{'type-bug', 'comp-tsa-statespace'}
+7835	{'type-enh', 'comp-genmod', 'comp-regression'}
+7834	{'type-enh', 'topic-diagnostic', 'comp-discrete'}
+7833	{'type-enh', 'topic-predict'}
+7831	{'type-enh', 'comp-discrete', 'prio-elev'}
+7830	set()
+7829	{'FAQ', 'type-refactor', 'comp-othermod', 'comp-discrete', 'comp-genmod'}
+/stfc/PSyclone/
+1513	set()
+1512	{'ready for review'}
+1511	set()
+1510	{'in progress', 'PSyIR'}
+1509	{'NEMO'}
+1508	{'good first issue', 'enhancement'}
+1507	set()
+1506	{'NEMO', 'NEMOVAR', 'PSyIR', 'bug'}
+1505	{'NEMO', 'NEMOVAR', 'bug'}
+1504	{'NEMOVAR', 'bug'}
+1500	{'ready for review', 'NEMO'}
+1499	{'PSyIR'}
+1498	{'ready for review', 'enhancement'}
+1497	set()
+1496	{'adjoint', 'bug'}
+1495	{'LFRic', 'NEMOVAR', 'PSyIR', 'bug'}
+1494	{'NEMOVAR', 'PSyIR', 'bug'}
+1493	{'NEMO', 'NEMOVAR', 'bug'}
+1492	{'ready for review', 'adjoint'}
+1491	{'adjoint'}
+1490	{'adjoint'}
+1487	{'bug'}
+1486	{'PSyIR', 'bug'}
+1485	{'under review', 'PSyIR', 'adjoint'}
+1483	set()
+1482	set()
+1481	set()
+1478	set()
+1474	set()
+1471	set()
+/sunpy/sunpy/
+/sympy/sympy/
+/tensorflow/addons/
+/Theano/Theano/
+/thoth-station/osiris/
+/thoth-station/package-update-job/
+/thoth-station/reporter/
+/thoth-station/srcops-testing/
+/Thousandaire/thousandaire/
+/timvideos/gst-switch/
+/tracim/tracim/
+/Tribler/tribler/
+/tskit-dev/msprime/
+/turnkeylinux/tracker/
+/tvgrabbers/tvgrabnlpy/
+/uc-cdis/fence/
+/Ultimaker/Cura/
+/ultrabug/py3status/
+/unipartdigital/udes-open/
+/vispy/vispy/
+/vivisect/vivisect/
+/vmware-archive/vsphere-storage-for-docker/
+/Willet/Willet-Referrals/
+/Wireless-Innovation-Forum/Spectrum-Access-System/
+/wlanslovenija/PiplMesh/
+/wrye-bash/wrye-bash/
+/XanaduAI/strawberryfields/
+/xgcm/xgcm/
+/ZeroQI/Hama.bundle/
+/zestedesavoir/zds-site/
+/zigpy/bellows/

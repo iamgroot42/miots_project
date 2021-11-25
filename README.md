@@ -1,5 +1,6 @@
 # miots_project
 Mobile &amp; IoT Security: Course Project
+<<<<<<< Updated upstream
 
 ## Setting up environment for featur extraction
 
@@ -55,3 +56,16 @@ joern-import testCode.tar.gz
 3. Use the `Language.build_library` method to compile these into a library that's usable from Python.
 
     `Language.build_library('build/my-languages.so', ['./tree-sitter-python'])`
+
+## to run
+### following command creates an oput file op
+bash scrape.sh
+#filers issues from op and cleans the data
+bash opTorepo
+python3 issueLabels.py 
+creates the file labelout
+python3 app.py
+creates the file 
+
+merge_commit is the final sha
+base is the initial

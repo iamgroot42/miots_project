@@ -9,10 +9,10 @@ def listIssues(repo):
 		return "";
 	#/apache/incubator-mxnet/
 	
-	response = requests.get("https://api.github.com/repos"+repo+"labels", headers={"Authorization":"token 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"})
-	#response = requests.get("https://api.github.com/repos/apache/incubator-mxnet/labels", headers={"Authorization":"token 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"})
+	response = requests.get("https://api.github.com/repos"+repo+"labels", headers={"Authorization":"token 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"})
 	data = json.loads(response.text)
 	label =[] 
+	print(data)
 	for f in data:
 		label += [f["name"]]
 	csv = ",".join(label);

@@ -1,2 +1,5 @@
 *.so
 __pycache__/*
+
+# Output dummy file when running data augmentation
+dummy_out.py

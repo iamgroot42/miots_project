@@ -19,9 +19,9 @@ def curl(line):
 			if(item["status"]=="modified"):
 				if(item['raw_url']==None):
 					return
-				f.write(item['raw_url']);
+				f.write(re.sub("raw/","",(re.sub("github","raw.githubusercontent",item['raw_url']))));
 				f.write("\n");
-				print(item['raw_url']);
+				print(re.sub("raw/","",(re.sub("github","raw.githubusercontent",item['raw_url']))))
 	f.write(w[2])
 	f.write("\n");
 	print(w[2])

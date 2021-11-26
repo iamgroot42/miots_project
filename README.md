@@ -1,6 +1,4 @@
-# miots_project
-Mobile &amp; IoT Security: Course Project
-<<<<<<< Updated upstream
+# Mobile &amp; IoT Security: Course Project
 
 ## Setting up environment for featur extraction
 

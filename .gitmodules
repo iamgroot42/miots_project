@@ -1,0 +1,3 @@
+[submodule "VulnerabilityDetection"]
+	path = VulnerabilityDetection
+	url = https://github.com/iamgroot42/VulnerabilityDetection.git

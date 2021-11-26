@@ -1,4 +1,74 @@
 import numpy as np
+import re
+
+
+def swap_setop_arguments(line, until_word):
+    """
+        Count number of open brackets until specified word inside a line
+    """
+    # Pick random position for a match for until_word
+    positions = [m.start() for m in re.finditer(until_word, line)]
+    # Pick random position
+    if len(positions) > 0:
+        position = positions[np.random.randint(len(positions))]
+    else:
+        raise AssertionError("%s not found in %s" % (until_word, line))
+    
+    # Start going back from position to find what variable the function is called on
+
+    position_clone = position - 1
+    pasta_copy = ""
+    count = 0
+    while position_clone >= 0:
+        if line[position_clone] == '(':
+            count += 1
+        elif line[position_clone] == ')':
+            count -= 1
+
+        pasta_copy += line[position_clone]
+
+        if count == 0 and (line[position_clone] in [' ', '.', ',', '(', '[', '{']):
+            break
+        position_clone -= 1
+    
+    position_clone = max(position_clone, 0)
+    pasta_copy = pasta_copy[::-1]
+
+    count_match = 0
+    for i in line[:position]:
+        if i == '(':
+            count_match += 1
+        elif i == ')':
+            count_match -= 1
+    position_start = position + len(until_word)
+    copy_pasta = ""
+    
+    # Find all characters until this level of bracket ends
+    count = count_match
+    while position_start < len(line):
+        if count == count_match and (line[position_start] in [' ', '.', ',', ')', ']', '}']):
+            break
+
+        if line[position_start] == ')':
+            count -= 1
+        elif line[position_start] == '(':
+            count += 1
+        
+        copy_pasta += line[position_start]
+            
+        position_start += 1
+    
+    # For a (a).until_word(b) call, replace it with
+    # a (b).until_word(a) call. Take special care to match
+    # brackets properly
+
+    print(line[:position_clone], "|", copy_pasta, "|", until_word, "|", pasta_copy, "|", line[position_start:])
+
+    new_line = line[:position_clone] + copy_pasta.rstrip(
+        ' ') + until_word + "(" + pasta_copy.lstrip(' ') + ")" + line[position_start:]
+    new_line += "  # Changed via automated augmentation"
+
+    return new_line
 
 
 def matched(str, brackets=('(', ')')):

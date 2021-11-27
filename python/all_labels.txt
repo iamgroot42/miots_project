@@ -1,0 +1,523 @@
+evvvvil/keystone-5-file-adapters	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+david-batranu/ytdownloader	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+astropy/astropy/	¯\_(ツ)_/¯,:fire:,:zzz: analytic_functions,:zzz: astropy-helpers,:zzz: astropy-helpers-removal,:zzz: Python2,:zzz: Python2.6,:zzz: Python3,:zzz: Python4,Affects-dev,API change,backport-v4.0.x,backport-v4.3.x,backport-v5.0.x,benchmark,Bug,build,Close?,closed-by-bot,config,constants,convolution,coordinates,cosmology,dev-automation,Docs,Downstream Fix Required,Duplicate,Effort-high,Effort-low
+itcrab/symfony-1.x	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+mikebdp2/wr841nd_v9_u-boot_r3b0rn_oldver	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Movimento5StelleLazio/ParlamentoElettronicoM5S	bug - high,bug - low,bug - medium,closed,duplicate,enhancement,invalid,missing,question,Testing,wontfix
+shotgunsoftware/tk-desktop2/	bug,Do not merge,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+cyrush/visit-vtk	bug,duplicate,enhancement,invalid,question,wontfix
+iwouldrathercode/php-custom-one-login	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+onicagroup/runway/	breaking,bug,changelog:major,changelog:minor,changelog:patch,changelog:skip,cloudformation,dependencies,documentation,duplicate,feature,github_actions,good first issue,help wanted,invalid,javascript,maintenance,npm,poetry,priority:critical,priority:high,priority:low,priority:medium,pyinstaller,python,question,release,status:abandoned,status:accepted,status:available
+b12io/orchestra/	bug,dependencies,documentation,duplicate,enhancement,feature,help wanted,invalid,javascript,python,question,refactor,security,staffing v2,starter project,wontfix
+kklimonda/django-registration	bug,duplicate,enhancement,invalid,question,wontfix
+jadestrong/web-starter-kit	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+luthfiampas/DirectShowLib	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+OpenFOAM-jp/OpenFOAM-jp	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+FioraLove/Net-Spider	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,site-support-request,wontfix
+Movimento5StelleLazio/ParlamentoElettronicoM5SCore	bug,duplicate,enhancement,invalid,question,wontfix
+Nevcairiel/WowLua	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+gravitee-lab/gravitee-management-rest-api-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+googleapis/google-cloud-python/	:rotating_light:,aiplatform,api: accessapproval,api: accesscontextmanager,api: actions,api: adexperiencereport,api: ads,api: adsdatahub,api: adsense,api: adsensehost,api: adwords,api: aiplatform,api: analyticsadmin,api: analyticsdata,api: apigateway,api: apigee,api: apigeeconnect,api: apikeys,api: appengine,api: area120tables,api: artifactregistry,api: assuredworkloads,api: automl,api: bigquery,api: bigqueryconnection,api: bigquerydatatransfer,api: bigquerymigration,api: bigqueryml,api: bigqueryreservation,api: bigquerystorage
+matt-the-bat/i8krellm-2650	bug,duplicate,enhancement,invalid,question,wontfix
+OpenTTD/team/	request_access
+PKUDeleted/Holes/	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+SOYJUN/FTP-implement-based-on-UDP	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+stadline/symfony1	bug,duplicate,enhancement,invalid,question,wontfix
+esamson/cors-filter	bug,duplicate,enhancement,invalid,question,wontfix
+cyclus/cyclus.github.com/	0 - Backlog,1 - Ready,2 - Working,3 - Done
+drnkwati/guzzle6	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+kmapte/Concurrent	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+CUNYSuite/CunyFirstAPI/	bug,dependencies,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+LAMurakami/new-blog-test-6	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+confluentinc/confluent-kafka-python/	bug,docs,duplicate,enhancement,FAQ,GREAT REPORT,help wanted,installation,invalid,investigate further,librdkafka,Python 2.7,Python 3.5,question,SERDE_API:Enhancement,serdes,tryreproduce,upstream,usage,wait info,windows,wontfix,workaround
+airware/buzzard/	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,raster.get_data enhancement,wontfix
+cyberhobo/custom-content	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+robertgj/SparsePOP	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+smutek/BourbonySage	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+NathanZorndorf/DSI-SF-5-mirror	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+meredithdrum/oystercity_md	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+SAIBA0011/laravel-billing	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+iegor/kdetoys	bug,duplicate,enhancement,invalid,question,wontfix
+amansinha/testpilot	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jiangzhuo/CrystalQuartz	bug,duplicate,enhancement,invalid,question,wontfix
+iegor/kdepim	bug,duplicate,enhancement,invalid,question,wontfix
+the-GianT/didactic-octo-bassoon	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+unipartdigital/udes-open/	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Shoozza/allegro-pas5	bug,duplicate,enhancement,invalid,question,wontfix
+ethernidee/advanced-classes-mod	bug,documentation,duplicate,enhancement,help wanted,invalid,question,todo,wontfix
+FarBeyondDriven/mytop	bug,duplicate,enhancement,invalid,question,wontfix
+kbaseapps/kb_Metrics/	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Gippsland-Web/gw-bp-user-reviews	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+BlokasLabs/Qt-5.11.3	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+adautoneto/Meleze.Web	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Komodo/KomodoEdit/	Closed: By Design,Closed: Duplicate,Closed: Invalid,Closed: Limitation,Closed: Not Reproducible,Closed: Won't Fix,Component: Build,Component: CodeIntel,Component: Collaboration,Component: Color Schemes,Component: Commando,Component: Debugging,Component: Dependency,Component: Docklet,Component: Documentation,Component: File Associations,Component: Go,Component: Keybindings,Component: Languages,Component: Mozilla,Component: Places,Component: Preferences,Component: Publishing,Component: Refactoring,Component: Remote Files,Component: Scintilla,Component: SDK,Component: TDK,Component: Toolbox,Component: Tutorials
+SwordLonn/kurento-jsonrpc-js	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+lordofhammsters/InstaSharperDirect	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+postlund/pyatv/	3rd party,airplay,apple deprecation,autobump,breaking change,bug,code quality,companion,confirmation,core,dependencies,deprecation,dmap,documentation,duplicate,enhancement,environment,feature,help wanted,incomplete,investigate,mrp,optimize,Polls,question,raop,reject,rejected,release,scanning
+slackr/kodi-smoothstreams-addon	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+fhmatch/cloudder-l54fork	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+mne-tools/mne-python/	a11y,API,backport-candidate,backported,Beamformer,BUG,code-health,Core,Decoding,Digitization,DOC,EASY,ENH,EOSS4,events,FIX,GUI,HARD,ICA,Inverse,MEDIUM,needs-upstream-fix,not-fixing,packaging,Preprocessing,QUESTION,Simulation,tests,VIZ,WONTFIX
+ray-project/ray/	@author-action-required,@external-author-action-required,@tests-ok,actor-based-usecase,alpha,beta,bug,C++ Worker,cannot-reproduce,core-api-change-approval-required,dashboard,dependencies,do-not-merge,docs,enhancement,feature request,fix-docs,fix-error-msg,good first issue,internal-observability,java,javascript,k8s,m1,needs-repro-script,P0,P1,P2,P3,performanceimmunochomik/kibana3	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+deemoowoor/django-registration	bug,duplicate,enhancement,invalid,question,wontfix
+php52/templating	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+armankarimpour/HyperChessArman	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+CenterForOpenScience/osf.io/	blocking front end,bug,enable-mergify,feature,JIRA,Management command,Migration,technical question
+XhmikosR/huffyuv	bug,duplicate,enhancement,invalid,question,wontfix
+AxeyGabriel/mpd-ng	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+zhoushineyoung/jmule-mod	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+ansible/ansible/	aci,affects_1,affects_1.0,affects_1.1,affects_1.4,affects_1.7,affects_1.8,affects_1.9,affects_2,affects_2.0,affects_2.1,affects_2.10,affects_2.11,affects_2.12,affects_2.13,affects_2.2,affects_2.3,affects_2.4,affects_2.5,affects_2.6,affects_2.7,affects_2.8,affects_2.9,aireos,aix,ansible-2.10-plan,AnsibleFest,arg_spec,asa,automerge
+gbentley/redirectoperators	bug,duplicate,enhancement,invalid,question,wontfix
+jcmnn/Lua5.1	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+hho2002/swfupload	bug,duplicate,enhancement,invalid,question,wontfix
+modin-project/modin/	Benchmarking 🏁,Blocked ❌,bug 🦗,build,CI,Cloud ☁️,Code Quality 💯,Dask ⚡,dependencies 🔗,documentation 📜,duplicate ♻️,Epic,External,Flaky Test,good first issue 🔰,GPU 🌌,Help Wanted 🌐,Integration ➕➕,Internals,Memory 💾,Needs more information ❔,Needs Review,new feature/request 💬,OmniSci,P0,P1,P2,pandas concordance 🐼,pandas 🤔,pandas.dataframe
+joaofx/mvccontrib	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+mushishi1213/azkaban-flow-priority	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+thoth-station/srcops-testing/	¯\_(ツ)_/¯,approved,area/adviser,area/amun,area/byon,area/cyborgs,area/documentation,area/indicators,area/investigator,area/knowledge-graph,area/management-api,area/metrics-exporter,area/predictable-stack,area/prescriptions,area/solver,area/stack-guidance,area/user-api,bot,component/user-api,deployment_name/ocp4-stage,deployment_name/ocp4-test,deployment_name/zero-prod,do-not-merge,do-not-merge/blocked-paths,do-not-merge/hold,do-not-merge/invalid-owners-file,do-not-merge/needs-rebase,do-not-merge/work-in-progress,flake,good first issue
+jcoiner/memtest	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+uzerpllp/adodb	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+evonove/pymol	bug,duplicate,enhancement,invalid,question,wontfix
+features/	
+esotericnomen/android_kernel_umidigi_mt6757	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+clockfort/marlin-taz	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+consortium-horizon/vanilla_tapatalk	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+tklebanoff/PyQt5	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jwqwiksand/FCC-Product-Landing-Page	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+whitneylarose/JHotDraw5.3	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Kodi-vStream/venom-xbmc-addons/	A lire important,bug,duplicate,en-cours,Evolution,Idée,Information,invalid,not a bug,Pas de réponse,Question,Résolu,Sources
+dataiku/dss-plugin-nlp-preparation/	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,pr-pending-review,pr-pending-work,question,wontfix
+netket/netket/	bug,contributor welcome,critical,dependencies,docs,duplicate,enhancement,error checking,feature request,feedback required,fix implemented,fix proposed,forget-me-not,good first issue,hacktoberfest-accepted,help wanted,Incomplete feature,invalid,Jax,not-an-issue,physics question,question,Speculative,v2.1,v3.0,wontfix
+jonathandean/paperclip_tod	bug,duplicate,enhancement,invalid,question,wontfix
+mageekguy/atoum	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+ldalessa/hpx	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+IakovTaranenko/discord.js	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+iegor/kdebase	bug,duplicate,enhancement,invalid,question,wontfix
+wcywin/vue3-webpack5-typescript-lerna-monorepo-config-boilerplate	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+evinrude/tftp-hpa-5.2-Fork	
+Krato/locally	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+pr-omethe-us/PyKED/	beginner-friendly,bug,discussion,documentation,duplicate,enhancement,help wanted,invalid,question,wontfix
+ambrizals/simple-crud	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+mwf/jsonstream	bug,duplicate,enhancement,invalid,question,wontfix
+mongodb/specifications/	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+RougemontPed/LaravelAnnotationRelations	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+dolsup/nano-shinonome-2.5.3	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+luaforge/lualangpack	
+JamesKirkAndSpock/Hirola/	bug,dependencies,duplicate,enhancement,good first issue,help wanted,invalid,python,question,wontfix
+cobr123/XioScript-10	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+TECHNOVE/Airplane	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+oe-alliance/enigma2-plugins/	bug,duplicate,enhancement,invalid,question,wontfix
+ansyun/dpdk-redis	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+kiv-redmine/redmine_wiki_extensions	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+RahmanTeamDevelopment/Platypus	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+aronduby/dump	bug,duplicate,enhancement,invalid,question,wontfixsympy/sympy/	actions,Add test to close,algebras,Alternate Python,assumptions,Backwards Incompatibility,Bug,calculus,categories,CI,CI: restarted,Code quality,codegen,combinatorics,concrete,core,core.cache,core.evalf,core.numbers,core.relational,core.sympify,Could Close,Coverage,Critical,crypto,CZI: Documentation,Deprecation Removal,diffgeom,discrete,Documentation
+dmwm/DBS/	bug,C: AsyncStageout,C: branches,C: CRABClient,C: CRABServer,C: DAS,C: DBS,C: Dev,C: DMWM,C: DMWM Managers,C: DQIS,C: DummyComponent,C: FileMover,C: HTTPGroup,C: Infrastructure,C: PhEDEx,C: SiteDB,C: StageManager,C: T0,C: WMCORE,C: WMCore07X,C: WMCore2,duplicate,enhancement,invalid,P: blocker,P: critical,P: immediate,P: major,P: minor
+armankarimpour/hyperarman	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+clinton-hall/nzbToMedia/	BUG,can't reproduce,config error,duplicate,enhancement,External/Dependency Issue,Fix needs verification,FIXED,in dev,in master,in nightly,invalid,Not Added,question,verified,wontfix
+immunochomik/kibana3	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+numenta/nupic/	bounty,core extraction,dependencies,duplicate,newbie,pip,priority:1,priority:2,priority:3,priority:4,question,status:blocked,status:help wanted,status:in progress,status:ready,status:wontfix,subject:algorithms,subject:anomaly,subject:api,subject:encoders,subject:opf,subject:swarming,subject:vm,super,triage,type:administrative,type:bug,type:build,type:cleanup,type:deployment
+xt0rted/Nancy.Validation.FluentValidation.Net45	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+gravitee-lab/gravitee-policy-ssl-enforcement-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Ninoh-FOX/PrBoom-plus-for-RG350	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+MohidAliGill/WeatherMan	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+AICoE/frauddetection-producer-consumer/	¯\_(ツ)_/¯,approved,bot,component/user-api,deployment_name/ocp4-stage,deployment_name/ocp4-test,deployment_name/zero-prod,do-not-merge,do-not-merge/blocked-paths,do-not-merge/hold,do-not-merge/invalid-owners-file,do-not-merge/needs-rebase,do-not-merge/work-in-progress,documentation,good first issue,hacktoberfest,hacktoberfest-accepted,help wanted,human_intervention_required,kind/bug,kind/cleanup,kind/demo,kind/deprecation,kind/documentation,kind/feature,kind/flake,kind/question,lgtm,lifecycle/active,lifecycle/frozen
+y-ken/mysqlftppc-suffix	bug,duplicate,enhancement,invalid,question,wontfix
+Sara-Anders/Jquery_week4	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+awajid/daytrader	bug,dependencies,duplicate,enhancement,invalid,question,wontfix
+adde88/SSLsplitNG	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+orignal/crashmail	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+saviesahome/9-Ways-In-Which-You-Can-Organize-A-Kitchen-With-Modular-Fittings	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+squirrelandhedgehog/winnt-master	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+manfredg/MEICA-BMU	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+0-173/FreeFrameGL_15	bug,duplicate,enhancement,invalid,question,wontfix
+holishing/gmt-5.4.4	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+coala/coala/	area/actions,area/aspects,area/bears,area/CI,area/CLI,area/config,area/core,area/dependencies,area/documentation,area/genericbears,area/install,area/languages,area/lintbears,area/logging,area/results,area/tests,area/upstream,area/usability,bounty,cool and awesome,difficulty/high,difficulty/low,difficulty/medium,difficulty/newcomer,difficulty/very-high,hacktoberfest,importance/critical,importance/high,importance/low,importance/medium
+Stanford-Online/edx-platform/	0 - Backlog,1 - Ready,2 - Working,3 - Done,CAT-1,CAT-2,CAT-3,duplicate,in progress,invalid,wontfix
+apache/buildstream/	bug,cache server,critical,documentation,enhancement,frontend,infrastructure,invalid,logging,newcomers,optimization,question,refactoring,regression,remote execution,tests,wontfix
+christang/django-registration-1.5	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+ojrdevcom/play-slick-0.5.1-scala-2.11.1	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+whodafloater/kk_copter_minsoo	bug,duplicate,enhancement,invalid,question,wontfix
+tomsch1/avrdude	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+kao98/phpcrafty	bug,duplicate,enhancement,invalid,question,wontfix
+pywbem/pywbem/	area: code,area: devenv,area: docs,area: setup,area: test,dependencies,discussion needed,help wanted,investigation needed,keep branch,priority,question,rebase needed,release definition,release: mandatory,release: optional,release: user generated,resolution: duplicate,resolution: elsewhere,resolution: fixed,resolution: invalid,resolution: no issue,resolution: partly fixed,resolution: wont fix,resolution: workaround,review needed,roll back needed,roll back/forward done,roll forward needed,test needed
+radesix/marcopolo	
+SwissDataScienceCenter/rancher-pushprox	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+OKRCentral/paperclip-azure-old	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Thousandaire/thousandaire/	bug,dependencies,documentation,duplicate,feature request,P0,P1,P2,question,refactor request,wontfix
+alabs/carchi_gobiernoabierto	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jonte/ircbot	bug,duplicate,enhancement,invalid,question,wontfix
+pypeit/PypeIt/	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+chen397254698/EasyAndroid	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+DSpace-Labs/DSpace-5x	bug,dependencies,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jernejsk/RTL8812AU	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+luavela/luavela	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+xslxjz/vnpy2	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+otilrac/gqrx_dark_zoom	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+pioneers/PieCentral/	backend,bug,Dawn,dependencies,DevOps,documentation,duplicate,enhancement,Expired,frontend,good first issue,hardware,Hibike,javascript,networking,perf,pri:high,pri:low,pri:mustfix,python,Runtime,Shepherd,style,unresolved,usability,wontfix
+cmur2/mecrisp-stellaris-stm32f103rb	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+kldavis4/MinePackage	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+BlockchainLabs/Jumbucks	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+fabricadeaplicativos/phonegap-plugin-push-cordova5	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+lun-4/mercury	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+metoppv/improver/	blue_team,BoM review required,don't merge yet,follow_on,FY21/22 New Outputs,FY21/22 Site Specific Forecasts,FY21/22 Technical Debt,FY21/22 Temperature calibration,good first issue,good first review,green_team,Inactive: Duplicate,Inactive: Invalid,Inactive: On Hold,Inactive: Won't fix,MO review required,MVP,Problem:Blocked,Problem:Discussion,Problem:HelpWanted,product_planning,split,sprint_ready,suite_breaking,Type:Administrative,Type:Bug,Type:Documentation,Type:Enhancement,Type:Feature,Type:Investigative
+smxi/php-html-mime-mail	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+mpilgrem/gnuplot	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+freyes/percona-xtradb-cluster-5.5	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+arthrp/HwMonCore	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+lewisli/RSFSRC	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Aljutor/pai_bot/	bug,dependencies,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+zigpy/bellows/	breaking,bug,duplicate,enhancement,feature,fix,good first issue,help wanted,invalid,question,wontfix
+zestedesavoir/zds-site/	Bloquant,C-API,C-Back,C-DevelopmentEnv,C-Docs,C-EasyMDE,C-Epub,C-Front,C-Infra,C-Search,En attente de la dépendance,Facile,Feedback,hacktoberfest-accepted,S-BUG,S-Évolution,S-Refactorisation,S-Régression,S-Zombie,Sondage,Spam
+tracim/tracim/	accessibility,activity-feed,add to changelog,app-admin,app-agenda,app-collaborative,app-custom-form,app-file,app-folder,app-gallery,app-html,app-kanban,app-share-folder,app-thread,app-workspace,backend,backlog,blocked by backend,blocked by frontend,blocked by reporter,blocked by ui,branding,broken,bug,CI,config,cypress,database,deprecated,design system
+rembo10/headphones/	Accepted,Bug,Critical,DB,Develop Branch,Need More Info,PR Almost There,PR Green Light,PR On Hold,PR Rejected,Rejected,Request,RFC,Support,Unicode,Windowsvispy/vispy/	build,code-quality,component: app,component: collections,component: color,component: gl,component: gloo,component: io,component: jupyter-widget-backend,component: plot,component: scene,component: util,component: visuals,docs-website,for-new-contributors,hacktoberfest,hacktoberfest-accepted,priority: high,type: bug,type: enhancement,type: example,type: performance,type: question,type: regression,type: specification
+samuraisam/django-googleappsauth	bug,duplicate,enhancement,invalid,question,wontfix
+owlcall/libSpark	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+actionless/pikaur/	bug,discussion,duplicate,enhancement,feature,good first issue,hacktoberfest-accepted,help wanted,in progress,info,invalid,need info,not a bug,question,submitter gone,upstream issue,wontfix,z_#3E0982,z_light_purple
+gravitee-lab/gravitee-policy-xml-validation-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+dren-dk/SSSS	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Fanamurov/L5GeneratorsLarrock	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+keen99/mysql	bug,duplicate,enhancement,invalid,question,wontfix
+johnnylongvo/DS-Project-3	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+OCA/contract/	7.0,8.0,approved,bot is merging ⏳,bug,duplicate,enhancement,hacktoberfest-accepted,help wanted,invalid,merged 🎉,migration,needs fixing,needs review,question,ready to merge,stale,wontfix,work in progress
+jcarispe8/Steps-for-case2	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+sushihangover/llvm-avr	bug,duplicate,enhancement,invalid,question,wontfix
+EhNuhc/LUA5.3.5	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+wellsaid/pbc-0.5.14	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+rigetti/pyquil/	bug :bug:,dependencies,devops :rocket:,discussion :thinking:,documentation :memo:,enhancement :sparkles:,good first issue :baby:,help wanted :wave:,quality :art:,refactor :hammer:,released,released on @rc,released on @rc-releases,v3,work in progress :construction:
+SiarkowyForks/dbm-tbc5man	awaits testing,bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,origin:cmangos,origin:dbm,origin:tbc5man,question,wontfix,zone:blacktemple,zone:gruul,zone:hyjal,zone:karazhan,zone:magtheridon,zone:naxxramas,zone:onyxia,zone:serpentshrine,zone:sunwell,zone:tempestkeep,zone:zulaman
+MMarki/teaBrogue	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+mahafuz/github-user-report-with-typescript	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+stanleyondrus/LedBoxV2	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Aggebitter/arduinoLoRa_ESP	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+QubesOS/qubes-core-qrexec/	bug,duplicate,enhancement,good first issue,help wanted,invalid,openqa-pending,question,wontfix
+message/php-mime-mail-parser	bug,duplicate,enhancement,invalid,question,wontfix
+ingabu/HLT-Trigger	bug,duplicate,enhancement,invalid,question,wontfix
+sauron-demo/sauron-demo/	App Suite: Abc,App Suite: Cba,Awesome Sauron Label,bug,C++ Change,duplicate,enhancement,help wanted,HOTFIX: Master Merge,HOTFIX: Production Merge,invalid,QA Required,question,Reviewed,SAURON-BOT: abc,SAURON-BOT: Merge It!,SAURON-BOT: Merge!,TESTING DIFF PROCESSOR,UI QA Required,WIP,wontfix
+voodoologic/akamadoshi-billing	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+marcinklimek/luaBox2D	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+iterative/dvc/	:bug: bug,A: api,A: cli,A: debug,A: diff/show,A: executors,A: experiments,A: live,A: object-storage,A: pipelines,A: plots,A: Repo,A: run-cache,A: status,A: subrepos,A: templating,awaiting response,bugfix,build,c1-quick-fix,c13-half-a-week,c21-full-week,c3-small-fix,c34-two-weeks,c5-half-a-day,c8-full-day,ci,cml,completion,dependencies
+PeeNcZ/tohscript	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+galv/openfst	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+osmocom/titan.ProtocolModules.GTP_v13.5.0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Tyche-Global/stripe-sdk	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Hashfyre/kubedb-mysql-tools	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+statsmodels/statsmodels/	backport,backwards-incompat,build,CI-random-failure,comp-base,comp-compositional,comp-datasets,comp-discrete,comp-distributions,comp-docs,comp-doe,comp-duration,comp-emplike,comp-extremes,comp-formula,comp-functional,comp-gam,comp-genmod,comp-graphics,comp-imputation,comp-io,comp-multivariate,comp-nonparametric,comp-othermod,comp-panel,comp-regression,comp-robust,comp-stats,comp-survey,comp-tools
+futehkao/PosNG	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+drnkwati/guzzle-psr7	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+uzielweb/com_aicontactsafe_j30_unofficial	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Segz03/dining-philosophers-problem	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+thoth-station/reporter/	¯\_(ツ)_/¯,approved,area/adviser,area/amun,area/byon,area/cyborgs,area/documentation,area/indicators,area/investigator,area/knowledge-graph,area/management-api,area/metrics-exporter,area/predictable-stack,area/prescriptions,area/solver,area/stack-guidance,area/user-api,bot,component/user-api,dependencies,deployment_name/ocp4-stage,deployment_name/ocp4-test,deployment_name/zero-prod,do-not-merge,do-not-merge/blocked-paths,do-not-merge/hold,do-not-merge/invalid-owners-file,do-not-merge/needs-rebase,do-not-merge/work-in-progress,documentation
+AppScale/gts/	Backlog,Do Not Merge,Priority: High,Priority: Low,Priority: Normal,Priority: Urgent,Status: Approved for merge,Status: Build pending,Status: Demo requested,Status: Discussion,Status: Needs Assessment,Type: Bug,Type: Duplicate,Type: Enhancement,Type: Feature,wontfix
+googleapis/oauth2client/	:rotating_light:,cla: no,cla: yes,contrib,dependencies,do not merge,docs,don't merge,duplicate,external,good first issue,google-compute-engine,help wanted,hygiene,invalid,kokoro:force-run,kokoro:run,needs more info,needs work,packaging,priority: p0,priority: p1,priority: p2,release blocking,requires reporter clarification,semver: major,semver: minor,semver: patch,status: blocked,status: duplicate
+david8198/zeegraph	
+matrix-org/matrix-doc/	abandoned,aesthetic,application services,blocked,c2s r0.5.0,clarification,client-server,cross-signing-sprint,cs-v3,dependencies,disposition-close,disposition-merge,disposition-postpone,e2e,epic,feature,feature:e2e-cross-signing,final-comment-period,finished-final-comment-period,hacktoberfest-accepted,Help Wanted,identity service,improvement,integrations,kind:core,kind:feature,kind:maintenance,Matrix 1.0,merged,meta
+scrapinghub/dateparser/	breaking-change,cleanup,discussion,good first issue,Hacktoberfest,hacktoberfest-accepted,language,pending changes,performance,question,search_dates,stale,Status: Bug confirmed,Type: Bug,Type: Bug - Language,Type: Documentation,Type: Enhancement,Type: Maintenance,upstream,wont fix
+norman/friendly_id_5_demo	bug,duplicate,enhancement,invalid,question,wontfix
+verge-rpg/verge2.5j	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+OpenFlex/xara-cairo	bug,duplicate,enhancement,invalid,question,wontfix
+scipy-conference/scipy_proceedings/	bug,docs,does_not_build:local,does_not_build:server,needs-more-review,needs-review,paper,pending-comment,presentation,question,ready,unready
+mjakeman/dbus-sharp	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+easybuilders/easybuild-framework/	aarch64,bug fix,bug report,change,change request,code cleanup,containers,cray,dependencies,documentation,easystack,EESSI,enhancement,feature,feature request,Fujitsu,good first issue,help wanted,new,performance,priority:critical,priority:high,priority:low,priority:medium,problem report,python3,question,software-specific,tests,update
+jvolkening/p5-Mac-ResFork	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+garinh/planeshift	
+goby/webbench	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Yoress/ARP	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+cssobral2013/Argentum-Sans	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+KwanLab/Autometa/	bug,code review,continuous integration,documentation,duplicate,enhancement,good first issue,help wanted,hotfix,invalid,nextflow,python,question,stretch,ux,wontfix
+chr4/droidwall	bug,duplicate,enhancement,invalid,question,wontfix
+NhaPhatHanh/github	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+gravitee-lab/gravitee-policy-jwt-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+RWeigelt/DirectShow.Net	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Kubeinit/kubeinit/	bug,cdk-libvirt-1-0-1-h,cdk-libvirt-1-1-1-h,cdk-libvirt-3-0-1-h,cdk-libvirt-3-1-2-h,documentation,duplicate,eks-libvirt-1-0-1-h,eks-libvirt-1-1-1-h,eks-libvirt-3-0-1-h,eks-libvirt-3-1-2-h,enhancement,good first issue,help wanted,invalid,k8s-libvirt-1-0-1-h,k8s-libvirt-1-1-1-h,k8s-libvirt-3-0-2-h,k8s-libvirt-3-1-1-h,k8s.rke-libvirt-1-0-1-h,keep,kid-libvirt-1-0-1-h,kid-libvirt-1-1-1-h,kid-libvirt-3-0-2-h,kid-libvirt-3-1-1-h,okd-libvirt-1-0-1-h,okd-libvirt-1-1-1-h,okd-libvirt-3-0-2-h,okd-libvirt-3-1-1-h,okd.rke-libvirt-1-2-1-hjamiejennings/lua	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+dismantl/olsrd	bug,duplicate,enhancement,invalid,question,wontfix
+klesun-misc/intelephense-0.8.8-fork	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+poblabs/weewx-belchertown/	bug,duplicate,enhancement,good first issue,help wanted,invalid,Pull Request Needed,question,stale,wontfix
+mornepousse/EKR82	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+JeshishM/Week5Assign5	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+andyrozman/tablelayout-j15	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+wangliang-cs/linux-5.2.1	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+zf1s/zf1	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+linonetwo/webpack5-externals-plugin	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+iegor/kdelibs	bug,duplicate,enhancement,invalid,question,wontfix
+gravitee-lab/gravitee-policy-ratelimit-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jessedobbelaere/fork-cms-webpack-boilerplate	bug,Dependency bump,duplicate,enhancement,good first issue,greenkeeper,help wanted,invalid,question,security,wontfix
+odlgroup/odl/	area: contrib,area: core,area: deform,area: solvers,area: tomo,area: trafos,duplicate,invalid,status: awaiting author response,status: decision needed,status: discussion,status: in revision,status: obsolete,status: postponed,status: review needed,topic: continuous integration,topic: distribution,topic: documentation,topic: maintenance,topic: mathematics,topic: testing,topic: user experience,type: api change,type: bug,type: complexity,type: deficiency,type: enhancement,type: help wanted,type: new feature,type: performance
+seatsio/seatsio-android-legacy	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+federick45/Reproducible2	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+dcos/dcos/	dependencies,do not merge - test,Holding,merge-by-mergebot,Ready For Review,Request For Comment,Ship It,Work In Progress
+diamontis/ci-env-symfony-5	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+sintegrial/qtsolutions	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+rzhw/TrustedGRUB	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+ialhashim/mesecina2d	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jsmundi/Dining_Philosophers_A7	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+simonefuoco/tappy	bug,dependencies,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+lindenbaum/freeswitch-flexphone	bug,duplicate,enhancement,invalid,question,wontfix
+biocore/qiime/	03/2015 sprint,bug,documentation addition,documentation change,documentation error,enhancement,error-reporting,performance,project management,question,quick fix,testing,visualization,waiting-for-merge,website
+rpm-software-management/dnf/	blocked,changes requested,deferred,duplicate,ready for review,test required,wontfix,work in progress
+GoogleCloudPlatform/python-docs-samples/	:rotating_light:,aiplatform,api: accessapproval,api: accesscontextmanager,api: actions,api: adexperiencereport,api: ads,api: adsdatahub,api: adsense,api: adsensehost,api: adwords,api: aiplatform,api: analyticsadmin,api: analyticsdata,api: apigateway,api: apigee,api: apigeeconnect,api: apikeys,api: appengine,api: area120tables,api: artifactregistry,api: assuredworkloads,api: auth,api: automl,api: bigquery,api: bigqueryconnection,api: bigquerydatatransfer,api: bigquerymigration,api: bigqueryml,api: bigqueryreservation
+robertgarrigos/opus_old	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+bluedynamics/zc.recipe.cmmi	
+wolverine2k/Secure-Deluge	bug,duplicate,enhancement,invalid,question,wontfix
+joyfish/frameworks_opt_telephony-caf	bug,duplicate,enhancement,invalid,question,wontfix
+Wireless-Innovation-Forum/Spectrum-Access-System/	[do not use] needs updates to match test spec,available as a reference only (do not review),deprecated test case,needs PR,needs reviewer,reference model,research/study,reviewer:commscope,reviewer:federated,reviewer:google,reviewer:nist,reviewer:red,reviewer:sony,Study
+proedu/dspace-minicurso-2016	bug,dependencies,duplicate,enhancement,help wanted,invalid,java,javascript,question,wontfix
+pmelchior/scarlet/	architecture,bug,docs,duplicate,feature,help wanted,idea,note,performance,wontfix
+lightning/bolts/	Awaiting Interop,bug,clarification,commitments,duplicate,enhancement,help wanted,invalid,Meeting Discussion,question,spec fix,spelling,Waiting Room,wontfix
+degr8sid-code/FCC-Technical-Documentation	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+illinois-ceesd/mirgecom/	-y1,bug,CI,documentation,duplicate,emirge,enhancement,good first issue,GPU,help wanted,invalid,Lazy-eval,logging,mac,mixtures,navier-stokes,nomerge,performance,production-critical,profiling,question,refactor,wontfix,y1
+iVictory2004/PizzaPi-Coding-to-order-pizza	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+plasma-hmvc/plasma	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+srinivasarao549/Orcs-With-Forks	bug,duplicate,enhancement,invalid,question,wontfix
+asterIRC/IRCa	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+martinsluiz94/Template-README.md	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+DaHaiz/EbatNs5Trading	bug,duplicate,enhancement,invalid,question,wontfix
+intersvyaz/kcaptcha-lib	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+y-ken/mysqlftppc-bigram	bug,duplicate,enhancement,invalid,question,wontfix
+euoia/nagelfar	bug,duplicate,enhancement,invalid,question,wontfix
+ashk12/Predicting-emojis	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+NickyAdmin/NickysFixer-1.16.5-STABLE	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+unifio/packer-post-processor-vagrant-s3-legacy	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+SickChill/SickChill/	BACK-BURNER,Bug / Issue,Cannot Reproduce,CentOS,Confirmed,database,dependencies,Do not merge,docker,Downstream,Duplicate,Enhancement,Experiment,Feature,Feature Request,Fixed,Freenas,github_actions,Hacky Fix,Help wanted,In Progress,Invalid,javascript,Mac,Need Feedback,Need More Info,Network Timezone,No Response / Inactive,Pinned,Please test
+mushroomhostage/Shelf	bug,duplicate,enhancement,invalid,question,wontfix
+jzandag/recipe-app	bug,documentation,duplicate,enhancement,first-timers-only,good first issue,help wanted,invalid,question,wontfix
+raulgarreta/django-registration	bug,duplicate,enhancement,invalid,question,wontfix
+pollen8/fabrik	
+akkartik/teliva	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Python-Tools/aioorm	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+bklein01/sugarcrm	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+eleree/fubarino-tf	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+ctessier/kl-crm	bug,duplicate,enhancement,feature,greenkeeper,help wanted,invalid,question,wontfix
+sealyun/cattle	bug,duplicate,enhancement,help wanted,invalid,question,wontfixkrichter722/javadocking	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+leo2301/BasicBotLucaSubz	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+lgsvl/apollo-3.5	bug,dependencies,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+kngwyu/rogue5.4.4	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+tylkomat/ParallelJobs	bug,duplicate,enhancement,invalid,question,wontfix
+yongrong/webbench	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+yw-fang/QE-PlotPhonon-toolkit	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+LegendaryScoper3/GUI	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+AgileCloudLab/cppzmq	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+ChrisBlood/react-navigation-tabs	bug,dependencies,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jcgoble3/lua-matchext	complexity:easy,complexity:hard,complexity:moderate,resolution:duplicate,resolution:fixed,resolution:invalid,resolution:wontfix,resolution:worksforme,severity:critical,severity:high,severity:low,severity:normal,status:confirmed,status:in-progress,status:new,status:unconfirmed,type:bug,type:documentation,type:feature,type:question,type:tests,type:tweak
+PyFilesystem/pyfilesystem/	auto-migrated,bug,duplicate,enhancement,help wanted,invalid,Priority-Critical,Priority-High,Priority-Medium,question,Type-Defect,Type-Enhancement,Type-Patch,wontfix
+PaddlePaddle/Paddle/	AMD,AMP,BF16,Block design,Book,Bug,build,Cluster,Code Cleanup,compile error,concurrency,dependencies,design_doc,developing,Docker,docs,duplicate,dygraph,Eigen,enhancement,Error Message,FAQ,feature request,fleet,framework,Good Question,Google Flags,help welcome,high priority,inference
+pyinstaller/pyinstaller/	@high,@low,@low / cleanup,@medium,antivirus-false-positives,area:bootloader,area:cpython,area:dependency,area:documentation,area:hooks,area:hooks/PyQt4,area:hooks/PyQt5,area:hooks/PySide,area:modulegraph,area:pip,area:project infrastructure,area:test-suite,area:tests/ci,area:tests/ci/pyup,area:Unicode,backported,bug,bugfix,DO NOT MERGE,feature,good first issue,help wanted,kind:refactoring,kind:support,kind:to be discussed
+deGravity/2dSpAn	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+galakhov/MotiveToUnity	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+taotao419/apollo	bug,dependencies,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+teachersnet/wordpress_4_5_2	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+dbro/dwm-db	
+mushroomhostage/TubeStuff	bug,duplicate,enhancement,invalid,question,wontfix
+ttburger/djutils	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+teaey/apacheds	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+daniel-he/dssit-shop	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+kazeGit/java-opensaml2-hybrid	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+gtbu/Typesetter5.1.1-CE	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+solusee/OrangeEarthstoneHRM	
+ONSdigital/eq-questionnaire-runner/	autosquash,bug,dependencies,documentation,dont merge,dr,duplicate,enhancement,good first issue,help wanted,in-progress,invalid,javascript,python,question,technical-debt,wontfix
+ASCIT/donut/	bug,dependencies,duplicate,enhancement,help wanted,invalid,question,wontfix
+kizniche/Mycodo/	bug,dependencies,duplicate,enhancement,Fixed and Committed,Fixed-Need to Commit,Hardware,help wanted,Implemented,Information,invalid,manual,Pinned,Priority,question,Sensor,Will Not Add,wontfix,Working On
+sunpy/sunpy/	[BugFix],[CodeFix],[DocFix],[Review],Affects Dev,Affects Release,backport 3.0,backport 3.1,Benchmarks,Bug(?),Close(?),coordinates,data,database,dataretriever,Discussion,Documentation,Effort High,Effort Low,Effort Medium,Examples,Extra CI,Feature Request,Good First Issue,Hacktoberfest,hacktoberfest-accepted,image,Infrastructure,instr,Invalid
+JHPeters/AdResS-GROMACS	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+oysteinkrog/WPF-Shell-Integration-Library	bug,duplicate,enhancement,invalid,question,wontfix
+Greatgabbar/githubfinder.github.io	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+MichaelMarner/FTGL-OSXFix	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+ghc-proposals/ghc-proposals/	Accepted,Blocked,dormant,Implemented,Needs revision,No proposal needed,Non-proposal,Out-of-scope,Pending committee review,Pending shepherd recommendation,Rejected,reminder,UI proposal
+scipy/scipy/	3rd party binaries,backport-candidate,Benchmarks,Branding,Build issues,C/C++,CI,Cython,defect,deprecated,development experience,Documentation,duplicate,enhancement,Fortran,github,gitpod,good first issue,invalid,maintenance,Migrated from Trac,needs-champion,needs-decision,needs-release-notes,needs-work,no action,Official binaries,prio-high,prio-highest,prio-low
+AdguardTeam/AdguardFilters/	A: Bug,A: By Design,A: Cannot reproduce,A: Closed,A: In progress,A: Invalid,A: Problematic,A: Rejected,A: Resolved,A: Won't fix,Extra,Extra (zmc),Feature Request,HTTPS issue,Infrastructure,N: AdGuard Browser Extension,N: AdGuard Content Blocker,N: AdGuard DNS,N: AdGuard for Android,N: AdGuard for iOS,N: AdGuard for Mac,N: AdGuard for Safari,N: AdGuard for Windows,N: Other,NSFW,P1: Critical,P2: High,P3: Medium,P4: Low,Question
+ucomesdag/fxfloorboard	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+django/django/	bug,duplicate,enhancement,invalid,question,wontfix
+si1nnx/snowma	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+sympy/sympy/	actions,Add test to close,algebras,Alternate Python,assumptions,Backwards Incompatibility,Bug,calculus,categories,CI,CI: restarted,Code quality,codegen,combinatorics,concrete,core,core.cache,core.evalf,core.numbers,core.relational,core.sympify,Could Close,Coverage,Critical,crypto,CZI: Documentation,Deprecation Removal,diffgeom,discrete,Documentation
+numba/numba/	0 - Backlog,1 - On Deck,2 - In Progress,3 - Ready for Review,4 - Waiting on author,4 - Waiting on CI,4 - Waiting on reviewer,5 - Ready to merge,abandoned,AOT,Blocked awaiting long term feature,boxing,bug,bug - build/packaging,bug - documentation incorrect,bug - DWARF,bug - failure to compile,bug - ice,bug - incorrect behavior,bug - memory leak,bug - miscompile,bug - numerically incorrect,bug - regression,bug - segfault,bug - typing,BuildFarm Passed,caching,CUDA,discussion,doc
+tbrowder/sdts-fork	bug,duplicate,enhancement,invalid,question,wontfix
+leapcode/leap_mail/	bug,docs,duplicate,enhancement,feature,invalid,needs-review,question,refactor,tests,wontfix
+menski/servload-0.5-fork	bug,duplicate,enhancement,invalid,question,wontfix
+Tintress15/improved-waddle	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+julp/php550-src	bug,duplicate,enhancement,invalid,question,wontfix
+python-discord/bot/	a: API,a: backend,a: CI,a: dependencies,a: docs,a: events,a: filters,a: frontend,a: fun,a: help channels,a: information,a: moderation,a: recruitment,a: stats,a: tags,a: tests,a: tools,a: utility,good first issue,hacktoberfest-accepted,help wanted,invalid,l: 0 - beginner,l: 1 - intermediate,l: 2 - advanced,m: duplicate,m: external,p: 0 - critical,p: 1 - high,p: 2 - normal
+pymonger/jquery-tagcloud	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+packit/hello-world/	blocked,bug,copr,do-not-merge,documentation,duplicate,epic,feature,fedora,good-first-issue,GSOC,Hacktoberfest,help-wanted,high-prio,invalid,label1,label2,low-prio,mergeit,need-info,needs-design,packit,pinned,ready-for-review,refactor,RHOSC,security,should pass,source-git,stale
+retverd/jira-rest-java-client-re	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+mistergraphx/Thelia-Import	bug,duplicate,enhancement,invalid,question,wontfix
+SpotlightKid/mbed-pindetect	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+pianocry/UNIX-Shell-EE4374	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+adriallongarriu/lara-pdf-merger	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+tungsteen/Urho3D-1.5	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+dysphie/nmrih-qol-ex	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+shippeo/SlyNotificationPusher	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Samsung/ONE/	area/CI,area/onert,area/quant,bug,cancelled,dependencies,documentation,DRAFT,duplicate,enhancement,FEATURE_REQUEST,future,good first issue,guide,help wanted,impact/critical,landmark,postponed,PR/NO MERGE,PR/NO TEST,PR/ready for review,question,SOS Masters - Easy,SOS Masters - Hard,SOS Masters - Normal,SOS Masters - Very Easy,SOS Mine(2020),SOS Mine(2021),sprint/extra,sprint/task
+BlokasLabs/Qt-5.7.1	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+biocore/microsetta-private-api/	bug,codebase quality,documentation,duplicate,enhancement,good first issue,help wanted,invalid,minimalInterface,priority,project maintenance,question,someday,wontfix,yaml
+jwqwiksand/FCC-Technical-Documentation-	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+tensorflow/addons/	activations,automation,awaiting testing (then merge),backport r0.10,backport r0.11,backport r0.12,backport r0.8,backport r0.9,benchmarking,blocked,bug,build,callbacks,citations threshold,cla: no,cla: yes,crf,custom-ops,deprecation,discussion needed,documentation,duplicate,ecosystem-review,Feature Request,feature-approved-for-pr,github,good first issue,help wanted,image,kokoro:force-run
+myfarms/php_lp_solve	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+pk11/rapt	
+jnday/tome2	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+kagux/gapi	bug,duplicate,enhancement,invalid,question,wontfix
+genialis/resolwe/	bug,duplicate,enhancement,feature request,help wanted,invalid,priority-high,priority-low,priority-medium,question,story,task,wontfix
+Joern-R/qtwebkit	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jeasoft/django-registration	bug,duplicate,enhancement,invalid,question,wontfix
+seanred360/Build-a-Technical-Documentation-Page	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+luaforge/luarsa	
+cm12-amami/android_external_libexif	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+gravitee-lab/gravitee-repository-jdbc-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+CloCkWeRX/sdo	
+stefjakobs/mailrelay-admin	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+openflightmaps/ofmx	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+bluelabsio/records-mover/	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,redshift,regression,wontfix
+vistafan12/fire06	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+zuole/MachineLearning-DeepLearning-NLP-LeetCode-StatisticalLearningMethod-TensorFlow	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jeremyschlatter/gorun	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+c-carrasco/mongoose-paginate	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+pivaldi/pi-php-mode	
+openshift/openshift-ansible/	¯\_(ツ)_/¯,affects_3.10,affects_3.11,affects_3.2,affects_3.3,affects_3.4,affects_3.5,affects_3.6,affects_3.7,affects_3.8,affects_3.9,ansible_2.4,ansible_2.5,ansible_2.6,api-review,approved,area/dependency,area/hosted,area/idempotency,area/install-upgrade,area/licensing,area/modules,area/provisioning,area/testing,backport-risk-assessed,backported_3.2,backported_3.3,backported_3.4,backported_3.5,backported_3.6
+luizribeiro/gython	
+MarshalX/yandex-music-api/	bug,dependencies,duplicate,feature,help wanted,invalid,question,review,rework
+aladdinwang/django	bug,duplicate,enhancement,invalid,question,wontfix
+Avygeil/q3map2-texfix	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+tskit-dev/msprime/	AUTOMERGE-REQUESTED,bug,dependancy-upgrade,dependencies,documentation,duplicate,enhancement,help wanted,Infrastructure and tools,invalid,Performance,question,wontfix
+hustodemon/strutstestcase-uyuni	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+nodejs/node-gyp/	Arm,autorelease: pending,autorelease: tagged,bcrypt,build,confirmed-bug,Discord bot,Documentation,duplicate,ERR! node-gyp -v <= v5.1.0,Feature Request,gyp upstream issue / floating patch,gyp: No Xcode or CLT version detected!,Idea,install,io.js,Linux,macOS,meta,Multiple node-gyp versions are installed,Multiple Reports,Node Sass --> Dart Sass,npm,Operating System is end of life,Python,question,semver-major,semver-minor,tsc-agenda,Unicode characters in the path
+sole/phpMyID	bug,duplicate,enhancement,invalid,question,wontfix
+dimagi/commcare-hq/	awaiting QA,CEP,CEP: done,dependencies,dependencies/javascript,Open for review: do not merge,product/ab-test,product/admin,product/all-users-all-environments,product/custom,product/feature-flag,product/invisible,product/prod-india-all-users,QA Passed,QA post deploy,reindex/migration,Risk: High,Risk: Medium
+wlanslovenija/PiplMesh/	dependencies,Merged,Team 1,Team 1 Won,Team 2,Team 2 Won,Team 3,Team 3 Won,Team 4,Team 4 Won,Team 5,Team 5 Won
+DerTodIstEinDandy/PrBoom-Plus-Fullscreen-Desktop	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+edx/edx-proctoring/	architecture review,awaiting prioritization,blended,blocked by other work,cc-reviewer,changes requested,community manager review,core committer,dependencies,engineering review,merged,needs triage,open edx community review,open-source-contribution,product review,ready to merge,rejected,waiting on author,work in progress
+Clinical-Genomics/cg/	Balsamic,Blocked,Bug,bugfix,cancer-in-weekly-production,cg,crontab,cust002,Customer request,customer-experience,data-management-plan,demux migration,dependencies,discuss,duplicate,Effort L,Effort M,Effort S,Enhancement,Gain L,Gain M,Gain S,General,Good first issue,help wanted,invalid,Legendary,microsalt-to-vogue,MIP,NIPT NovaSeq
+insightdataintel/magrittr	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Sagebrew/com.sagebrew.web/	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+DIRACGrid/DIRAC/	alsoTargeting:integration,alsoTargeting:rel-v7r3,Bug,Core,DMS,documentation,ElasticSearch,Feature request,Fixed,For patch release,Framework,Getting Started,Interface,JSON,OAuth2,python3,Review OK,RMS,RSS,sweep from:rel-v7r2,sweep from:rel-v7r3,sweep:done,sweep:failed,sweep:from master,sweep:from rel-v7r2,sweep:from rel-v7r3,sweep:ignore,Task,Testing,TS
+amit---kumar/GitRepoReader	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+m-labs/artiq/	area:browser,area:compiler,area:coredevice,area:devices,area:dma,area:documentation,area:gateware,area:grabber,area:gui,area:infrastructure,area:kasli,area:master,area:novogorny,area:packaging,area:phaser,area:rtio,area:runtime,area:sampler,area:sawg,area:sayma,area:smoltcp,area:speed,area:su-servo,complexity:bite,complexity:invasive,complexity:medium,eem:fastino,eem:urukul,good first issue,NAC3
+bigwhoop/fpdf_tpl	bug,duplicate,enhancement,invalid,question,wontfix
+galatea-associates/fuse-test-data-gen/	18-Pager-Change,bug,Data,decision needed,dependencies,documentation,duplicate,enhancement,good first issue,help wanted,invalid,On Hold - Decision Required,question,tidy-up,wontfix
+alleyinteractive/php53	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+AshVXmc/CuboidDungeon_Fabric	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+rosynirvana/nwebbench	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+elidickinson/googleanalytics-drupal5-async	
+osbolab/release-maven-manager	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+a1studmuffin/lua	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+coderman345/portfolio-website-hacktober	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+GarfJohns/beagleboneblack	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+raytian/ymbeseo	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+kyeno/SonataUserBundleFork	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+deic-dk/user_saml	bug,can wait,don't forget,duplicate,enhancement,help wanted,invalid,question,urgent,wontfix
+gravitee-lab/gravitee-policy-json-validation-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jmfrancklab/proc_scripts/	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Sciumo/gaigen	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+petervanderdoes/imagine	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+uagent/AndroidSnapShot	bug,duplicate,enhancement,help wanted,invalid,question,wontfixGeontech/opencpi_bsp_epiq_sidekiq_mpcie	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+ohader/citeq_workspaces	bug,duplicate,enhancement,invalid,question,wontfix
+spyder-ide/spyder/	1 star,11–20 stars,2–5 stars,6–10 stars,community:Assigned,community:Easy,community:Help wanted,component:Code Completion,component:Debugger,component:Editor,component:File Explorer,component:File Switcher,component:Find and Replace,component:Find in files,component:Help,component:History Log,component:IPython Console,component:Main Window,component:Online Help,component:Outline Explorer,component:Plots,component:Plugins,component:Preferences,component:Profiler,component:Projects,component:Pylint,component:Python Console,component:Variable Explorer,dependencies,Epic
+lakshmiv23/Cachematrics	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+home-assistant/core/	almost-done,async,auth,breaking-change,bug,bugfix,by-code-owner,by-core-dev,cherry-picked,cla-error,cla-needed,cla-recheck,cla-signed,cleanup,climate,code-quality,component,config error,core,custom component,dependency,dependency-bump,docker,docs-missing,documentation,duplicate,easy-fix,energy,enhancement,feature-request
+rprokap/pset-9	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+DeltaVCode/cr-201n-2020-lab-5	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+okcan/backwall	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+Azure/WALinuxAgent/	AzureStack,bug,by design,code cleanup,consider,discussion,docs,duplicate,enhancement,environment-issue,extension,external issue,feature request,fix ready,fixed,invalid,investigating,log-improvements,needs more information,P1,provisioning,question,RDMA,re-add-1937,telemetry,triage,triaged,V2,V3,wiki
+ynsn/nashorn	bug,duplicate,enhancement,help wanted,invalid,question,wontfix	
+lightkurve/lightkurve/	approved-to-merge,appveyor,bug,can we close?,can we merge?,candidate-feature,CBV,changes-requested,discussion,distribution,docs,documentation,duplicate,easy,easy-to-close,enhancement,feature request,feedback wanted,good first issue,help wanted,high priority,invalid,learned-at-tess-ninja,low priority,medium priority,new-feature,old-corrector-api,performance,possibly invalid?,question
+flyser/maamp	bug,duplicate,enhancement,invalid,question,wontfix
+antoaster/jneat	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+ecanuto/nautilus	bug,duplicate,enhancement,gnome,invalid,question,skipped,wontfix
+darktohka/mem_edit	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+inspirehep/inspire-next/	2018,bootcamp,bugninja,Env: Prod,hal,Priority: high,Priority: low,Priority: medium,project/operations,project/submission,project/UI,project/workflows,Review: In Review,Review: Ready for Integration,Review: Ready for Review,Review: WIP,status: ready for refinement,Type: Bug,Type: Feature,type: story,Type: Technical Debt
+DataDog/integrations-core/	backward-incompatible,category/bugfix,category/feature,category/improvement,category/release_operations,changelog/Added,changelog/Changed,changelog/Deprecated,changelog/Fixed,changelog/no-changelog,changelog/Removed,changelog/Security,community,community/help-wanted,containers,dependencies,dev/testing,dev/tooling,do-not-merge/HOLD,do-not-merge/WIP,documentation,documentation/proposal,duplicate,editorial review,images,integration/.codespell,integration/active_directory,integration/activemq,integration/activemq_xml,integration/aerospike
+djmarcin/tinyfugue	bug,duplicate,enhancement,invalid,question,wontfix
+sanyaade-embedded-systems/ingebork	bug,duplicate,enhancement,invalid,question,wontfix
+numpy/numpy/	00 - Bug,01 - Enhancement,03 - Maintenance,04 - Documentation,05 - Testing,06 - Regression,07 - Deprecation,08 - Backport,09 - Backport-Candidate,10 - Forwardport-Candidate,14 - Release,15 - Discussion,16 - Development,17 - Task,23 - Wish List,24 - PyPy,25 - WIP,26 - Compiler,28 - Benchmark,29 - Intel/Anaconda,30 - API,31 - Third-party binaries,32 - Installation,33 - Question,34 - Reversion,35 - How-To candidate,36 - Build,37 - Gitpod,50 - Duplicate,51 - In progress
+IntooUSA/log4r-ruby-2-5	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+JordyAlkema/jwt-auth	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+altabyte/rails-auth0	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jc/python-lastfm	
+jkeenan/Pod-Html	bug,duplicate,enhancement,invalid,question,wontfix
+Azure/azure-cli-extensions/	AAD,AAD Graph,Account,ACS,ADO,Advisor,AEM,AI,AKS,Alerts Management,Analysis Services,API Management,App Configuration,App Services,arcdata,ARM,ARM - Core,ARM - Managed Applications,ARM - RBAC,ARM - Service Catalog,ARM - Tags,ARM - Templates,ARO,Attestation,Auto Complete,Automation,AVS,Azure Arc enabled servers,Azure Data Explorer,Azure Identity Adoption
+danplubell/hmp3-phoenix	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+friends-of-forkcms/fork-cms-module-sitemaps	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+20384738/colossus-repository	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+iegor/kdegraphics	bug,duplicate,enhancement,invalid,question,wontfix
+bids-standard/bids-specification/	20%,ASL,BEP,bug,CBV,community,consistency,derivatives,diffusion MRI,discussion,duplicate,EEG,enhancement,formatting,functional MRI,good first issue,hacktoberfest-accepted,help wanted,iEEG,infrastructure,inheritance,invalid,MEG,misc,MRI field maps,opinions wanted,orphaned,PET,question,schema
+bluefyreio/nodebb-demo	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+rhinstaller/python-simpleline/	Blocked,bug,duplicate,enhancement,help wanted,invalid,question,significant change,wontfix
+hadaev8/HumanFallenEmpires/	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jcarispe8/Steps-for-case1	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+poldy79/marlin	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+smileyhatzz/sd-xbmc/	auto-migrated,bug,duplicate,enhancement,help wanted,httpsd-xbmc.googlecode.comfilesrepository.sd-xbmc.org-1.0.2.zipt,invalid,Priority-Critical,Priority-Low,Priority-Medium,question,Type-Defect,Type-Enhancement,Type-Other,Type-Patch,Type-Review,wontfix
+dbhosale/indipay	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+despatates/lara-pdf-merger	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+jamiejennings/lua	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+sailfishos-oneplus5/nemo-qml-plugin-systemsettings	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+rhbvkleef/AEViewer	bug,critical,duplicate,enhancement,help wanted,invalid,question,wontfix
+druids/django-GDPR/	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+devluz/SharpNeatForUnity	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+enthought/pyface/	component: documentation,component: examples,component: test suite,difficulty: advanced,difficulty: easy,difficulty: intermediate,ETS Backlog,Feature,Feature: Table/Tree Editor,Good First Issue,High Priority,need backport to 7.1,need backport to 7.2,need backport to 7.3,toolkit: null,toolkit: Qt,toolkit: Wx,type: bug,type: cleanup,type: enhancement,type: important,type: not-important,type: not-urgent,type: performance,type: refactoring,type: urgent
+vairam-svs/IPNetwork	bug,duplicate,enhancement,invalid,question,wontfix
+cabrohy/spring-5-guru	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+greenpeppersoftware/greenpepper-confluence5-plugin	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+thesoftnet/authentication-sentry	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+apache/airflow/	AIP-31,AIP-38,AIP-39,AIP-8 - Provider packages,area:API,area:auth,area:backport-packages,area:CI,area:CLI,area:core,area:core-operators,area:dependencies,area:dev-env,area:dev-tools,area:HA-Scheduler,area:helm-chart,area:kubernetes,area:licensing,area:lineage,area:logging,area:MetaDB,area:metrics,area:monitoring,area:performance,area:plugins,area:production-image,area:providers,area:scheduler/executor,area:secrets,area:self-hosted-runners
+nansencenter/django-geo-spaas-harvesting/	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,Low priority,question,wontfix
+dineshkummarc/humo-genelogy	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Brainiarc7/oisf	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+steamboatid/pumore	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+weimingtom/LuaInterfaceMod	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+vignesh-msundaram/django-registration-1	bug,duplicate,enhancement,invalid,question,wontfix
+yuangc/activiti	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+RasaHQ/rasa/	3.0.0rc-QA-issue,area:rasa-oss :ferris_wheel:,area:rasa-oss/channels 📞,area:rasa-oss/cli,area:rasa-oss/custom-actions,area:rasa-oss/event-brokers,area:rasa-oss/forms,area:rasa-oss/infrastructure :bullettrain_front:,area:rasa-oss/lock-stores,area:rasa-oss/ml 👁,area:rasa-oss/ml/nlu-components,area:rasa-oss/ml/policies,area:rasa-oss/model-testing,area:rasa-oss/nlg-server,area:rasa-oss/patterns ♟,area:rasa-oss/performance,area:rasa-oss/server,area:rasa-oss/success-markers,area:rasa-oss/telemetry,area:rasa-oss/tracker-stores,area:rasa-oss/training-data,area:rasa-oss/ux ✨,area:rasa-playground,area:rasa-sdk :technologist:,area:rasa-x/accessibility,area:rasa-x/backend :tophat:,area:rasa-x/error-messages,area:rasa-x/infrastructure :steam_locomotive:,area:rasa-x/internationalization,area:rasa-x/ivc
+kymatio/kymatio/	1D,2D,3D,API,bug,doc,duplicate,enhancement,good first issue,help wanted,high priority,management,question,tests,wontfix
+mohitsinghnegi1/game-of-dice---multiplayer-game	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+shotgunsoftware/tk-core/	bug,dependencies,DO NOT MERGE,duplicate,enhancement,experiments,invalid,Logged,QA CAN MERGE,question,wait,wontfix
+demisto/content/	Best Business Use Case Playbook,Best PANW Product Integration Playbook,Best Security Playbook,bug,Community,content,Contribution,Contribution Form Filled,Customer Choice,dependencies,docker,docs-approved,duplicate,Early submission prize,enhancement,Hackathon,help wanted,high,IAM,incomplete integration,inprogress,invalid,marketplace-candidate-p1,marketplace-candidate-p2,noinstance,Partner,pending-demo,pending-partner,post-demo,question
+buildstream-migration/bst-staging/	benchmark_prio-1,blocker,bug,cache server,critical,documentation,doing,duplicate,enhancement,fixed,frontend,good first issue,has attachment,help wanted,high_impact,important,infrastructure,invalid,logging,needinfo,needs backport,newcomers,optimization,question,refactoring,regression,remote execution,reproducibility,tests,to do
+dipy/dipy/	:grey_question: type:Question :grey_question:,:notebook:type:Documentation  :notebook:,:speech_balloon:type:Discussion :speech_balloon:,Beginner-friendly,gsoc2016,gsoc2018,gsod2020,state: needs code review,state: needs decision,state: needs feedback,state: needs PR,state: needs to check,state: ready-to-be-merged,state: stalled,state: work-in-progress,type:Bug Fix,type:Enhancement,type:Maintenance,type:New feature,type:Release plan
+gulafaran/awesome	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Mellanox/switchdev-utils/	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+Micemade/visual-composer-as-elements	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+thomaswelton/gravatarlib	bug,duplicate,enhancement,invalid,question,wontfix
+googleads/google-ads-python/	bug,code example,difficulty: easy,difficulty: hard,difficulty: medium,docs improvement,duplicate,enhancement,good first issue,help wanted,in progress,invalid,kokoro:force-run,kokoro:run,maintenance,P0,P1,P2,P3,question,triage,under review,up for grabs,usability,wontfix,works as intended
+VRciF/LoggedFS	bug,duplicate,enhancement,invalid,question,wontfix
+openml/openml-python/	bug,CI,Documentation,duplicate,enhancement,Feature request,Hacktoberfest,in progress,invalid,priority,question,Requires Feedback,serverside,sklearn-extension,testing,wontfix
+rmlockerd/brogue	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+JeanLucJFr/xpuz	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+pld-linux/nodejs-node-fork	bug,duplicate,enhancement,invalid,question,wontfix
+ComputationalCryoEM/ASPIRE-Python/	bug,CI,cleanup,CLI,documentation,duplicate,enhancement,extern,good first issue,help wanted,invalid,Optimization,question,wontfix
+Myrninvollo/Almura-Server	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+brainiak/brainiak/	bug,critical,deprecation,dev,docs,duplicate,easy,enhancement,good first issue,help wanted,incomplete,invalid,low priority,question,style,website,wontfix
+hhamon/sf1-forum	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+timvideos/gst-switch/	bug,cleanup,documentation,duplicate,enhancement,invalid,python-api,question,server,tests,travis,ui,wontfix
+Davenport-Physics/TOME2	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+BoilWP/Plugin-Name	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jayant91089/qsopt_ex-interface	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+CoghettoR/MIZAR_MML_5.63.1382.CR	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+DuinOS/DuinOS	atmega2560,Brainstorm,bug,duplicate,enhancement,Examples,invalid,question,Sites And Wiki,wontfix
+Mon1k/smarty	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+sjm-steffann/python-idna	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+sergiomt/halodb-mobile	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+mozilla-conduit/phabricator-emails/	bug,dependencies,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+dungnh/coliving-talk	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+ClassicNick/Winternight-Classic	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+monsta-design/monsta-bootstrap	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+noud/mouse-bsd-5.2	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+ComplianceAsCode/content/	Ansible,backported-into-stabilization,Bash,BLOCKER,Blueprint,bugfix,CoreOS,Debian,DISA Content Issues,DISA RHEL7 STIG Alignment,DISA RHEL8 STIG Alignment,do-not-merge/hold,do-not-merge/work-in-progress,Documentation,duplicate,enhancement,entry-level,Fedora,good first issue,help-wanted,Highlight,Ignition,Infrastructure,Kubernetes,needs-ok-to-test,needs-rebase,New Profile,New Rule,OCIL,ok-to-test
+Bhaskarghose/Reproductible-Research-Project-1	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+DavidFeng/tolua	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+jonathanheilmann/ext-ke_stats	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+gravitee-lab/gravitee-elasticsearch-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+aws/aws-parallelcluster/	2.x,3.x,bug,closing-soon-if-no-response,component:cli,component:cloudformation,component:scheduler,dependencies,docs,duplicate,enhancement,external,help wanted,invalid,pending release,question,skip-changelog-update,update,waiting customer,wontfix
+artursmet/django-registration	bug,duplicate,enhancement,invalid,question,wontfix
+GaryAflalo/Minishell	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+lyft/nuscenes-devkit	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+thoth-station/package-update-job/	¯\_(ツ)_/¯,approved,area/adviser,area/amun,area/byon,area/cyborgs,area/documentation,area/indicators,area/investigator,area/knowledge-graph,area/management-api,area/metrics-exporter,area/predictable-stack,area/prescriptions,area/solver,area/stack-guidance,area/user-api,bot,component/user-api,dependencies,deployment_name/ocp4-stage,deployment_name/ocp4-test,deployment_name/zero-prod,do-not-merge,do-not-merge/blocked-paths,do-not-merge/hold,do-not-merge/invalid-owners-file,do-not-merge/needs-rebase,do-not-merge/work-in-progress,documentation
+mobeigi/MyBB-DVZ-Secure-Content	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+inhumanitas/jmebp-1.0.8.5	bug,duplicate,enhancement,invalid,question,wontfix
+distributed-system-analysis/pbench/	Abandoned,Agent,API,Audit,Background Tasks,Backlog,bug,CDM,CLI,Code Infrastructure,COMP-150,Containerization,Contrib,Discussion,DO NOT MERGE!!!,Documentation,duplicate,enhancement,fio,Functional Testing,grooming,hackfest,help wanted,high priority,Indexing,Installation,Insufficient Information,Invalid,low priority,medium priority
+serhii73/oppia/	:arrow_heading_down: pull,bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,todo :spiral_notepad:,wontfix
+mediait/lpathtree	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+xSkjj/django-ck-test	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+TheDZhon/wwwidgets	bug,duplicate,enhancement,invalid,question,wontfix
+pj10pm/barcode	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+seoagentur-hamburg/ah-display-widgets	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+grintor/appointment-calendar	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+mrklein/windDrivenRain	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+gravitee-lab/gravitee-repository-mongodb-release-3-5-0	bug,documentation,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+DooDell/AstDAC	bug,duplicate,enhancement,good first issue,help wanted,invalid,question,wontfix
+andrewosh/example-requirements-mini	bug,duplicate,enhancement,help wanted,invalid,question,wontfix
+fortiema/jCompoundMapper	bug,duplicate,enhancement,help wanted,invalid,question,wontfix

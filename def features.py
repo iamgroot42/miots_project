@@ -5,7 +5,8 @@ from transformers import AutoTokenizer, AutoModel
 # Make AST for given code
 def ast_feature(path):
     with open(path, 'r') as f:
-        return ast.parse(f.read())
+        abstract_tree = ast.parse(f.read())
+    
 
 
 def get_codeberta_transformation(text):

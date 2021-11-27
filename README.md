@@ -1,28 +1,15 @@
 # Mobile &amp; IoT Security: Course Project
 
-## Setting up environment for featur extraction
+## Setting up environment for feature extraction
 
 Instructions are for maCOS
-
-### Install Joern (version 0.3.1)
-
-```bash
-brew install sbt
-brew install coreutils
-git clone https://github.com/joernio/joern.git
-cd joern
-sbt stage
-```
-
-### Install neo4j (version 2.1.5)
-
-You'll need to download and set it up on your machine (need sudo access)
 
 ### Install relevant python packages
 
 ```bash
-pip install gensim==3.4
-pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.6.0-py3-none-any.whl
+pip install pydriller
+
+
 ```
 
 ## Preparing Data
@@ -54,6 +41,17 @@ joern-import testCode.tar.gz
 3. Use the `Language.build_library` method to compile these into a library that's usable from Python.
 
     `Language.build_library('build/my-languages.so', ['./tree-sitter-python'])`
+
+
+# Preparing issue-based dataset
+
+1. Get list of popular repositories
+
+`python get_popular_repos.py`
+
+2. Fetch issue labels for all repositories
+
+`python get_issue_labels.py`
 
 ## to run
 ### following command creates an oput file op
@@ -105,3 +103,9 @@ https://github.com/actionless/pikaur/raw/cbad87e3e44c27df85f8ba7c5d1a455906c8c76
 
 merge_commit is the final sha
 base is the initial
+
+
+# Updates in the pipeline
+
+1. Doubled the dataset size (number of repos) for the Language Model, based on various sources: Github Trending, GitMostWanted
+2. Explore Transformer-based language model: trainining from scratch, as well as existing CodeBERT (finetune and raw)

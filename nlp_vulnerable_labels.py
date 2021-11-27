@@ -10,7 +10,7 @@ def read_labels(file_path):
     :param file_path: The path including the name of the input file with above format
     :return: a set of issue labels
     """
-    p = re.compile("/.*/.*\t((.+,+)*.+)")  # Pattern of each line
+    p = re.compile("/?.*/.*\t((.+,+)*.+)")  # Pattern of each line
     labels = set()  # The set of issue labels that will be returned
 
     with open(file_path, 'r', errors='ignore') as file:
@@ -100,11 +100,8 @@ if __name__ == "__main__":
     parser.add_argument('-t', '--threshold', type=float, help='The similarity threshold to use for determining which labels are similar enough')
     args = parser.parse_args()
 
-    print_to_file = False
     if args.relevant_labels is None:
         args.relevant_labels = ['security', 'vulnerability']
-    if args.issues_file is not None:
-        print_to_file = True
     if args.threshold is None:
         args.threshold = 0.46
 

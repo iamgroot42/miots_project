@@ -1,0 +1,11 @@
+production-critical
+impact/critical
+importance/critical
+important
+Best Security Playbook
+critical
+Critical
+security
+Priority-Critical
+priority:critical
+severity:critical

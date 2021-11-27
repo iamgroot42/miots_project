@@ -9,6 +9,7 @@ Cross Site Reference Forgery
 CSRF
 XSRF
 Session Riding
+Session Hijacking
 SQL Injection
 Untrusted Data
 Data Authenticity
@@ -98,3 +99,7 @@ Inappropriate Encoding
 Improper Output Handling
 Improper Input Handling
 Authentication Bypass
+Command Injection
+Remote Code Execution
+Path Disclosure
+Open Redirect

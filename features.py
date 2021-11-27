@@ -1,4 +1,5 @@
 import ast
+import torch as ch
 from transformers import AutoTokenizer, AutoModel
   
 
@@ -15,7 +16,7 @@ def get_codeberta_transformation(text):
     nl_tokens = tokenizer.tokenize(text)
     tokens=[tokenizer.cls_token]+nl_tokens+[tokenizer.sep_token]+code_tokens+[tokenizer.sep_token]
     tokens_ids=tokenizer.convert_tokens_to_ids(tokens)
-    context_embeddings=model(torch.tensor(tokens_ids)[None,:])[0]
+    context_embeddings=model(ch.tensor(tokens_ids)[None,:])[0]
 
 
 def get_dfg_representation(text):

@@ -62,9 +62,18 @@ python3 issueLabels.py
 creates the file labelout
 python3 app.py
 creates the file allLabels.txt
-python3 pullScarper consumes repoPython and out puts output.txt
-need to do a bit more data wrangling to get pullDiff.tsv
-the files are filterOutput2.txt.sh  filterOutput.txt.sh   
+
+use this to get a list of repos and name the output to the 'repoPython' file and run the following commands
+cat allLabels.txt | grep -i -E -w "(wontfix)|(security)|(add)|(more)|(labels)|(here)"| cut -f1
+
+
+modify the contents of repoPython based on above step if you want it filtered
+python3 pullScarper 
+#consumes repoPython and outputs output.txt
+
+bash filterOutput.txt.sh
+bash filterOutput2.txt.sh
+bash filterOutput3.sh
 
 
 example of issueLabelmicro

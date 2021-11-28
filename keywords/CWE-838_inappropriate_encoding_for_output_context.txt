@@ -1,0 +1,7 @@
+Inappropriate Encoding
+Improper Output Handling
+Data Neutralization Issue
+Improper Neutralization
+Improper Encoding
+Improper Escaping
+Inappropriate Escaping

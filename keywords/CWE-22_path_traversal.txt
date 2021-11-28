@@ -1,0 +1,4 @@
+Path Disclosure
+Path Traversal
+Directory Traversal
+Broken Access Control

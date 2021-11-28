@@ -1,0 +1,6 @@
+Weak Hash
+Risky Cryptographic Algorithm
+Risky Crpytography
+Broken Cryptographic Algorithm
+Broken Cryptography
+Insecure Cryptographic Storage

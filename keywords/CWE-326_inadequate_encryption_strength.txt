@@ -1,0 +1,8 @@
+Inadequate Encryption
+Poor Encryption
+Weak Encryption
+Encryption Brute Forcing
+Insecure Cryptographic Storage
+Weak Encoding
+Weak Hash
+Improper Encoding

@@ -1,0 +1,9 @@
+SQL Injection
+Improper Neutralization of Special Elements in SQL Command
+Improper Neutralizationof Special Elements in Data Query Logic
+Unvalidated Input
+Tainted Input
+Unvalidated Input
+Untrusted Input
+Untrusted Data
+Untrusted User Input

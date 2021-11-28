@@ -1,0 +1,9 @@
+Cross-Site Request Forgery
+Cross Site Request Forgery
+Cross Site Reference Forgery
+CSRF
+XSRF
+Cross Site Identification
+Insufficient Verification of Data Authenticity
+Insufficient Session Expiration
+Origin Validation Error

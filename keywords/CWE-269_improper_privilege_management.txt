@@ -1,0 +1,9 @@
+Improper Privilege Management
+Privilege Chaining
+Privilege Escalation
+Privilege Elevation
+Privilege Abuse
+Privilege Management Error
+Incorrect Privilege Assignment
+Incorrect Privilege
+Privilege Dropping

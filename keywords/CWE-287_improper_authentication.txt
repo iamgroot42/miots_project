@@ -1,0 +1,7 @@
+Improper Authentication
+Insufficient Authentication
+Missing Authentication
+Authentication Error
+No Authentication
+Broken Authentication and Session Management
+Broken Authentication

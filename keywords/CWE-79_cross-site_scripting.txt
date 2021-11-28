@@ -1,0 +1,4 @@
+Cross-site Scripting
+Cross Site Scripting
+XSS
+Session Hijacking

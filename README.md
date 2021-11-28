@@ -43,7 +43,7 @@ joern-import testCode.tar.gz
     `Language.build_library('build/my-languages.so', ['./tree-sitter-python'])`
 
 
-# Preparing issue-based dataset
+## Preparing issue-based dataset
 
 1. Get list of popular repositories
 
@@ -52,6 +52,36 @@ joern-import testCode.tar.gz
 2. Fetch issue labels for all repositories
 
 `python get_issue_labels.py`
+
+3. Fetch closed PRs with specified keywords
+
+`python get_matching_prs.py`
+
+4. Fetch closed PRs with specified issue labels
+
+`python get_issue_match_prs.py`
+
+5. Combine keyword-wise PRs (information) into single pickle file
+
+`python combine_pr_info.py`
+
+7. Fetch diffs corresponding to each PR
+
+`python fetch_diffs.py`
+
+## Training LM for language-based analysis
+
+1. Collect repository data
+
+`python w2v_pythoncorpus.py`
+
+2. Clean corpus
+
+`python w2v_cleancorpus.py`
+
+3. Finetune CodeBERT LM
+
+`python lm_trainmodel.py`
 
 ## to run
 ### following command creates an oput file op

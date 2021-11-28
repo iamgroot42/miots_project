@@ -21,13 +21,13 @@ def listIssues(tokens, keyword):
 		'state': 'closed',
 		'linked': 'issue',
 		'comments': '>3',
-		'is': 'merged'
+		'is': 'merged',
 	}
 	params_string = "+".join(["%s:%s" % (k, v) for k, v in wanted_params.items()])
 	use_token = 0
 
 	while True:
-		get_url = f"https://api.github.com/search/issues?q={keyword}+{params_string}&per_page=99&page={page}"
+		get_url = f"https://api.github.com/search/issues?q=label:{keyword}+{params_string}&per_page=99&page={page}"
 		response = requests.get(
 			get_url, headers={"Authorization": "token %s" % tokens[use_token]})
 		retobj = json.loads(response.text)
@@ -92,7 +92,7 @@ def main(token, keyword):
 	data = listIssues(token, keyword)
 
 	# Save data
-	with open('pr_information/[%s].pkl' % keyword, 'wb') as f:
+	with open('pr_information_labels/[%s].pkl' % keyword, 'wb') as f:
 		pickle.dump(data, f, pickle.HIGHEST_PROTOCOL)
 
 

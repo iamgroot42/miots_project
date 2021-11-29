@@ -8,8 +8,8 @@ Instructions are for maCOS
 
 ```bash
 pip install pydriller
-
-
+pip install gensim
+pip install bytecode
 ```
 
 ## Preparing Data
@@ -68,6 +68,10 @@ joern-import testCode.tar.gz
 7. Fetch diffs corresponding to each PR
 
 `python fetch_diffs.py`
+
+8. Generate before/after dataset using diffs
+
+`python generate_data.py`
 
 ## Training LM for language-based analysis
 

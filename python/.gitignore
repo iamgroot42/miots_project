@@ -1,1 +1,4 @@
 diffs/*
+final_data/*
+*.pkl
+*.pyc

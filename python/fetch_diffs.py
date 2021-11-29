@@ -3,13 +3,7 @@ import requests
 from tqdm import tqdm
 import os
 import time
-
-
-def get_filename_from_url(url):
-    prefix = "https://github.com/"
-    url = url.replace(prefix, "")
-    url = url.replace("/", "_")
-    return url
+from myutils import get_filename_from_url
 
 
 def get_diff(datum, token, store_folder):

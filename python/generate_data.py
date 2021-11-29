@@ -19,8 +19,6 @@ class Constants:
                      "capture the flag", "ctf", "burp", "capture", "flag", "attack", "hack"])
   #words that should not appear in the commit message
   bad_words = set(["sqlmap", "sql-map", "sql_map", "ctf ", " ctf"])
-  # pydriller DB cache path
-  pydriller_cache_path = "pydriller_cache"
   # Authorization token
   token = "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"
   # Git dirs cache path
@@ -198,7 +196,8 @@ def get_start_end_commits(datum, filenames):
           }
       return files
 
-  raise ValueError("Could not find commit with sha {}".format(merge_sha))
+  #Could not find commit with
+  return None
 
 
 def get_relevant_sha(pr_url):
@@ -208,20 +207,12 @@ def get_relevant_sha(pr_url):
     If commits are not squashed, corresponds to first commit's hash.
     Consider whichchever sha appears first while downloading repository.
   """
-  commits_url = pr_url + "/commits"
   # Get merge commit hash (for the case where commits were merged)
   response = requests.get(pr_url, headers={
                           "Authorization": "token %s" % Constants.token})
   merge_hash = response.json()["merge_commit_sha"]
   time.sleep(0.5)
-  # response = requests.get(commits_url, headers={
-  #                         "Authorization": "token %s" % Constants.token})
-  # diffcontent = response.json()
-  # time.sleep(0.5)
-  # # Get hash of earliest commit in PR
-  # first_commit_hash = diffcontent[0]["sha"]
   return merge_hash
-  return merge_hash, first_commit_hash
 
 
 def load_diffs_with_labels(dir, diffs_dir):
@@ -230,14 +221,13 @@ def load_diffs_with_labels(dir, diffs_dir):
   """
   per_label_data = {}
   for tag_file in tqdm(os.listdir(dir)):
+    if tag_file == ".gitignore":
+      continue
     data_for_this_label = pickle.load(open(os.path.join(dir, tag_file), 'rb'))
     if len(data_for_this_label) == 0:
       continue
   
     data = []
-    if len(per_label_data) == 10:
-      break
-
     # All PRs with this category
     for datum in data_for_this_label:
       # Fetch diff_file from diffs_dir
@@ -256,7 +246,6 @@ def load_diffs_with_labels(dir, diffs_dir):
 
       # Add to data
       data.append(datum)
-      break
     
     per_label_data[tag_file] = data
 
@@ -268,7 +257,7 @@ def get_relevant_prs(data):
     Filter out pull requests before downloading relevant code repositories
   """
   # Only look at files that do not have bad words in title/body of PR
-  check_bad_presence = lambda x: len(set(x.lower().split()).intersection(Constants.bad_words)) > 0
+  check_bad_presence = lambda x: x is not None and len(set(x.lower().split()).intersection(Constants.bad_words)) > 0
   if np.any([check_bad_presence(x['title']) for x in data]):
     return None
   if np.any([check_bad_presence(x['body']) for x in data]):
@@ -319,11 +308,19 @@ if __name__ == "__main__":
 
   # Get final before/after dataset
   for label, data in label_wise_data.items():
-    for i, datum in tqdm(enumerate(data), total=len(data)):
+    iterator = tqdm(enumerate(data), total=len(data))
+    for i, datum in iterator:
       filenames = [x['filename'] for x in datum["changes"]]
       files = get_start_end_commits(datum, filenames)
+      if files is None or len(files) == 0:
+        label_wise_data[label][i]["files"] = None
+        continue
+      iterator.set_description("Files: %d" % len(files))
       # Store file information in data
       label_wise_data[label][i]["files"] = files
+    
+    # Remove data with blank detected files
+    label_wise_data[label] = [x for x in label_wise_data[label] if x["files"] is not None]
   
     # Save data (per label, to avoid failures)
     if len(label_wise_data[label]) > 0:
@@ -333,3 +330,10 @@ if __name__ == "__main__":
               (label, len(label_wise_data[label])))
     else:
       print("Skipped %s" % label)
+
+  total = 0
+  for fn in os.listdir('final_data'):
+    with open('final_data/' + fn, 'rb') as f:
+      data = pickle.load(f)
+      total += sum([len(d['files']) for d in data])
+  print("Managed to fetch %d files" % total)

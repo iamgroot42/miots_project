@@ -2,3 +2,6 @@ diffs/*
 final_data/*
 *.pkl
 *.pyc
+corpus_dir/*
+filedump/*
+*.bandit.save*

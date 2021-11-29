@@ -1,0 +1,5 @@
+Authentication Bypass
+Capture-replay
+Bypass by Replay
+Replay Attack
+Session Replay

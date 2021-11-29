@@ -1,0 +1,7 @@
+Improper Input Validation
+Improper Validation
+Unvalidated Input
+Improper Neutralization
+Improper Input Handling
+Tainted Input
+Tainted Input to a Variable

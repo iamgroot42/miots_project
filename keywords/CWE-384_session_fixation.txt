@@ -1,0 +1,4 @@
+Session Fixation
+Origin Validation Error
+Broken Authentication and Session Management
+Session Replay

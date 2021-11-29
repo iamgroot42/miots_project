@@ -1,0 +1,11 @@
+Direct Request
+Forced Browsing
+Forceful Browsing
+Authentication Bypass Using an Alternate Path
+Authentication Bypass Using an Alternate Channel
+Bypass Using Alternate Path
+Bypass Using Alternate Channel
+Missing Endpoint Authentication
+Broken Access Control
+Improper Access Control
+Unvalidated Input

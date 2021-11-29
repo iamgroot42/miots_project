@@ -1,0 +1,4 @@
+Improper Authorization
+Incorrect Authorization
+Missing Authorization
+Broken Access Control

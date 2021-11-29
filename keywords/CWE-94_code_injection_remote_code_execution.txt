@@ -1,0 +1,6 @@
+Code Injection
+Remote Code Execution
+Improper Control of Generation of Code
+Code Evaluation and Injection
+Leverage Executable Code
+Manipulating User-Controlled Variables

@@ -1,0 +1,16 @@
+Cleartext Transmission of Sensitive Information
+Plaintext Transmission of Sensitive Information
+Cleartext Transmission of Sensitive Data
+Plaintext Transmission of Sensitive Data
+Missing Encryption
+Data Transmission without Encryption
+Exposed Data
+Exposed Information
+Information Exposure
+Data Exposure
+Information Leak
+Information Leakage
+Data Leak
+Information Disclosure
+Session Sidejacking
+Interception

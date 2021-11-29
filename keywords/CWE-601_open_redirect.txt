@@ -1,0 +1,5 @@
+Open Redirect
+Redirection to Untrusted Site
+URI Redirector Abuse
+Unvalidated Redirects
+Unvalidated Forwards

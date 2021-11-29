@@ -1,0 +1,16 @@
+Cleartext Storage of Sensitive Information
+Plaintext Storage of Sensitive Information
+Cleartext Storage of Sensitive Data
+Plaintext Storage of Sensitive Data
+Insecure Storage
+Insecure Storage of Sensitive Information
+Insecure Storage of Sensitive Data
+Plaintext Storage of a Password
+Exposed Data
+Exposed Information
+Information Exposure
+Data Exposure
+Information Leak
+Information Leakage
+Data Leak
+Information Disclosure

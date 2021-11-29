@@ -1,0 +1,4 @@
+Authentication Bypass
+Spoofing
+Bypass by Spoofing
+Signature Spoof

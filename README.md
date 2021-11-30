@@ -11,6 +11,7 @@ pip install pydriller
 pip install gensim
 pip install bytecode
 pip install bandit
+pip install gitpython
 ```
 
 ## Preparing Data
@@ -50,6 +51,10 @@ pip install bandit
 `python retrieve_and_dump.py`
 
 10. Generate soft-labels for each file
+
+`bandit --configfile bandit.yaml -f json -ii -o medium_filedump.json -r filedump`
+
+11. Process labels from bandit and save to disk
 
 `python gen_with_soft_labels.py`
 

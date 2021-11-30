@@ -5,3 +5,5 @@ final_data/*
 corpus_dir/*
 filedump/*
 *.bandit.save*
+*.json
+*.pt

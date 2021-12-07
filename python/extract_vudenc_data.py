@@ -16,9 +16,23 @@ class Constants:
   # Repos to skip
   bad_repos = ["h4ppyy/m-mooc", "cjbd/src",
                "pardeep11/frappe", "Benefactors/rosling", "aknoormohamed/engagex-frappe",
-               "aknoormohamed/gsod-community-frappe",
-               "aknoormohamed/srilankan-frappe",
-               "kaitorecca/vafrappe"]
+               "aknoormohamed/gsod-community-frappe", "philarin/Todo",
+               "aknoormohamed/srilankan-frappe", "Renondedju/Uso-Bot",
+               "kaitorecca/vafrappe", "Optimus922/shadowsocks", "attendanceproject/djattendance",
+               "JustDoIt174/Memcrash", "moriarity1/sql", "pyreact0923/Django",
+               "globaleaks/GLBackend-outdated", "LucidUnicorn/BUCSS-CTF-Framework",
+               "HJoentgen/crawler_for_new_users", "AbsoluteVirtue/newsreel", 
+               "wbrxcorp/forgetthespiltmilk", "deepnote/notebook", "globaleaks/GLBackend-outdated",
+               "JuneLUNLV/mynote", "cjbd/swarming_client", "arturojosejr/mtgheirloom",
+               "Halo4356/CSC3428", "r3valkyrie/vishnu", "kelvintsangwk/Software-Engineering-Project",
+               "sjd8078/PDM-Project", "Kuki98/CecoZad-Flask", "starkajs/udacity_fswd_tournament",
+               "BerentM/crimemap", "JulianneCrea/Relational-Database-Ebola-Data",
+               "dandua98/291-Mini-Project-I", "xoes-oca/budget", "RyanYoung25/CS377",
+               "max-neverov/stop", "dsrikrishna/fuzzy-fortnight", "pardeep11/erpnext",
+               "willis62/Bolt", "LoHiiiiiii/FightCollector", "mw10178/ctplot_iw",
+               "mw10178/ctplot-tuto", "cvdv87/cvdv_home_assistant", "bix29/ast",
+               "Wenisatgithub/tng", "glipR/2DGraphics", "KeepyJ/odm", "caowencomeon/tng"
+               ]
 
 
 def get_start_end_commits(datum, filenames):
@@ -88,13 +102,11 @@ def get_start_end_commits(datum, filenames):
 
 
 if __name__ == "__main__":
-    with open("vudenc/sql.json") as f:
+    with open("vudenc/command_injection.json") as f:
         mapping = json.load(f)
 
+    # Pull repos, etc
     for url, v in tqdm(mapping.items()):
-        # print(v.keys())
-        # exit(0)
-
         repo_name = url.split("https://github.com/")[1]
 
         # Skip if bad repo
@@ -109,7 +121,7 @@ if __name__ == "__main__":
         # for commit, datum in v.items():
         #     print(datum.keys())
         #     exit(0)
-    exit(0)
+    # exit(0)
         
     for value in mapping.values():
         for commit_val in value.values():

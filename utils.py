@@ -86,6 +86,7 @@ def matched(str, brackets=('(', ')')):
             return False
     return count == 0
 
+
 def ongoing_if_else(lines):
     # Look at lines in reverse, identify post 'else' and pre 'if' areas
     # Mark them as safe to add junk
@@ -175,7 +176,8 @@ class CFGNode:
         self.children = []
         self.props = {}
 
-    def add_child(self, n): self.children.append(n)
+    def add_child(self, n):
+        self.children.append(n)
 
 
 class CFG:

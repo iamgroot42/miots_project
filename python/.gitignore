@@ -7,3 +7,4 @@ filedump/*
 *.bandit.save*
 *.json
 *.pt
+git_dirs_cache/*

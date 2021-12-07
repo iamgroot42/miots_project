@@ -1,9 +1,9 @@
 """
     Source: https://rahul.gopinath.org/post/2020/08/20/control-flow-bytecode/
 """
-from bytecode import Bytecode, ControlFlowGraph, dump_bytecode
-import dis
-from bytecode import ControlFlowGraph, dump_bytecode
+import utils
+import networkx as nx
+import matplotlib.pyplot as plt
 
 
 if __name__ == "__main__":
@@ -11,13 +11,17 @@ if __name__ == "__main__":
 
     with open(source_py) as f_source:
         source_code = f_source.read()
-
-    byte_code = compile(source_code, source_py, "exec")
-    generator = dis.get_instructions(byte_code)
-
-    bc = Bytecode.from_code(byte_code)
-
-    blocks = ControlFlowGraph.from_bytecode(bc)
-    dump_bytecode(bc)
     
-    # TODO : Represent CFG as meaningful graph structure
+    # Remove comments and docstrings
+    source_code = utils.remove_comments_and_docstrings(source_code)
+    byte_code = compile(source_code, source_py, "exec")
+
+    # Extracf CFG in networkx format
+    v = utils.CFG(byte_code)
+    g = v.to_graph()
+
+    # Visualize CFG
+    nx.draw(g, with_labels=True)
+    plt.axis('off')
+    plt.show()
+    plt.savefig("./augment_cfg.png")

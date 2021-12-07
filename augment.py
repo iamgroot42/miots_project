@@ -53,12 +53,14 @@ def add_random_function(lines, n_times):
         Define random function that does not do any useful compute,
         and then call it randomly from within the file
     """
+    return
 
 
 def add_random_function_call(lines):
     """
         Add library (may or may not be usedf) and make a function call to it
     """
+    return
 
 
 def _interchange_set_fn(lines, op_type=".union"):

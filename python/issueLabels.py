@@ -41,5 +41,7 @@ def main():
 			print(str(iss)+"\t"+label+"\n")
 			f.write(str(iss)+"\t"+label+"\n")
 	f.close();
+
+
 if __name__=="__main__":
 	main()

@@ -7,6 +7,7 @@ import json
 from tqdm import tqdm
 import torch.nn as nn
 from sklearn.model_selection import train_test_split
+import utils
 
 
 def read_crossvul_data(dir):
@@ -20,9 +21,9 @@ def read_crossvul_data(dir):
             continue
         for fp in os.listdir(os.path.join(dir, dp, "py")):
             if fp.startswith("good_"):
-                Y.append(1)
-            else:
                 Y.append(0)
+            else:
+                Y.append(1)
             with open(os.path.join(dir, dp, "py", fp,), "r") as f:
                 X.append(f.read())
     return X, Y
@@ -42,11 +43,30 @@ def read_custom_data(filedir="filedump", label_path="git_mapping.json"):
             X.append(code)
             Y.append(0)
     # Load bad files
-    for fpath in git_mapping["good"]:
+    for fpath in git_mapping["bad"]:
         with open(os.path.join(filedir, fpath), 'r') as f:
             code = f.read()
             X.append(code)
             Y.append(1)
+    return X, Y
+
+
+def read_vudenc_data():
+    """
+        Read data extracted from VUDENC
+    """
+    X, Y = []
+
+    def readfiles(path, label_assign):
+        for fp in os.listdir(path):
+            with open(os.path.join(path, fp), 'r') as f:
+                code = f.read()
+                X.append(code)
+                Y.append(label_assign)
+    
+    # Load good files
+    readfiles("vudenc_raw/after", 0)
+    readfiles("vudenc_raw/before", 1)
     return X, Y
 
 
@@ -73,7 +93,7 @@ def get_model_and_tokenizer(path):
     model = AutoModelForMaskedLM.from_pretrained(
         "huggingface/CodeBERTa-small-v1")
     model = nn.DataParallel(model)
-    model.load_state_dict(ch.load(path))
+    # model.load_state_dict(ch.load(path))
     model.cuda()
     model.eval()
     tokenizer = AutoTokenizer.from_pretrained("huggingface/CodeBERTa-small-v1")
@@ -116,14 +136,28 @@ def get_embedding(code, model, tokenizer):
     return embedding
 
 
+def get_cfg_tree(source_code):
+    """
+        Get graph representation for given codefile
+    """
+    # Remove comments and docstrings
+    source_code = utils.remove_comments_and_docstrings(source_code)
+    byte_code = compile(source_code, source_py, "exec")
+
+    # Extracf CFG in networkx format
+    v = utils.CFG(byte_code)
+    g = v.to_graph()
+    return g
+
+
 def basic_model(dim=768):
     """
         Build basic model
     """
     return nn.Sequential(
-        nn.Linear(dim, 128),
+        nn.Linear(dim, 64),
         nn.ReLU(),
-        nn.Linear(128, 16),
+        nn.Linear(64, 16),
         nn.ReLU(),
         nn.Linear(16, 1),
     )
@@ -219,17 +253,17 @@ if __name__ == "__main__":
     print("[Model] Loading LM model")
     model_path = "relevant_lm.pt"
     lm_model, tokenizer = get_model_and_tokenizer(model_path)
-    # content = open("filedump/1.py").read()
-    # get_embedding(content, lm_model, tokenizer)
 
     # Read CrossVul dataset
     print("[Data] Reading datasets")
     X_1, Y_1 = read_crossvul_data("../crossvul_dataset/dataset_final_sorted")
-    X_2, Y_2 = read_custom_data()
     print("[Data] Label balance: %.2f" % (sum(Y_1) / len(Y_1)))
+    X_2, Y_2 = read_custom_data()
     print("[Data] Label balance: %.2f" % (sum(Y_2) / len(Y_2)))
-    X = X_1 + X_2
-    Y = Y_1 + Y_2
+    X_3, Y_3 = read_vudenc_data()
+    print("[Data] Label balance: %.2f" % (sum(Y_3) / len(Y_3)))
+    X = X_1 + X_2 + X_3
+    Y = Y_1 + Y_2 + Y_3
 
     # Split into train,val data
     print("[Data] Tokenizing dataset and preparing loaders")

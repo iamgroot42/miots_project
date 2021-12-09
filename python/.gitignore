@@ -8,3 +8,4 @@ filedump/*
 *.json
 *.pt
 git_dirs_cache/*
+vudenc_raw/*

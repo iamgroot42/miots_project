@@ -198,6 +198,7 @@ def nextsplit(sourcecode,focus):
         return pos
   return -1
 
+
 def previoussplit(sourcecode,focus):
   splitchars = [" ","\t","\n", ".", ":", "(", ")", "[", "]", "<", ">", "+", "-", "=","\"", "\'","*", "/","\\","~","{","}","!","?","*",";",",","%","&"]
   pos = focus-1
@@ -233,6 +234,7 @@ def getcontextPos(sourcecode,focus,fulllength):
       start = True
 
   return [startcontext,endcontext]
+
 
 def getcontext(sourcecode,focus,fulllength):
   

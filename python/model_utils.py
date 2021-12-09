@@ -69,11 +69,13 @@ class RightNormGraphConv(nn.Module):
 
 class GCN(nn.Module):
     def __init__(self, n_hidden, n_layers,
-                 n_inp=1, n_classes=2, residual=True, dropout=0.5):
+                 n_inp=1, n_classes=2, residual=True, dropout=0.5,
+                 final_layer=True):
         super(GCN, self).__init__()
         self.layers = nn.ModuleList()
         self.residual = residual
         self.drop_p = dropout
+        self.final_layer = final_layer
 
         # input layer
         self.layers.append(
@@ -85,7 +87,8 @@ class GCN(nn.Module):
                 RightNormGraphConv(n_hidden, n_hidden))
 
         # output layer
-        self.final = RightNormGraphConv(n_hidden, n_classes)
+        if self.final_layer:
+            self.final = RightNormGraphConv(n_hidden, n_classes)
         self.activation = nn.ReLU()
         if self.drop_p > 0:
             self.dropout = nn.Dropout(p=dropout)
@@ -97,6 +100,7 @@ class GCN(nn.Module):
                 raise ValueError("Invald interal layer requested")
 
         x = g.ndata['x']
+        # All-1 features
         for i, layer in enumerate(self.layers):
             xo = layer(g, x)
 
@@ -113,7 +117,9 @@ class GCN(nn.Module):
             if i == latent:
                 return x
 
-        return self.final(g, x)
+        if self.final_layer:
+            z = self.final(g, x)
+        return x
 
 
 def get_metrics(y, y_pred, threshold=0.5):
@@ -234,10 +240,6 @@ def train_model(net, ds, args):
         return best_model, (best_f1, best_f1_val)
 
     return net, (tr_f1, te_f1)
-
-
-def save_model(model, split, prop_val, name, prefix=None):
-    pass
 
 
 def get_model(args):

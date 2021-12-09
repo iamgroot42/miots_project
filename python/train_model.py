@@ -8,6 +8,14 @@ from tqdm import tqdm
 import torch.nn as nn
 from sklearn.model_selection import train_test_split
 import utils
+import dgl
+from model_utils import GCN
+
+
+def collate_with_graph(batch):
+    embeddings, graphs, labels = map(list, zip(*batch))
+    batched_graph = dgl.batch(graphs)
+    return ch.stack(embeddings, 0), batched_graph, ch.tensor(labels)
 
 
 def read_crossvul_data(dir):
@@ -55,7 +63,7 @@ def read_vudenc_data():
     """
         Read data extracted from VUDENC
     """
-    X, Y = []
+    X, Y = [], []
 
     def readfiles(path, label_assign):
         for fp in os.listdir(path):
@@ -75,15 +83,18 @@ class BasicDataset(ch.utils.data.Dataset):
         Basic dataset wrapper
     """
 
-    def __init__(self, X, y):
+    def __init__(self, X, X_graphs, y):
         self.X = X
+        self.X_graphs = X_graphs
         self.y = y
 
     def __len__(self):
         return len(self.X)
 
     def __getitem__(self, idx):
-        return self.X[idx], self.y[idx]
+        if self.X_graphs is None:
+            return self.X[idx], self.y[idx]
+        return self.X[idx], self.X_graphs[idx], self.y[idx]
 
 
 def get_model_and_tokenizer(path):
@@ -142,53 +153,91 @@ def get_cfg_tree(source_code):
     """
     # Remove comments and docstrings
     source_code = utils.remove_comments_and_docstrings(source_code)
-    byte_code = compile(source_code, source_py, "exec")
+    byte_code = compile(source_code, "dummy.py", "exec")
 
     # Extracf CFG in networkx format
     v = utils.CFG(byte_code)
     g = v.to_graph()
-    return g
+    dgl_g = dgl.from_networkx(g)
+    # Add self loop
+    dgl_g = dgl.add_self_loop(dgl_g)
+    # Add feature
+    dgl_g.ndata['x'] = ch.ones(dgl_g.num_nodes(), 1)
+    return dgl_g
 
 
-def basic_model(dim=768):
+def basic_model(dim=768, final=True):
     """
         Build basic model
     """
-    return nn.Sequential(
-        nn.Linear(dim, 64),
+    layers = [
+        nn.Linear(dim, 128),
         nn.ReLU(),
-        nn.Linear(64, 16),
+        nn.Linear(128, 16),
         nn.ReLU(),
-        nn.Linear(16, 1),
-    )
+    ]
+    if final:
+        layers.append(nn.Linear(16, 1))
+    return nn.Sequential(*layers)
+
+
+class CombinedModel(ch.nn.Module):
+    def __init__(self, dim=768):
+        super(CombinedModel, self).__init__()
+        self.embed_model = basic_model(dim, final=False)
+        self.graph_model = GCN(n_inp=1, n_hidden=16, n_layers=3, dropout=0.2, residual=True, final_layer=False)
+        self.linear_combine = nn.Sequential(nn.Linear(32, 8), nn.ReLU(), nn.Linear(8, 1))
+    
+    def forward(self, emb, graph):
+        text_emb = self.embed_model(emb)
+        graph_emb = self.graph_model(graph)
+        combined_repr = ch.cat((text_emb, graph_emb), 1)
+        return self.linear_combine(combined_repr)
 
 
 def get_dataset(X, Y, lm_model, tokenizer):
     """
-        Make dataset object using code and labels
+        Make dataset object using code and labels.
+        Also generate graphs (skip files if graphs cannot be generated)
     """
-    X_emb = []
-    for code in tqdm(X):
+    X_emb, X_graphs = [], []
+    iterator = tqdm(X)
+    skip_count = 0
+    for code in iterator:
+        # Get graph
+        if skip_count == 30:
+            break
+        try:
+            graph = get_cfg_tree(code)
+        except Exception as e:
+            print(e)
+            skip_count += 1
+            iterator.set_description(f"Skipped {skip_count} files")
+            continue
+        X_graphs.append(graph)
+        # Get embedding from LM
         embedding = get_embedding(code, lm_model, tokenizer)
         X_emb.append(embedding)
     X_emb = ch.cat(X_emb, 0)
-    ds = BasicDataset(X_emb, Y)
+    if not with_graph:
+        X_graphs = None
+    ds = BasicDataset(X_emb, X_graphs, Y)
     return ds
 
 
-def prepare_loaders(code_train, y_train, code_val, y_val, lm_model, tokenizer, batch_size=32):
+def prepare_loaders(code_train, y_train, code_val, y_val, lm_model, tokenizer, batch_size=32, with_graph=False):
     """
         Make Dataset objects from given data, and then prepare dataloaders
     """
     ds_train = get_dataset(code_train, y_train, lm_model, tokenizer)
     ds_val = get_dataset(code_val, y_val, lm_model, tokenizer)
     # Make loaders
-    train_loader = DataLoader(ds_train, batch_size=batch_size, shuffle=True)
-    val_loader = DataLoader(ds_val, batch_size=batch_size, shuffle=False)
+    train_loader = DataLoader(ds_train, batch_size=batch_size, shuffle=True, collate_fn=collate_with_graph if with_graph else None)
+    val_loader = DataLoader(ds_val, batch_size=batch_size, shuffle=False, collate_fn=collate_with_graph if with_graph else None)
     return train_loader, val_loader
 
 
-def epoch(model, e, loader, optim, is_train=True):
+def epoch(model, e, loader, optim, with_graph=False, is_train=True):
     """
         Single epoch (train or validation)
     """
@@ -205,12 +254,20 @@ def epoch(model, e, loader, optim, is_train=True):
     total_loss, total_items, total_acc = 0, 0, 0
     with ch.set_grad_enabled(is_train):
         for batch in iterator:
-            X, y = batch
+            if with_graph:
+                X, g, y = batch
+                g = g.to('cuda')
+            else:
+                X, y = batch
+
             X = X.cuda()
             y = y.float().cuda()
 
             # Forward pass
-            logits = model(X)[:, 0]
+            if with_graph:
+                logits = model(X, g)[:, 0]
+            else:
+                logits = model(X)[:, 0]
             loss = loss_fn(logits, y)
 
             if is_train:
@@ -234,22 +291,27 @@ def epoch(model, e, loader, optim, is_train=True):
     return total_loss / total_items
 
 
-def train(train_loader, val_loader, epochs=10, lr=1e-2):
+def train(train_loader, val_loader, epochs=10, lr=1e-2, with_graph=False):
     """
         Train model using given data-loaders
     """
     # Build model
-    model = basic_model().cuda()
+    if with_graph:
+        model = CombinedModel().cuda()
+    else:
+        model = basic_model().cuda()
     optim = ch.optim.Adam(model.parameters(), lr=lr)
 
     print("[Env] Training")
     for e in range(1, epochs+1):
-        train_loss = epoch(model, e, train_loader, optim, is_train=True)
-        val_loss = epoch(model, e, val_loader, optim, is_train=False)
+        train_loss = epoch(model, e, train_loader, optim, with_graph=with_graph, is_train=True)
+        val_loss = epoch(model, e, val_loader, optim, with_graph=with_graph, is_train=False)
         print()
 
 
 if __name__ == "__main__":
+    with_graph = True
+
     print("[Model] Loading LM model")
     model_path = "relevant_lm.pt"
     lm_model, tokenizer = get_model_and_tokenizer(model_path)
@@ -271,7 +333,7 @@ if __name__ == "__main__":
         X, Y, test_size=0.2, random_state=42)
     train_loader, test_loader = prepare_loaders(
         X_train, Y_train, X_val, Y_val, lm_model, tokenizer,
-        batch_size=4)
+        batch_size=4, with_graph=with_graph)
 
     # Train model
-    train(train_loader, test_loader, epochs=100, lr=1e-4)
+    train(train_loader, test_loader, epochs=100, lr=1e-4, with_graph=with_graph)
